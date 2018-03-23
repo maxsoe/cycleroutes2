@@ -11,5 +11,12 @@ angular
     controllerAs: 'leafletExCtrl'
   });
 
-function leafletExController() {
+function leafletExController($scope) {
+  angular.extend($scope, {
+    london: {
+      lat: 51.505,
+      lng: -0.09,
+      zoom: 4
+    }
+  });
 };
