@@ -5,11 +5,11 @@ angular
     // template: 'test template'
     templateUrl: 'all-routes/all-routes.template.html',
     css: 'all-routes/all-routes.css',
-    controller: AllRoutesController,
+    controller: allRoutesController,
     controllerAs: 'allRoutesCtrl'
   });
 
-function AllRoutesController(getRoutesListSvc) {
+function allRoutesController(getRoutesListSvc) {
   getRoutesListSvc.getPosts().then(response => {
     this.routes = response.data;
   });
