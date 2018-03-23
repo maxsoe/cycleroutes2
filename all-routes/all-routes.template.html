@@ -1,0 +1,60 @@
+All routes template loaded
+
+<div layout-margin layout-gt-xs="row" layout-align-gt-xs="center start" layout-wrap>
+  <md-card ng-repeat="route in allRoutesCtrl.oldRoutes" layout-gt-xs="column">
+    <!-- <img class="md-card-image" src="img/map/570x190.png" alt="image caption"> -->
+    <!-- <div id="mymap"></div> -->
+    <mini-map></mini-map>
+    <md-card-header>
+      <md-card-avatar>
+        <!-- <md-icon class="md-avatar-icon" md-svg-icon="img/icons/android.svg"></md-icon> -->
+        <img class="md-avatar-icon" src="img/pin/wiggle.png"></img>
+      </md-card-avatar>
+      <md-card-header-text>
+        <div class="md-title" flex>Wiggle Super Series</div>
+        <div class="md-subhead">{{route.created_at}}</div>
+      </md-card-header-text>
+      <md-card-icon-actions layout-gt-xs="row" flex="none" layout-align-gt-xs="center">
+        <md-button class="md-icon-button" aria-label="Favorite">
+          <!-- <md-icon class="" md-svg-icon="img/icons/favorite_border.svg"></md-icon> -->
+        </md-button>
+        <!-- <md-button class="md-icon-button" aria-label="Share">
+          <md-icon md-svg-icon="img/icons/share.svg"></md-icon>
+        </md-button> -->
+      </md-card-icon-actions>
+    </md-card-header>
+    <md-card-content>
+
+      <div class="stats" layout="row" layout-align="space-between none" layout-wrap>
+        <div class="distance">
+          <span class="number md-headline">{{route.distance}}<span class="units secondary-text">{{route.distance}}</span></span>
+          <div class="md-caption hint-text">
+            Distance
+          </div>
+        </div>
+        <div class="elevation">
+          <span class="number md-headline">{{route.elevation_gain}}<span class="units secondary-text">{{route.elevation_gain}}</span></span>
+          <div class="md-caption hint-text">
+            Elevation gain
+          </div>
+        </div>
+        <div class="difficulty">
+          <span class="md-headline">7</span>
+          <span class="out-of">/</span>
+          <span class="md-headline">10</span>
+          <div class="md-caption hint-text">
+            Difficulty
+          </div>
+        </div>
+      </div>
+      <h2 class="md-title"><a href="">{{route.name}}</a></h2>
+      <p class="md-body-2">{{route.description}}</p>
+    </md-card-content>
+    <md-divider></md-divider>
+    <md-card-actions layout="row">
+      <md-button class="md-primary">Action 2</md-button>
+    </md-card-actions>
+  </md-card>
+</div>
+
+<pre>{{allRoutesCtrl.routes | json}}</pre>
