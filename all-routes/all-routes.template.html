@@ -1,14 +1,14 @@
 All routes template loaded
 
 <div layout-margin layout-gt-xs="row" layout-align-gt-xs="center start" layout-wrap>
-  <md-card ng-repeat="route in allRoutesCtrl.oldRoutes" layout-gt-xs="column">
+  <md-card ng-repeat="route in allRoutesCtrl.routes" layout-gt-xs="column">
     <!-- <img class="md-card-image" src="img/map/570x190.png" alt="image caption"> -->
     <!-- <div id="mymap"></div> -->
     <mini-map></mini-map>
     <md-card-header>
       <md-card-avatar>
         <!-- <md-icon class="md-avatar-icon" md-svg-icon="img/icons/android.svg"></md-icon> -->
-        <img class="md-avatar-icon" src="img/pin/wiggle.png"></img>
+        <img class="md-avatar-icon" ng-src="img/pin/{{route.organiser}}.png"></img>
       </md-card-avatar>
       <md-card-header-text>
         <div class="md-title" flex>Wiggle Super Series</div>

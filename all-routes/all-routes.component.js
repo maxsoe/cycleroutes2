@@ -9,10 +9,10 @@ angular
     controllerAs: 'allRoutesCtrl'
   });
 
-function AllRoutesController() {
-  // allRoutesSvc.getPosts().then(response => {
-  //   this.routes = response.data;
-  // });
+function AllRoutesController(getRoutesListSvc) {
+  getRoutesListSvc.getPosts().then(response => {
+    this.routes = response.data;
+  });
 
   this.oldRoutes = [{
       "athlete": {
