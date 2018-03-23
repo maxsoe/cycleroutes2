@@ -6,6 +6,5 @@ var myApp = angular.module('cycleRoutesApp', [
   'ngMaterial',
   'getRoutesListSvc',
   'allRoutes',
-  'leafletEx',
   'gpxOnMap'
 ]);

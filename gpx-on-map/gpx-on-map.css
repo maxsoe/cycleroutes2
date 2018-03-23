@@ -1,9 +1,15 @@
-#map {
+#map,
+#map2 {
   height: 100%;
-  width: 80%;
+  width: 100%;
 }
 
 .map-container {
   height: 200px;
-  width: 200px;
+  width: 100%;
+}
+
+.leaflet-marker-icon {
+  width: 12px;
+  height: 12px;
 }
