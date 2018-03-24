@@ -2,10 +2,7 @@ All routes template loaded
 
 <div layout-margin layout-gt-xs="row" layout-align-gt-xs="center start" layout-wrap>
   <md-card ng-repeat="route in allRoutesCtrl.routes" layout-gt-xs="column">
-    <!-- <img class="md-card-image" src="img/map/570x190.png" alt="image caption"> -->
-    <!-- <div id="mymap"></div> -->
-    <!-- <gpx-on-map gpxFile="allRoutesCtrl.gpxFile"></gpx-on-map> -->
-    <!-- <gpx-on-map gpxfile="allRoutesCtrl.gpxFile[0]"></gpx-on-map> -->
+    <!-- route.gpx does not need curly brackets -->
     <gpx-on-map gpxfile="route.gpx"></gpx-on-map>
     <md-card-header>
       <md-card-avatar>
