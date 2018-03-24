@@ -12,11 +12,18 @@ angular
 function allRoutesController(getRoutesListSvc) {
   getRoutesListSvc.getPosts().then(response => {
     this.routes = response.data;
-    // this.gpxFile = this.routes[0].name;
-    this.gpxFile = "spawn";
-    console.log(this.gpxFile);
+    this.gpxFile = [];
+    // this.gpxFile[0] = this.routes[0].gpx;
+
+    for (i = 0; i < this.routes.length; i++) {
+      this.gpxFile[i] = this.routes[i].gpx;
+      console.log(this.gpxFile[i]);
+    }
+
     // angular.forEach(this.routes, function(value, key) {
     //   // console.log(value.gpx);
+    //   this.gpxFile = value.gpx;
+    //   console.log(this.gpxFile);
     //   // processThisGpx(value.gpx);
     // });
   });
