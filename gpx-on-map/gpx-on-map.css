@@ -13,3 +13,7 @@
   width: 12px;
   height: 12px;
 }
+
+.leaflet-control-zoom {
+  visibility: hidden;
+}
