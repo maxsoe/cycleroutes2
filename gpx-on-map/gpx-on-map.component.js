@@ -1,5 +1,7 @@
 angular
-  .module('gpxOnMap', [])
+  .module('gpxOnMap', [
+    'strReplaceFtl'
+  ])
   .component('gpxOnMap', {
     // template: 'test template'
     templateUrl: 'gpx-on-map/gpx-on-map.template.html',
@@ -15,13 +17,16 @@ angular
 
 function gpxOnMapController() {
   // var vm = this;
-  this.$onInit = function() {
-    console.log('loaded on init');
-    console.log("name of gpxfile is " +this.gpxfile);
+  this.$onChanges = function() {
+    var nameWithDots = this.gpxfile;
+    var mapId = nameWithDots.replace(".gpx", "gpx");
 
-    var map = [];
-    map[0] = L.map('this.gpxfile');
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map[0]);
+
+    console.log("mapId is " +mapId);
+
+    // var map = [];
+    map = L.map(mapId);
+    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
     var gpx = 'data/gpx/test.gpx'; // URL to your GPX file or the GPX itself
     var g = new L.GPX(gpx, {
       async: true,
@@ -33,15 +38,15 @@ function gpxOnMapController() {
     })
 
     g.on('loaded', function(e) {
-      map[0].fitBounds(e.target.getBounds());
-    }).addTo(map[0]);
+      map.fitBounds(e.target.getBounds());
+    }).addTo(map);
 
-    map[0].touchZoom.disable();
-    map[0].doubleClickZoom.disable();
-    map[0].scrollWheelZoom.disable();
-    map[0].boxZoom.disable();
-    map[0].keyboard.disable();
-    map[0].dragging.disable();
+    map.touchZoom.disable();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
+    map.boxZoom.disable();
+    map.keyboard.disable();
+    map.dragging.disable();
 
   };
 
