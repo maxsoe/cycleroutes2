@@ -25,41 +25,48 @@ function gpxOnMapController($timeout) {
     var nameWithDots = this.gpxfile;
     var mapId = nameWithDots.replace(".gpx", "gpx");
     console.log("Component: mapId is " + mapId);
-  }
 
-  function insertMap() {
+
+    function insertMap() {
+      $timeout(function() {
+
+        console.log("insertMap: mapId is " + mapId);
+        var map = [];
+        map = L.map(document.getElementById(mapId));
+
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+        // var gpx = 'data/gpx/test.gpx';
+
+        var dataFolder = 'data/gpx/';
+        var gpx = dataFolder.concat(nameWithDots); // URL to your GPX file or the GPX itself
+        var g = new L.GPX(gpx, {
+          async: true,
+          marker_options: {
+            startIconUrl: 'gpx-on-map/marker/pin-icon-start.png',
+            endIconUrl: 'gpx-on-map/marker/pin-icon-end.png',
+            shadowUrl: 'gpx-on-map/marker/pin-shadow.png'
+          }
+        })
+
+        g.on('loaded', function(e) {
+          map.fitBounds(e.target.getBounds());
+        }).addTo(map);
+
+        map.touchZoom.disable();
+        map.doubleClickZoom.disable();
+        map.scrollWheelZoom.disable();
+        map.boxZoom.disable();
+        map.keyboard.disable();
+        map.dragging.disable();
+
+      });
+    };
+
     $timeout(function() {
-    map = L.map(document.getElementById('testgpx'));
-
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
-    var gpx = 'data/gpx/test.gpx'; // URL to your GPX file or the GPX itself
-    var g = new L.GPX(gpx, {
-      async: true,
-      marker_options: {
-        startIconUrl: 'gpx-on-map/marker/pin-icon-start.png',
-        endIconUrl: 'gpx-on-map/marker/pin-icon-end.png',
-        shadowUrl: 'gpx-on-map/marker/pin-shadow.png'
-      }
-    })
-
-    g.on('loaded', function(e) {
-      map.fitBounds(e.target.getBounds());
-    }).addTo(map);
-
-    map.touchZoom.disable();
-    map.doubleClickZoom.disable();
-    map.scrollWheelZoom.disable();
-    map.boxZoom.disable();
-    map.keyboard.disable();
-    map.dragging.disable();
-
+      console.log('DOM ready');
     });
-  };
 
-  $timeout(function() {
-    console.log('DOM ready');
-  });
+    insertMap();
 
-  insertMap();
-
+  }
 };
