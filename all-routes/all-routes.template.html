@@ -26,13 +26,13 @@ All routes template loaded
 
       <div class="stats" layout="row" layout-align="space-between none" layout-wrap>
         <div class="distance">
-          <span class="number md-headline">{{route.distance}}<span class="units secondary-text">m</span></span>
+          <span class="number md-headline">{{route.distance | numberConversion}}<span class="units secondary-text">{{route.distance | numberUnits}}</span></span>
           <div class="md-caption hint-text">
             Distance
           </div>
         </div>
         <div class="elevation">
-          <span class="number md-headline">{{route.elevation_gain}}<span class="units secondary-text">m</span></span>
+          <span class="number md-headline">{{route.elevation_gain | number:2}}<span class="units secondary-text">m</span></span>
           <div class="md-caption hint-text">
             Elevation gain
           </div>
