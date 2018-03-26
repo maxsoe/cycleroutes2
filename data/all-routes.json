@@ -1,7 +1,7 @@
 [{
     "created_at": "2017-03-23",
     "gpx": "test.gpx",
-    "organiser": "wiggle",
+    "organiser": "Wiggle",
     "name": "Selling seashells on the seashore",
     "description": "Revised from 100km down to 80km. Original ride is - Selling seashells on the seashore - 100 km ",
     "distance": "80583.2956344017",
@@ -12,12 +12,23 @@
   {
     "created_at": "2016-04-15",
     "gpx": "gpx2.gpx",
-    "organiser": "brewin",
+    "organiser": "Brewin",
     "name": "Longer and stronger with The Men of Kent",
     "details": "A longer ride through Kent to lunch at Rye Harbour#CTC",
     "distance": "79479.78901932108",
     "elevation": "622.672495385436",
     "difficulty": "7",
     "url": "https://maps.openrouteservice.org/directions?n1=52.204059&n2=0.135671&n3=17&a=51.508475,-0.104413,52.204059,0.135671&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2016-03-25",
+    "gpx": "newforestshort.gpx",
+    "organiser": "UKCE",
+    "name": "Brewin Dolphin New Forest Summer Sportive - Short route",
+    "details": "A longer ride through Kent to lunch at Rye Harbour#CTC",
+    "distance": "74320",
+    "elevation": "517",
+    "difficulty": "3",
+    "url": "https://maps.openrouteservice.org/directions?n1=50.785753&n2=-1.520576&n3=12&a=50.891353,-1.526563,50.880727,-1.488647,50.855376,-1.469421,50.845351,-1.488647,50.827301,-1.566925,50.823316,-1.579328,50.80702,-1.637306,50.772076,-1.658249,50.784233,-1.578941,50.779458,-1.539803,50.765345,-1.538773,50.767517,-1.465302,50.777287,-1.446075,50.795194,-1.422215,50.845622,-1.451397,50.878127,-1.475945,50.891367,-1.525726&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
 ]

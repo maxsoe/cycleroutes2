@@ -49,7 +49,10 @@ function gpxOnMapController($timeout) {
         })
 
         g.on('loaded', function(e) {
-          map.fitBounds(e.target.getBounds());
+          var fileInfo = e.target;
+          map.fitBounds(fileInfo.getBounds());
+
+          console.log(fileInfo.get_name());
         }).addTo(map);
 
         map.touchZoom.disable();
