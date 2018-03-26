@@ -3,7 +3,8 @@ angular
   .module('allRoutes', [
     'getRoutesListSvc',
     'numberConversionFtl',
-    'numberUnitsFtl'
+    'numberUnitsFtl',
+    'organiserNameFtl'
   ])
   .component('allRoutes', {
     // template: 'test template'
