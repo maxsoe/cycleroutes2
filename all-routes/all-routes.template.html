@@ -1,5 +1,24 @@
 <div layout-margin layout-gt-xs="row" layout-align-gt-xs="center start" layout-wrap>
   <md-card ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'" layout-gt-xs="column">
+    <md-card-header>
+      <md-card-avatar>
+        <!-- <md-icon class="md-avatar-icon" md-svg-icon="img/icons/android.svg"></md-icon> -->
+        <img class="md-avatar-icon" ng-src="img/pin/{{route.organiser}}.png"></img>
+        <md-tooltip md-direction="right">{{route.organiser | organiserName}}</md-tooltip>
+      </md-card-avatar>
+      <md-card-header-text>
+        <div class="md-title" flex>{{route.name}}</div>
+        <div class="md-subhead">{{route.organiser | organiserName}} - {{route.created_at | date:'yyyy-MM-dd'}}</div>
+      </md-card-header-text>
+      <md-card-icon-actions layout-gt-xs="row" flex="none" layout-align-gt-xs="center">
+        <md-button class="md-icon-button" aria-label="Favorite">
+          <!-- <md-icon class="" md-svg-icon="img/icons/favorite_border.svg"></md-icon> -->
+        </md-button>
+        <!-- <md-button class="md-icon-button" aria-label="Share">
+          <md-icon md-svg-icon="img/icons/share.svg"></md-icon>
+        </md-button> -->
+      </md-card-icon-actions>
+    </md-card-header>
     <!-- route.gpx does not need curly brackets -->
     <gpx-on-map gpxfile="route.gpx"></gpx-on-map>
     <md-card-content>
@@ -26,28 +45,10 @@
           </div>
         </div>
       </div>
-      <h2 class="md-title">{{route.name}}</h2>
-      <p class="md-body-2">{{route.description}}</p>
+      <!-- <h2 class="md-title">{{route.name}}</h2> -->
+      <p class="md-body-1">{{route.description}}</p>
       <!-- <div>all-routes.template: GPX from json is {{route.gpx}}</div> -->
     </md-card-content>
-    <md-card-header>
-      <md-card-avatar>
-        <!-- <md-icon class="md-avatar-icon" md-svg-icon="img/icons/android.svg"></md-icon> -->
-        <img class="md-avatar-icon" ng-src="img/pin/{{route.organiser}}.png"></img>
-      </md-card-avatar>
-      <md-card-header-text>
-        <div class="md-title" flex>{{route.organiser | organiserName}}</div>
-        <div class="md-subhead">{{route.created_at}}</div>
-      </md-card-header-text>
-      <md-card-icon-actions layout-gt-xs="row" flex="none" layout-align-gt-xs="center">
-        <md-button class="md-icon-button" aria-label="Favorite">
-          <!-- <md-icon class="" md-svg-icon="img/icons/favorite_border.svg"></md-icon> -->
-        </md-button>
-        <!-- <md-button class="md-icon-button" aria-label="Share">
-          <md-icon md-svg-icon="img/icons/share.svg"></md-icon>
-        </md-button> -->
-      </md-card-icon-actions>
-    </md-card-header>
     <md-divider></md-divider>
     <md-card-actions layout="row">
       <md-button class="md-primary" ng-href="{{route.url}}">Full details</md-button>
