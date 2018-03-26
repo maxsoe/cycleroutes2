@@ -17,13 +17,15 @@ angular
   });
 
 function gpxOnMapController($timeout) {
-  this.$onInit = function() {
+  this.$onInit = $onInit;
+
+  function $onInit() {
     var nameWithDots = this.gpxfile;
     var mapId = nameWithDots.replace(".gpx", "gpx");
     // console.log("Component: mapId is " + mapId);
 
-    $timeout (function() {
-        insertMap(mapId, nameWithDots);
+    $timeout(function() {
+      insertMap(mapId, nameWithDots);
     });
   };
 
