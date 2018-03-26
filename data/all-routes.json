@@ -74,5 +74,18 @@
     "elevation_gain": "2090",
     "difficulty": "8",
     "url": ""
+  },
+  {
+    "created_at": "2017-08-14T20:11:39Z",
+    "gpx": "croydontorichmondstationaroads.gpx",
+    "organiser": "roo",
+    "name": "Croydon to richmond station - A roads",
+    "description": "Very flat, but uses A roads",
+    "distance": "2111",
+    "elevation_gain": "121",
+    "difficulty": "3",
+    "url": ""
   }
+
+
 ]
