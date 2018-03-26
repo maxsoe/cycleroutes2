@@ -22,6 +22,9 @@ angular
         case 'sigma':
           return ("Sigma Sport Challenge Series")
           break;
+        case 'ukce':
+          return ("UK Cycling Events")
+          break;
         case 'wiggle':
           return ("Wiggle Super Series")
           break;
