@@ -32,8 +32,9 @@ function gpxOnMapController($timeout) {
     function insertMap() {
       // console.log("insertMap: mapId is " + mapId);
       var map = [];
+      var mapTileLayer = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
       map = L.map(document.getElementById(mapId));
-      L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+      mapTileLayer.addTo(map);
 
       var dataFolder = 'data/gpx/';
       var gpxFile = dataFolder.concat(nameWithDots); // URL to your GPX file or the GPX itself
@@ -46,11 +47,12 @@ function gpxOnMapController($timeout) {
         }
       };
       var gpxLayer = new L.GPX(gpxFile, gpxLayerOptions);
-      gpxLayer.on('loaded', function(e) {
+      var loadedGpxLayer = gpxLayer.on('loaded', function(e) {
         var fileInfo = e.target;
         map.fitBounds(fileInfo.getBounds());
         // console.log(fileInfo.get_name());
-      }).addTo(map);
+      });
+      loadedGpxLayer.addTo(map);
 
       map.touchZoom.disable();
       map.doubleClickZoom.disable();
