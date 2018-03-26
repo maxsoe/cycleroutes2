@@ -25,6 +25,10 @@ function gpxOnMapController($timeout) {
     var mapId = nameWithDots.replace(".gpx", "gpx");
     // console.log("Component: mapId is " + mapId);
 
+    $timeout (function() {
+        insertMap();
+    });
+
     function insertMap() {
       // console.log("insertMap: mapId is " + mapId);
       var map = [];
@@ -32,17 +36,16 @@ function gpxOnMapController($timeout) {
       L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
       var dataFolder = 'data/gpx/';
-      var gpx = dataFolder.concat(nameWithDots); // URL to your GPX file or the GPX itself
-
-      var gpxLayer = new L.GPX(gpx, {
+      var gpxFile = dataFolder.concat(nameWithDots); // URL to your GPX file or the GPX itself
+      var gpxLayerOptions = {
         async: true,
         marker_options: {
           startIconUrl: 'gpx-on-map/marker/pin-icon-start.png',
           endIconUrl: 'gpx-on-map/marker/pin-icon-end.png',
           shadowUrl: 'gpx-on-map/marker/pin-shadow.png'
         }
-      })
-
+      };
+      var gpxLayer = new L.GPX(gpxFile, gpxLayerOptions);
       gpxLayer.on('loaded', function(e) {
         var fileInfo = e.target;
         map.fitBounds(fileInfo.getBounds());
@@ -56,15 +59,5 @@ function gpxOnMapController($timeout) {
       map.keyboard.disable();
       map.dragging.disable();
     };
-
-    // $timeout(function() {
-    //   console.log('DOM ready');
-    // });
-
-    $timeout (function() {
-        insertMap();
-    });
-
-
-  }
+  };
 };
