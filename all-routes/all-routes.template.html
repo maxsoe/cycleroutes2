@@ -26,13 +26,13 @@ All routes template loaded
 
       <div class="stats" layout="row" layout-align="space-between none" layout-wrap>
         <div class="distance">
-          <span class="number md-headline">{{route.distance}}<span class="units secondary-text">{{route.distance}}</span></span>
+          <span class="number md-headline">{{route.distance}}<span class="units secondary-text">m</span></span>
           <div class="md-caption hint-text">
             Distance
           </div>
         </div>
         <div class="elevation">
-          <span class="number md-headline">{{route.elevation_gain}}<span class="units secondary-text">{{route.elevation_gain}}</span></span>
+          <span class="number md-headline">{{route.elevation_gain}}<span class="units secondary-text">m</span></span>
           <div class="md-caption hint-text">
             Elevation gain
           </div>
@@ -48,7 +48,7 @@ All routes template loaded
       </div>
       <h2 class="md-title"><a href="">{{route.name}}</a></h2>
       <p class="md-body-2">{{route.description}}</p>
-      <div>all-routes.template: GPX from json is {{route.gpx}}</div>
+      <!-- <div>all-routes.template: GPX from json is {{route.gpx}}</div> -->
     </md-card-content>
     <md-divider></md-divider>
     <md-card-actions layout="row">
