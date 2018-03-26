@@ -1,7 +1,7 @@
 All routes template loaded
 
 <div layout-margin layout-gt-xs="row" layout-align-gt-xs="center start" layout-wrap>
-  <md-card ng-repeat="route in allRoutesCtrl.routes" layout-gt-xs="column">
+  <md-card ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'" layout-gt-xs="column">
     <!-- route.gpx does not need curly brackets -->
     <gpx-on-map gpxfile="route.gpx"></gpx-on-map>
     <md-card-content>
@@ -57,4 +57,4 @@ All routes template loaded
   </md-card>
 </div>
 
-<pre>{{allRoutesCtrl.routes | json}}</pre>
+<!-- <pre>{{allRoutesCtrl.routes | json}}</pre> -->
