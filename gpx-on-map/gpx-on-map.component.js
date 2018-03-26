@@ -17,49 +17,46 @@ angular
   });
 
 function gpxOnMapController($timeout) {
-
-
-
   this.$onInit = function() {
     var nameWithDots = this.gpxfile;
     var mapId = nameWithDots.replace(".gpx", "gpx");
     // console.log("Component: mapId is " + mapId);
 
     $timeout (function() {
-        insertMap();
+        insertMap(mapId, nameWithDots);
     });
+  };
 
-    function insertMap() {
-      // console.log("insertMap: mapId is " + mapId);
-      var map = [];
-      var mapTileLayer = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
-      map = L.map(document.getElementById(mapId));
-      mapTileLayer.addTo(map);
+  function insertMap(mapId, nameWithDots) {
+    // console.log("insertMap: mapId is " + mapId);
+    var map = [];
+    var mapTileLayer = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+    map = L.map(document.getElementById(mapId));
+    mapTileLayer.addTo(map);
 
-      var dataFolder = 'data/gpx/';
-      var gpxFile = dataFolder.concat(nameWithDots); // URL to your GPX file or the GPX itself
-      var gpxLayerOptions = {
-        async: true,
-        marker_options: {
-          startIconUrl: 'gpx-on-map/marker/pin-icon-start.png',
-          endIconUrl: 'gpx-on-map/marker/pin-icon-end.png',
-          shadowUrl: 'gpx-on-map/marker/pin-shadow.png'
-        }
-      };
-      var gpxLayer = new L.GPX(gpxFile, gpxLayerOptions);
-      var loadedGpxLayer = gpxLayer.on('loaded', function(e) {
-        var fileInfo = e.target;
-        map.fitBounds(fileInfo.getBounds());
-        // console.log(fileInfo.get_name());
-      });
-      loadedGpxLayer.addTo(map);
-
-      map.touchZoom.disable();
-      map.doubleClickZoom.disable();
-      map.scrollWheelZoom.disable();
-      map.boxZoom.disable();
-      map.keyboard.disable();
-      map.dragging.disable();
+    var dataFolder = 'data/gpx/';
+    var gpxFile = dataFolder.concat(nameWithDots); // URL to your GPX file or the GPX itself
+    var gpxLayerOptions = {
+      async: true,
+      marker_options: {
+        startIconUrl: 'gpx-on-map/marker/pin-icon-start.png',
+        endIconUrl: 'gpx-on-map/marker/pin-icon-end.png',
+        shadowUrl: 'gpx-on-map/marker/pin-shadow.png'
+      }
     };
+    var gpxLayer = new L.GPX(gpxFile, gpxLayerOptions);
+    var loadedGpxLayer = gpxLayer.on('loaded', function(e) {
+      var fileInfo = e.target;
+      map.fitBounds(fileInfo.getBounds());
+      // console.log(fileInfo.get_name());
+    });
+    loadedGpxLayer.addTo(map);
+
+    map.touchZoom.disable();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
+    map.boxZoom.disable();
+    map.keyboard.disable();
+    map.dragging.disable();
   };
 };
