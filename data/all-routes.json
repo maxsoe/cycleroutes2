@@ -1,7 +1,7 @@
 [{
     "created_at": "2017-03-23",
     "gpx": "test.gpx",
-    "organiser": "Wiggle",
+    "organiser": "wiggle",
     "name": "Selling seashells on the seashore",
     "description": "Revised from 100km down to 80km. Original ride is - Selling seashells on the seashore - 100 km ",
     "distance": "80583.2956344017",
@@ -12,7 +12,7 @@
   {
     "created_at": "2016-04-15",
     "gpx": "gpx2.gpx",
-    "organiser": "Brewin",
+    "organiser": "brewin",
     "name": "Longer and stronger with The Men of Kent",
     "description": "A longer ride through Kent to lunch at Rye Harbour#CTC",
     "distance": "79479.78901932108",
@@ -23,7 +23,7 @@
   {
     "created_at": "2016-03-25",
     "gpx": "newforestshort.gpx",
-    "organiser": "UKCE",
+    "organiser": "ukce",
     "name": "Brewin Dolphin New Forest Summer Sportive - Short route",
     "description": "A longer ride through Kent to lunch at Rye Harbour#CTC",
     "distance": "74320",

@@ -1,6 +1,7 @@
 // Register `allRoutes` component, along with its associated controller and template
 angular
   .module('allRoutes', [
+    'getRoutesListSvc',
     'numberConversionFtl',
     'numberUnitsFtl'
   ])

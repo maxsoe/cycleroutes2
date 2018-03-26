@@ -4,7 +4,6 @@ var myApp = angular.module('cycleRoutesApp', [
   'angularCSS',
   'ui.router',
   'ngMaterial',
-  'getRoutesListSvc',
   'allRoutes',
   'gpxOnMap'
 ]);
