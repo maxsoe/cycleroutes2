@@ -21,17 +21,6 @@
     "url": "https://maps.openrouteservice.org/directions?n1=52.204059&n2=0.135671&n3=17&a=51.508475,-0.104413,52.204059,0.135671&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
-    "created_at": "2016-03-25",
-    "gpx": "newforestshort.gpx",
-    "organiser": "ukce",
-    "name": "Brewin Dolphin New Forest Summer Sportive - Short route",
-    "description": "A longer ride through Kent to lunch at Rye Harbour#CTC",
-    "distance": "74320",
-    "elevation_gain": "517",
-    "difficulty": "3",
-    "url": "https://maps.openrouteservice.org/directions?n1=50.785753&n2=-1.520576&n3=12&a=50.891353,-1.526563,50.880727,-1.488647,50.855376,-1.469421,50.845351,-1.488647,50.827301,-1.566925,50.823316,-1.579328,50.80702,-1.637306,50.772076,-1.658249,50.784233,-1.578941,50.779458,-1.539803,50.765345,-1.538773,50.767517,-1.465302,50.777287,-1.446075,50.795194,-1.422215,50.845622,-1.451397,50.878127,-1.475945,50.891367,-1.525726&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
-  },
-  {
     "created_at": "2017-11-07T20:11:39Z",
     "gpx": "3.gpx",
     "organiser": "ctc",
@@ -77,7 +66,7 @@
   },
   {
     "created_at": "2017-08-14T20:11:39Z",
-    "gpx": "croydontorichmondstationaroads.gpx",
+    "gpx": "7.gpx",
     "organiser": "roo",
     "name": "Croydon to richmond station - A roads",
     "description": "Very flat, but uses A roads",
@@ -85,7 +74,39 @@
     "elevation_gain": "121",
     "difficulty": "3",
     "url": ""
+  },
+  {
+    "created_at": "2016-03-25",
+    "gpx": "8.gpx",
+    "organiser": "brewin",
+    "name": "New Forest Summer Sportive - Short route",
+    "description": "Short route for the Brewin Dolphin New Forest Summer Sportive",
+    "distance": "74320",
+    "elevation_gain": "517",
+    "difficulty": "3",
+    "url": "https://maps.openrouteservice.org/directions?n1=50.785753&n2=-1.520576&n3=12&a=50.891353,-1.526563,50.880727,-1.488647,50.855376,-1.469421,50.845351,-1.488647,50.827301,-1.566925,50.823316,-1.579328,50.80702,-1.637306,50.772076,-1.658249,50.784233,-1.578941,50.779458,-1.539803,50.765345,-1.538773,50.767517,-1.465302,50.777287,-1.446075,50.795194,-1.422215,50.845622,-1.451397,50.878127,-1.475945,50.891367,-1.525726&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2016-10-23T20:11:39Z",
+    "gpx": "9.gpx",
+    "organiser": "ctc",
+    "name": "Bedford with N Bloom",
+    "description": "Roads: Very smooth except for two 100 metre bits of gravel. There are always potholes in the UK unfortunately.Cars: Almost none except for 100 metres along an A road. Some cars at the end of the ride near the train station.Terrain: Despite the graph on Strava, the terrain is mostly flat.",
+    "distance": "90880",
+    "elevation_gain": "759",
+    "difficulty": "6",
+    "url": ""
+  },
+  {
+    "created_at": "2018-01-23T20:11:39Z",
+    "gpx": "leith-hill-and-box-hill-combo.gpx",
+    "organiser": "roo",
+    "name": "Leith Hill and Box Hill combo",
+    "description": "First tackling Leith Hill and then Box Hill",
+    "distance": "0",
+    "elevation_gain": "0",
+    "difficulty": "8",
+    "url": ""
   }
-
 
 ]

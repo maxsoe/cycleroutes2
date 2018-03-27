@@ -9,7 +9,7 @@ angular
         output = (input / 1000).toFixed(2);
       } else {
         // leave the number as metres
-        output = input.toFixed(2);
+        output = input;
       }
       return (output);
     };
