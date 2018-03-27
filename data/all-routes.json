@@ -1,8 +1,8 @@
 [{
-    "created_at": "2017-03-23",
-    "gpx": "test.gpx",
-    "organiser": "wiggle",
-    "name": "Selling seashells on the seashore",
+    "created_at": "2017-11-07",
+    "gpx": "1.gpx",
+    "organiser": "ctc",
+    "name": "Selling seashells on the seashore (80km version)",
     "description": "Revised from 100km down to 80km. Original ride is - Selling seashells on the seashore - 100 km ",
     "distance": "80583.2956344017",
     "elevation_gain": "642.8938747155211",
@@ -10,9 +10,9 @@
     "url": "https://maps.openrouteservice.org/directions?n1=50.844792&n2=-0.138622&n3=17&a=51.508475,-0.104413,50.844792,-0.138622&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
-    "created_at": "2016-04-15",
-    "gpx": "gpx2.gpx",
-    "organiser": "brewin",
+    "created_at": "2017-11-07",
+    "gpx": "2.gpx",
+    "organiser": "ctc",
     "name": "Longer and stronger with The Men of Kent",
     "description": "A longer ride through Kent to lunch at Rye Harbour#CTC",
     "distance": "79479.78901932108",
