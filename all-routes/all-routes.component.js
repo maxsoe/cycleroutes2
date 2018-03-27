@@ -4,7 +4,8 @@ angular
     'getRoutesListSvc',
     'numberConversionFtl',
     'numberUnitsFtl',
-    'organiserNameFtl'
+    'organiserNameFtl',
+    'organiserIconFtl'
   ])
   .component('allRoutes', {
     // template: 'test template'
