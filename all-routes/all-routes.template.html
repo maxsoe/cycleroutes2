@@ -15,7 +15,7 @@
           </div>
         </div>
         <div class="elevation">
-          <span class="number md-body-2">{{route.elevation_gain | number:2}}<span class="units secondary-text">m</span></span>
+          <span class="number md-body-2">{{route.elevation_gain | number:0}}<span class="units secondary-text">m</span></span>
           <div class="md-caption hint-text">
             Elevation gain
           </div>
@@ -31,7 +31,7 @@
       </div>
     </md-card-content>
     <gpx-on-map gpxfile="route.gpx"></gpx-on-map>
-    
+
     <md-card-header>
       <md-card-avatar>
         <!-- <md-icon class="md-avatar-icon" md-svg-icon="img/icons/android.svg"></md-icon> -->
