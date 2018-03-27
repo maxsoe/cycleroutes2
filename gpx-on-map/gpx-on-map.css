@@ -1,5 +1,6 @@
 gpx-on-map {
   z-index: 1;
+  cursor: pointer;
 }
 
 .map-container {
