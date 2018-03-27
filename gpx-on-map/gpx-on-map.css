@@ -11,11 +11,6 @@ gpx-on-map {
   display: none;
 }
 
-.map {
-  text-align: center;
-  line-height: 200px;
-}
-
 .leaflet-control-attribution.leaflet-control {
   display: none;
 }
