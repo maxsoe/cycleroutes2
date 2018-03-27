@@ -7,11 +7,15 @@ gpx-on-map {
   width: 100%;
 }
 
-.leaflet-marker-icon {
-  width: 12px;
-  height: 12px;
+.leaflet-control-zoom {
+  display: none;
 }
 
-.leaflet-control-zoom {
-  visibility: hidden;
+.map {
+  text-align: center;
+  line-height: 200px;
+}
+
+.leaflet-control-attribution.leaflet-control {
+  display: none;
 }
