@@ -1,5 +1,5 @@
 md-card-header {
-  margin-top: 16px;
+  margin-top: 8px;
 }
 
 md-card-header-text {
@@ -7,8 +7,21 @@ md-card-header-text {
   text-align: center;
 }
 
+md-card-header-text .md-caption {
+  color: rgba(0,0,0,0.54);
+  margin-top: 12px;
+}
+
+all-routes md-card md-card-content {
+  padding-top: 8px;
+}
+
 .stats {
   color: #1b5e20;
+}
+
+.hint-text {
+  color: #c49000;
 }
 
 md-card-content .description {
