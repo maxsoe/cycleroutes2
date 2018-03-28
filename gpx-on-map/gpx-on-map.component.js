@@ -33,7 +33,17 @@ function gpxOnMapController($timeout) {
     // console.log("insertMap: mapId is " + mapId);
     var map = [];
     var mapTileLayer = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
-    map = L.map(document.getElementById(mapId));
+    var mapOptions = {
+      attributionControl: false,
+      boxZoom: false,
+      doubleClickZoom: false,
+      dragging: false,
+      keyboard: false,
+      scrollWheelZoom: false,
+      touchZoom: false,
+      zoomControl: false
+    };
+    map = L.map(document.getElementById(mapId),mapOptions);
     mapTileLayer.addTo(map);
 
     var dataFolder = 'data/gpx/';
@@ -65,12 +75,5 @@ function gpxOnMapController($timeout) {
       // console.log(fileInfo.get_name());
     });
     loadedGpxLayer.addTo(map);
-
-    map.touchZoom.disable();
-    map.doubleClickZoom.disable();
-    map.scrollWheelZoom.disable();
-    map.boxZoom.disable();
-    map.keyboard.disable();
-    map.dragging.disable();
   };
 };
