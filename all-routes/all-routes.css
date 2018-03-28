@@ -1,4 +1,3 @@
-
 md-card-header {
   margin-top: 16px;
 }
@@ -27,25 +26,34 @@ md-divider.with-padding {
 md-card-footer organiser {
   display: inline-flex !important;
   padding-right: 16px;
+  margin-left: 16px;
 
-  background: rgb(224,224,224);
-  border-radius: 16px;
+  background: rgb(224, 224, 224);
+  border-radius: 0 16px 16px 0;
   font-size: 13px;
   height: 32px;
   line-height: 32px;
-
 }
 
-md-card-footer organiser .avatar-container {
+md-card-footer organiser .avatar-icon {
+  position: relative;
+  margin-left: -16px;
+  margin-right: 8px;
+
+  background: rgb(224, 224, 224);
+  /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
+  /* background-image: url('http://i.stack.imgur.com/Dj7eP.jpg'); */
+  /* make a square container */
+  width: 32px;
+  height: 32px;
+  /* fill the container, preserving aspect ratio, and cropping to fit */
+  background-size: cover;
+  /* center the image vertically and horizontally */
+  background-position: top center;
+  /* round the edges to a circle with border radius 1/2 container size */
   border-radius: 50%;
 }
-md-card-footer organiser img.md-avatar-icon {
-  padding-right: 8px;
-  height: 32px;
-  width: 32px;
 
-  border-radius: 10px;
-}
-md-card-footer organiser+.md-caption{
+md-card-footer organiser+.md-caption {
   margin-top: 6px;
 }

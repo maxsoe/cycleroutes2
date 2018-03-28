@@ -38,8 +38,8 @@
     <md-card-footer layout="column" layout-align="center center">
       <organiser layout="row">
         <!-- <md-icon class="md-avatar-icon" md-svg-icon="img/icons/android.svg"></md-icon> -->
-        <div class="avatar-container">
-          <img class="md-avatar-icon" ng-src="img/pin/{{route.organiser | organiserIcon}}.png"></img>
+        <div class="avatar-icon" ng-style="{'background-image':'url(img/pin/{{route.organiser | organiserIcon}}.png)'}">
+          <!-- <img class="avatar-icon" ng-src="img/pin/{{route.organiser | organiserIcon}}.png"></img> -->
         </div>
         <span>{{route.organiser | organiserName}}</span>
 
