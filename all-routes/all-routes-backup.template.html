@@ -1,12 +1,9 @@
 <div layout-margin layout-gt-xs="row" layout-align-gt-xs="center start" layout-wrap>
-  <md-card ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'">
-    <a ng-href="{{route.url}}">
-      <gpx-on-map gpxfile="route.gpx"></gpx-on-map>
-    </a>
+  <md-card ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'" layout-gt-xs="column">
     <md-card-header>
       <md-card-header-text>
         <span class="md-title">{{route.name}}</span>
-        <!-- <span class="md-subhead" ng-if="route.description">{{route.description}}</span> -->
+        <span class="md-subhead" ng-if="route.description">{{route.description}}</span>
       </md-card-header-text>
     </md-card-header>
     <md-card-content>
@@ -32,20 +29,18 @@
           </div>
         </div>
       </div>
-      <p class="md-body-1 description">{{route.description}}</p>
     </md-card-content>
-    <md-divider class="with-padding"></md-divider>
-    <md-card-footer layout="column" layout-align="center center">
-      <organiser layout="row">
+    <a ng-href="{{route.url}}"><gpx-on-map gpxfile="route.gpx"></gpx-on-map></a>
+
+    <md-card-header>
+      <md-card-avatar>
         <!-- <md-icon class="md-avatar-icon" md-svg-icon="img/icons/android.svg"></md-icon> -->
-        <div class="avatar-container">
-          <img class="md-avatar-icon" ng-src="img/pin/{{route.organiser | organiserIcon}}.png"></img>
-        </div>
-        <span>{{route.organiser | organiserName}}</span>
-
-      </organiser>
-      <div class="md-caption">{{route.created_at | date:'dd MMM yyyy'}}</div>
-
+        <img class="md-avatar-icon" ng-src="img/pin/{{route.organiser | organiserIcon}}.png"></img>
+      </md-card-avatar>
+      <md-card-header-text>
+        <div class="md-title" flex>{{route.organiser | organiserName}}</div>
+        <div class="md-subhead">{{route.created_at | date:'dd MMM yyyy'}}</div>
+      </md-card-header-text>
       <md-card-icon-actions hide-xs layout-gt-xs="row" flex="none" layout-align-gt-xs="center">
         <md-button class="md-icon-button" aria-label="Favorite">
           <md-icon class="" md-svg-icon="img/icon/download.svg">
@@ -53,7 +48,7 @@
           </md-icon>
         </md-button>
       </md-card-icon-actions>
-    </md-card-footer>
+    </md-card-header>
     <!-- <md-card-actions layout="row">
       <md-button class="md-primary" ng-href="{{route.url}}">Full details</md-button>
     </md-card-actions> -->
