@@ -16,5 +16,4 @@ angular
         return "friends";
       }
     };
-
   });
