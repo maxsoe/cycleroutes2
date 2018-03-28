@@ -8,14 +8,6 @@ gpx-on-map {
   width: 100%;
 }
 
-/* .leaflet-control-zoom {
-  display: none;
-}
-
-.leaflet-control-attribution.leaflet-control {
-  display: none;
-} */
-
 .leaflet-container {
   z-index: 1;
 }
