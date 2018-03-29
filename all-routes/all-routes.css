@@ -52,8 +52,9 @@ all-routes md-card md-card-content {
   opacity: 0.54;
 }
 
-md-card-content .description {
+md-card md-card-content p.description {
   margin-top: 30px;
+  margin-bottom: 16px;
   text-align: center;
 }
 
@@ -96,7 +97,7 @@ md-card-footer organiser .avatar-icon {
   border-radius: 50%;
 }
 
-md-card-footer organiser+.md-caption {
+/* md-card-footer organiser+.md-caption {
   color: rgba(0,0,0,0.54);
   margin-top: 6px;
-}
+} */
