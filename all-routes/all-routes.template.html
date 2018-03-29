@@ -1,5 +1,5 @@
-<div layout-margin layout-gt-xs="row" layout-align-gt-xs="center start" layout-wrap>
-  <md-card ng-click="allRoutesCtrl.goToUrl(route.url)" ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'" flex-gt-xs="30">
+<div layout-margin>
+  <md-card ng-click="allRoutesCtrl.goToUrl(route.url)" ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'">
 
     <gpx-on-map gpxfile="route.gpx"></gpx-on-map>
 

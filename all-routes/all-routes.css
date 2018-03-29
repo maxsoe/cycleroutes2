@@ -1,7 +1,3 @@
-all-routes md-card {
-
-}
-
 [ng-click] {
   cursor: pointer;
 }
@@ -61,6 +57,11 @@ all-routes md-card md-card-content {
 .hint-text {
   /* color: #c49000; */
   opacity: 0.54;
+}
+
+/* Gives some visual balance */
+.distance .md-caption {
+  padding-left: 1px;
 }
 
 md-card md-card-content p.description {
