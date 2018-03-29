@@ -1,3 +1,16 @@
-<svg viewBox="0 0 32 32" width="100%" height="100%" fill="#000000" xmlns="http://www.w3.org/2000/svg">
-<path d="M22.276 11.056l-1.885 1.885 1.724 1.724h-12.229l1.724-1.724-1.885-1.885-4.943 4.943 4.943 4.943 1.885-1.885-1.724-1.724h12.229l-1.724 1.724 1.885 1.885 4.943-4.943zM0 5.332h2.667v21.333h-2.667v-21.333zM29.333 5.332h2.667v21.333h-2.667v-21.333z"></path>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="download" transform="translate(-4.000000, -6.000000)">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+            <rect id="Rectangle-right" fill="#000000" x="18" y="6" width="2" height="12"></rect>
+            <rect id="Rectangle-left" fill="#000000" x="4" y="6" width="2" height="12"></rect>
+            <polygon id="triangle-left" fill="#000000" points="11 8 11 16 7 12"></polygon>
+            <polygon id="triangle-right" fill="#000000" points="13 8 17 12 13 16"></polygon>
+        </g>
+    </g>
 </svg>
