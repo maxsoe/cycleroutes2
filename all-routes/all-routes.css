@@ -17,23 +17,39 @@ all-routes md-card md-card-content {
 }
 
 .stats {
-  color: #1b5e20;
+  /* color: #1b5e20; */
 }
 .stats .number {
   font-size: 32px;
   font-weight: 100;
   line-height: 40px;
 }
+.stats .units,
+.stats .out-of {
+  line-height: 14px;
+}
 .stats .units {
   font-size: 14px;
-  line-height: 14px;
 }
 .stats .out-of {
   font-size: 22px;
 }
 
+.stats .distance {
+  text-align: left;
+}
+
+.stats .elevation {
+  text-align: center;
+}
+
+.stats .difficulty {
+  text-align: right;
+}
+
 .hint-text {
-  color: #c49000;
+  /* color: #c49000; */
+  opacity: 0.54;
 }
 
 md-card-content .description {
@@ -57,6 +73,7 @@ md-card-footer organiser {
   border-radius: 0 16px 16px 0;
   font-size: 13px;
   height: 32px;
+  letter-spacing: 0.6px;
   line-height: 32px;
 }
 
