@@ -19,6 +19,18 @@ all-routes md-card md-card-content {
 .stats {
   color: #1b5e20;
 }
+.stats .number {
+  font-size: 32px;
+  font-weight: 100;
+  line-height: 40px;
+}
+.stats .units {
+  font-size: 14px;
+  line-height: 14px;
+}
+.stats .out-of {
+  font-size: 22px;
+}
 
 .hint-text {
   color: #c49000;

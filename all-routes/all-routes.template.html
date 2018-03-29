@@ -13,21 +13,21 @@
     <md-card-content>
       <div class="stats" layout="row" layout-align="space-between none" layout-wrap>
         <div class="distance">
-          <span class="number md-body-2">{{route.distance | numberConversion | number:0}}<span class="units secondary-text">{{route.distance | numberUnits}}</span></span>
+          <div class="number md-body-2">{{route.distance | numberConversion | number:0}}<span class="units secondary-text">{{route.distance | numberUnits}}</span></div>
           <div class="md-caption hint-text">
             Distance
           </div>
         </div>
         <div class="elevation">
-          <span class="number md-body-2">{{route.elevation_gain | number:0}}<span class="units secondary-text">m</span></span>
+          <div class="number md-body-2">{{route.elevation_gain | number:0}}<span class="units secondary-text">m</span></div>
           <div class="md-caption hint-text">
             Elevation gain
           </div>
         </div>
         <div class="difficulty">
-          <span class="md-body-2">{{route.difficulty}}</span>
-          <span class="out-of">/</span>
-          <span class="md-body-2">10</span>
+          <div class="number md-body-2">
+            {{route.difficulty}}<span class="out-of">/</span>10
+          </div>
           <div class="md-caption hint-text">
             Difficulty
           </div>
