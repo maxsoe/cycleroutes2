@@ -206,6 +206,17 @@
     "elevation_gain": "604",
     "difficulty": "5",
     "url": "https://maps.openrouteservice.org/directions?n1=51.819955&n2=0.621663&n3=11&a=51.7798,0.591706,51.838402,0.557456,51.852988,0.579692,51.8559,0.602176,51.9366,0.654953,51.9883,0.597261,51.983839,0.630689,51.968399,0.727855,51.936901,0.758516,51.900398,0.749101,51.893277,0.772822,51.875301,0.798635,51.846187,0.786911,51.822102,0.780166,51.804435,0.729131,51.7729,0.64709,51.7798,0.591736&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2008-08-31T07:44:39Z",
+    "gpx": "ctc20080831.gpx",
+    "organiser": "ctc",
+    "name": "Lunch at Emily's Tea Shop in Whitwell",
+    "description": "Ride through quiet countryside from St Albans to Harlington. Starts on Sustrans route from St Albans then on small roads via Ayot St Lawrence. A bit hilly but only one hard one into Harlington at the end",
+    "distance": "49900",
+    "elevation_gain": "391",
+    "difficulty": "4",
+    "url": "https://maps.openrouteservice.org/directions?n1=51.859662&n2=-0.36859&n3=11&a=51.749963,-0.327294,51.750737,-0.265507,51.755697,-0.271029,51.767312,-0.280097,51.789121,-0.273222,51.802873,-0.282027,51.848833,-0.254959,51.923648,-0.334701,51.930842,-0.340424,51.928316,-0.352451,51.962358,-0.494678&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
 
 ]
