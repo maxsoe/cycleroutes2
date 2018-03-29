@@ -9,7 +9,7 @@ md-card-header-text {
 
 md-card-header-text .md-caption {
   color: rgba(0,0,0,0.54);
-  margin-top: 12px;
+  margin-top: 6px;
 }
 
 all-routes md-card md-card-content {
