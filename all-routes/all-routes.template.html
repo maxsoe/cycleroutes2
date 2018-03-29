@@ -1,11 +1,11 @@
 <div layout-margin layout-gt-xs="row" layout-align-gt-xs="center start" layout-wrap>
-  <md-card ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'" flex-gt-xs="30">
-    <a ng-href="{{route.url}}">
-      <gpx-on-map gpxfile="route.gpx"></gpx-on-map>
-    </a>
+  <md-card ng-click="allRoutesCtrl.goToUrl(route.url)" ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'" flex-gt-xs="30">
+
+    <gpx-on-map gpxfile="route.gpx"></gpx-on-map>
+
     <md-card-header>
       <md-card-header-text>
-        <span class="md-title">{{route.name}}</span>
+        <span class="md-title" >{{route.name}}</span>
         <!-- <span class="md-subhead" ng-if="route.description">{{route.description}}</span> -->
         <creation-date class="md-caption">{{route.created_at | date:'dd MMM yyyy'}}</creation-date>
       </md-card-header-text>

@@ -15,9 +15,15 @@ angular
     controllerAs: 'allRoutesCtrl'
   });
 
-function allRoutesController(getRoutesListSvc) {
+function allRoutesController(getRoutesListSvc, $window) {
   getRoutesListSvc.getPosts().then(response => {
     this.routes = response.data;
   });
 
+  this.goToUrl = goToUrl;
+
+  function goToUrl(url) {
+    $window.location.href = url;
+    // console.log("goToUrl activated at " +url);
+  }
 };

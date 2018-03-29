@@ -1,3 +1,11 @@
+all-routes md-card {
+
+}
+
+[ng-click] {
+  cursor: pointer;
+}
+
 md-card-header {
   margin-top: 8px;
 }
@@ -8,7 +16,7 @@ md-card-header-text {
 }
 
 md-card-header-text .md-caption {
-  color: rgba(0,0,0,0.54);
+  color: rgba(0, 0, 0, 0.54);
   margin-top: 6px;
 }
 
@@ -19,18 +27,21 @@ all-routes md-card md-card-content {
 .stats {
   /* color: #1b5e20; */
 }
+
 .stats .number {
   font-size: 32px;
   font-weight: 100;
   line-height: 40px;
 }
-.stats .units,
-.stats .out-of {
+
+.stats .units, .stats .out-of {
   line-height: 14px;
 }
+
 .stats .units {
   font-size: 14px;
 }
+
 .stats .out-of {
   font-size: 22px;
 }
@@ -69,7 +80,6 @@ md-card-footer organiser {
   display: inline-flex !important;
   padding-right: 16px;
   margin-left: 16px;
-
   background: rgb(224, 224, 224);
   border-radius: 0 16px 16px 0;
   font-size: 13px;
@@ -82,7 +92,6 @@ md-card-footer organiser .avatar-icon {
   position: relative;
   margin-left: -16px;
   margin-right: 8px;
-
   background: rgb(224, 224, 224);
   /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
   /* background-image: url('http://i.stack.imgur.com/Dj7eP.jpg'); */
