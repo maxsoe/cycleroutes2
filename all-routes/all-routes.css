@@ -19,9 +19,6 @@ all-routes md-card md-card-content {
 .stats {
   color: #1b5e20;
 }
-.stats md-icon {
-  margin-right: 8px;
-}
 
 .hint-text {
   color: #c49000;
