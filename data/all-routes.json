@@ -239,6 +239,17 @@
     "elevation_gain": "596",
     "difficulty": "6",
     "url": "https://maps.openrouteservice.org/directions?n1=51.66034&n2=-0.592676&n3=12&a=51.611099,-0.646126,51.645745,-0.675279,51.6576,-0.694631,51.680599,-0.668726,51.687801,-0.68794,51.701698,-0.674641,51.682075,-0.611218,51.6759,-0.548651,51.709499,-0.525488,51.696899,-0.506279,51.704643,-0.493024,51.691601,-0.529623,51.676607,-0.529482,51.670916,-0.531103,51.670399,-0.548188,51.651699,-0.54826,51.62908,-0.582465,51.643902,-0.635814,51.631302,-0.675438,51.629101,-0.65657,51.6115,-0.643883&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2018-04-15T09:00:00Z",
+    "gpx": "altura2018041509.gpx",
+    "organiser": "altura",
+    "name": "Forest of Bowland - Short",
+    "description": "The Altura Forest of Bowland Sportive is a tough early-season test for the legs with over 8,000ft of climbing to tackle but you will be given just reward with superb sights and scenery as the Cumbria sportive rolls through two Areas of Outstanding Natural Beauty.At the start, the sportive leads out towards Milnthorpe Sands as the route enters its first Area of Outstanding Natural Beauty of the day, Arnside and Silverdale.After a stint on the River Kent, the route dives south to Carnforth and on to the first course split. Short riders peel off west while Standard and Epic participants bear south to our second AONB of the day, the Forest of Bowland, where the course centres its loop for much of the rest of the ride, while also bringing about one of the toughest challenges in the Trough of Bowland.Winding its way through the surrounding fells and rivers, the course gives some of the best views the area has to offer. Reaching Dunsop Bridge the course splits for the last time as Standard riders head west and Epic entrants continue south for an additional 1,500ft of climbing. Reaching the edge of Clitheroe, the sportive heads north, climbing up to the top of the Newton Fells before descending to continue onto Slaidburn. The return leg across the Forest of Bowland climbs higher than before, granting you glorious views of the Tatham Fells until you reach High Bentham, at which point the route heads east through the village of Hornby. Leaving the National Park at Gressingham, the route continues to wind its way north for the final miles until reaching the finish line, where a medal and t-shirt will be given to riders upon completing this rewarding riding test.",
+    "distance": "56700",
+    "elevation_gain": "562",
+    "difficulty": "6",
+    "url": "https://maps.openrouteservice.org/directions?n1=54.177964&n2=-2.719238&n3=12&a=54.23424,-2.7139,54.223945,-2.71665,54.204417,-2.737086,54.22821,-2.76449,54.21953,-2.80545,54.20167,-2.82733,54.1933,-2.79683,54.17942,-2.81043,54.16118,-2.80517,54.140281,-2.775801,54.12928,-2.77009,54.12159,-2.7077,54.13476,-2.65601,54.143391,-2.64021,54.15944,-2.65145,54.16487,-2.61899,54.17743,-2.61113,54.18841,-2.63856,54.17848,-2.72253,54.22652,-2.715881,54.23385,-2.71413&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
 
 ]
