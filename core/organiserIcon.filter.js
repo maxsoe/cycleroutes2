@@ -6,6 +6,7 @@ angular
       if (input == "altura" ||
         input == "brewin" ||
         input == "ctc" ||
+        input == "dulux" ||
         input == "noexcuses" ||
         input == "roo" ||
         input == "sigma" ||

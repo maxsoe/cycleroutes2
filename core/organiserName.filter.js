@@ -13,6 +13,9 @@ angular
         case 'ctc':
           return ("Central London CTC")
           break;
+        case 'dulux':
+          return ("Dulux Trade")
+          break;
         case 'noexcuses':
           return ("No Excuses Series")
           break;
