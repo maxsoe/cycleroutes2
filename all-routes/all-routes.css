@@ -9,7 +9,14 @@
   }
   all-routes>div md-card {
     display: inline-block;
-    width: calc(50vw - 3*8px);
+    /* width: calc(50vw - 3*8px); */
+    width: calc(100% - 16px);
+  }
+}
+
+@media (min-width: 960px) {
+  all-routes>div {
+    columns: 3;
   }
 }
 
