@@ -2,6 +2,17 @@
   cursor: pointer;
 }
 
+@media (min-width: 600px) {
+  all-routes>div {
+    columns: 2;
+    column-gap: 0;
+  }
+  all-routes>div md-card {
+    display: inline-block;
+    width: calc(50vw - 3*8px);
+  }
+}
+
 md-card-header-text {
   /* color: #1b5e20; */
   text-align: center;
