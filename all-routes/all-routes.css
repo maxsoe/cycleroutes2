@@ -2,10 +2,6 @@
   cursor: pointer;
 }
 
-md-card-header {
-  margin-top: 8px;
-}
-
 md-card-header-text {
   /* color: #1b5e20; */
   text-align: center;
