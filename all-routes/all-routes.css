@@ -103,6 +103,10 @@ md-card-footer organiser {
   line-height: 32px;
 }
 
+md-card-footer organiser.roo {
+  background: #fbc02d;
+}
+
 md-card-footer organiser .avatar-icon {
   position: relative;
   margin-left: -16px;
