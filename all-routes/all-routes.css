@@ -91,7 +91,7 @@ md-divider.with-padding {
   margin-right: 16px;
 }
 
-md-card-footer organiser {
+organiser {
   display: inline-flex !important;
   padding-right: 16px;
   margin-left: 16px;
@@ -104,30 +104,7 @@ md-card-footer organiser {
   letter-spacing: 0.6px;
   line-height: 32px;
 }
-
-md-card-footer organiser.brewin,
-md-card-footer organiser.brewin .avatar-icon {
-  background-color: rgb(32,85,134);
-  color: white;
-}
-
-md-card.brewin,
-.brewin md-card-footer organiser .avatar-icon {
-  background-color: rgb(32,85,134,0.3);
-}
-
-md-card.roo,
-.roo md-card-footer organiser .avatar-icon {
-  background-color: rgba(251,192,45,0.3);
-}
-
-md-card.ctc,
-.ctc md-card-footer organiser .avatar-icon  {
-  background-color: rgba(139,39,79,0.3);
-  /* color: #fff; */
-}
-
-md-card-footer organiser .avatar-icon {
+organiser .avatar-icon {
   position: relative;
   margin-left: -16px;
   margin-right: 8px;
@@ -144,6 +121,38 @@ md-card-footer organiser .avatar-icon {
   /* round the edges to a circle with border radius 1/2 container size */
   border-radius: 50%;
 }
+
+md-card.altura,
+.altura organiser,
+.altura organiser .avatar-icon {
+  background-color: rgba(202,202,202,0.2);
+}
+
+md-card.brewin,
+.brewin organiser,
+.brewin organiser .avatar-icon {
+  background-color: rgba(32,85,134,0.2);
+}
+
+md-card.dulux,
+.dulux organiser,
+.dulux organiser .avatar-icon {
+  background-color: rgba(141,151,166,0.2);
+}
+
+md-card.roo,
+.roo organiser,
+.roo organiser .avatar-icon {
+  background-color: rgba(251,192,45,0.2);
+}
+
+md-card.ctc,
+.ctc organiser,
+.ctc organiser .avatar-icon  {
+  background-color: rgba(139,39,79,0.2);
+}
+
+
 
 /* md-card-footer organiser+.md-caption {
   color: rgba(0,0,0,0.54);
