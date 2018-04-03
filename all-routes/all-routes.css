@@ -95,16 +95,36 @@ md-card-footer organiser {
   display: inline-flex !important;
   padding-right: 16px;
   margin-left: 16px;
+
   background: rgb(224, 224, 224);
   border-radius: 0 16px 16px 0;
+  color: #000;
   font-size: 13px;
   height: 32px;
   letter-spacing: 0.6px;
   line-height: 32px;
 }
 
-md-card-footer organiser.roo {
-  background: #fbc02d;
+md-card-footer organiser.brewin,
+md-card-footer organiser.brewin .avatar-icon {
+  background-color: rgb(32,85,134);
+  color: white;
+}
+
+md-card.brewin,
+.brewin md-card-footer organiser .avatar-icon {
+  background-color: rgb(32,85,134,0.3);
+}
+
+md-card.roo,
+.roo md-card-footer organiser .avatar-icon {
+  background-color: rgba(251,192,45,0.3);
+}
+
+md-card.ctc,
+.ctc md-card-footer organiser .avatar-icon  {
+  background-color: rgba(139,39,79,0.3);
+  /* color: #fff; */
 }
 
 md-card-footer organiser .avatar-icon {

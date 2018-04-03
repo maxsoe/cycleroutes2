@@ -1,5 +1,5 @@
 <div layout-margin>
-  <md-card ng-click="allRoutesCtrl.goToUrl(route.url)" ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'">
+  <md-card ng-click="allRoutesCtrl.goToUrl(route.url)" ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'" class="{{route.organiser}}">
 
     <gpx-on-map gpxfile="route.gpx" style="min-height:200px; background:#ddd;"></gpx-on-map>
 
@@ -37,7 +37,7 @@
     </md-card-content>
     <md-divider class="with-padding"></md-divider>
     <md-card-footer layout="column" layout-align="center center">
-      <organiser class="{{route.organiser}}">
+      <organiser>
         <!-- <md-icon class="md-avatar-icon" md-svg-icon="img/icons/android.svg"></md-icon> -->
         <div class="avatar-icon" ng-style="{'background-image':'url(img/pin/{{route.organiser | organiserIcon}}.png)'}">
           <!-- <img class="avatar-icon" ng-src="img/pin/{{route.organiser | organiserIcon}}.png"></img> -->
