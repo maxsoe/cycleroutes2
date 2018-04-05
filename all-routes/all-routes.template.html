@@ -34,7 +34,7 @@
         </div>
       </div>
       <p class="md-body-1 description">{{route.description}}</p>
-      <p ng-if="route.rides" class="md-body-1 rides">Route done by: <span ng-repeat="ride in route.rides"><a ng-href="{{ride.activity}}">{{ride.cyclist}}</a>, </span></p>
+      <p ng-if="route.rides" class="md-body-1 rides">Route done by: <span ng-repeat="ride in route.rides"><a ng-href="{{ride.activity}}">{{ride.cyclist}} - {{ride.date}}</a> | </span></p>
     </md-card-content>
     <md-divider class="with-padding"></md-divider>
     <md-card-footer layout="column" layout-align="center center">
