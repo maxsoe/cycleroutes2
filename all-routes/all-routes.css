@@ -72,11 +72,6 @@ all-routes md-card md-card-content {
   text-align: right;
 }
 
-.hint-text {
-  /* color: #c49000; */
-  opacity: 0.54;
-}
-
 /* Gives some visual balance */
 .distance .md-caption {
   padding-left: 1px;
