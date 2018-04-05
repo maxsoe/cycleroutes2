@@ -318,11 +318,11 @@
     "url": "https://maps.openrouteservice.org/directions?n1=50.852125&n2=-1.511307&n3=11&a=50.816843,-1.574403,50.830587,-1.620541,50.914895,-1.653751,50.944698,-1.593134,50.891,-1.527224,50.870717,-1.56998,50.861891,-1.453453,50.839963,-1.453691,50.808986,-1.332404,50.786051,-1.388426,50.810038,-1.408017,50.802662,-1.440976,50.797207,-1.422137,50.777591,-1.435288,50.762684,-1.485753,50.76348,-1.533945,50.77214,-1.538848,50.783873,-1.545484,50.786052,-1.597451,50.768057,-1.656475,50.784732,-1.656003,50.81079,-1.609467,50.818354,-1.581001,50.816605,-1.575208&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km",
     "rides": [
       {"cyclist":"Max Soe",
-      "route":"https://www.strava.com/activities/1489885269"},
+      "activity":"https://www.strava.com/activities/1489885269"},
       {"cyclist":"Jo Morrison",
-      "route":"https://www.strava.com/activities/1484235737"},
+      "activity":"https://www.strava.com/activities/1484235737"},
       {"cyclist":"Rubenek Rodruiguez",
-      "route":"https://www.strava.com/activities/1483964482"}
+      "activity":"https://www.strava.com/activities/1483964482"}
     ]
   },
   {
