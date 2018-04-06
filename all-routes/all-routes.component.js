@@ -21,10 +21,19 @@ function allRoutesController(getRoutesListSvc, $window) {
   });
 
   this.goToUrl = goToUrl;
-
   function goToUrl(url) {
     // $window.location.href = url;
     $window.open(url,'_blank');
     // console.log("goToUrl activated at " +url);
+  }
+
+  this.orderBy = "-created_at";
+  console.log("Original order is " +this.orderBy);
+
+  this.changeOrderBy = changeOrderBy;
+  function changeOrderBy(criteria) {
+    console.log("Change order. Order by " + criteria);
+    this.orderBy = criteria;
+    // console.log("order is " +allRoutesCtrl.orderBy);
   }
 };
