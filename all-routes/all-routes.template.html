@@ -22,6 +22,12 @@
   <md-card ng-repeat="route in allRoutesCtrl.routes | filter:allRoutesCtrl.query | orderBy:allRoutesCtrl.orderBy" class="{{route.organiser}}">
 
     <gpx-on-map ng-click="allRoutesCtrl.goToUrl(route.url)" gpxfile="route.gpx" style="min-height:200px; background:#ddd;"></gpx-on-map>
+    <organiser layout="row" layout-align="center">
+      <div class="avatar-icon" ng-style="{'background-image':'url(img/pin/{{route.organiser | organiserIcon}}.png)'}">
+        <md-tooltip md-direction="bottom">{{route.organiser | organiserName}}</md-tooltip>
+        <!-- <img class="avatar-icon" ng-src="img/pin/{{route.organiser | organiserIcon}}.png"></img> -->
+      </div>
+    </organiser>
 
     <md-card-header>
       <md-card-header-text ng-click="allRoutesCtrl.goToUrl(route.url)">
@@ -58,14 +64,7 @@
     </md-card-content>
     <md-divider class="with-padding"></md-divider>
     <md-card-footer layout="column" layout-align="center center">
-      <organiser>
-        <!-- <md-icon class="md-avatar-icon" md-svg-icon="img/icons/android.svg"></md-icon> -->
-        <div class="avatar-icon" ng-style="{'background-image':'url(img/pin/{{route.organiser | organiserIcon}}.png)'}">
-          <!-- <img class="avatar-icon" ng-src="img/pin/{{route.organiser | organiserIcon}}.png"></img> -->
-        </div>
-        <span>{{route.organiser | organiserName}}</span>
 
-      </organiser>
       <!-- <div class="md-caption">{{route.created_at | date:'dd MMM yyyy'}}</div> -->
 
       <!-- <md-card-icon-actions hide-xs layout-gt-xs="row" flex="none" layout-align-gt-xs="center">

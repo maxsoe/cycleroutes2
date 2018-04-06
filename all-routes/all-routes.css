@@ -21,7 +21,7 @@
 }
 
 md-card-header {
-  margin-top: 16px;
+  margin-top: -16px;
 }
 
 md-card-header-text {
@@ -91,7 +91,7 @@ md-divider.with-padding {
   margin-right: 16px;
 }
 
-organiser {
+/* organiser {
   display: inline-flex !important;
   padding-right: 16px;
   margin-left: 16px;
@@ -102,43 +102,53 @@ organiser {
   height: 32px;
   letter-spacing: 0.6px;
   line-height: 32px;
+} */
+
+organiser {
+  position: relative;
+  top: -20px;
+  z-index: 400;
 }
 
 organiser .avatar-icon {
-  position: relative;
-  margin-left: -16px;
-  margin-right: 8px;
-  background: rgb(224, 224, 224);
+  /* position: relative; */
   /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
   /* background-image: url('http://i.stack.imgur.com/Dj7eP.jpg'); */
   /* make a square container */
-  width: 32px;
-  height: 32px;
+  width: 48px;
+  height: 48px;
   /* fill the container, preserving aspect ratio, and cropping to fit */
   background-size: cover;
   /* center the image vertically and horizontally */
-  background-position: top center;
+  background-position: center center;
   /* round the edges to a circle with border radius 1/2 container size */
+  background-color: rgba(250,250,250,0.6);
   border-radius: 50%;
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 2px 1px -1px rgba(0,0,0,.12);
 }
 
-md-card.altura, .altura organiser, .altura organiser .avatar-icon {
+md-card.altura,
+.altura organiser .avatar-icon {
   background-color: rgba(202, 202, 202, 0.2);
 }
 
-md-card.brewin, .brewin organiser, .brewin organiser .avatar-icon {
+md-card.brewin,
+.brewin organiser .avatar-icon {
   background-color: rgba(32, 85, 134, 0.2);
 }
 
-md-card.ctc, .ctc organiser, .ctc organiser .avatar-icon {
+md-card.ctc,
+.ctc organiser .avatar-icon {
   background-color: rgba(139, 39, 79, 0.2);
 }
 
-md-card.dulux, .dulux organiser, .dulux organiser .avatar-icon {
+md-card.dulux,
+.dulux organiser .avatar-icon {
   background-color: rgba(141, 151, 166, 0.2);
 }
 
-md-card.roo, .roo organiser, .roo organiser .avatar-icon {
+md-card.roo,
+.roo organiser .avatar-icon {
   background-color: rgba(251, 192, 45, 0.2);
 }
 
