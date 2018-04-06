@@ -366,6 +366,17 @@
     "elevation_gain": "1000",
     "difficulty": "6",
     "url": "https://maps.openrouteservice.org/directions?n1=51.269029&n2=0.277484&n3=11&a=51.378236,0.017724,51.369235,0.02665,51.361237,0.079147,51.35498,0.087333,51.346912,0.091453,51.345002,0.1082,51.344493,0.11644,51.345062,0.122491,51.338253,0.157928,51.311489,0.2105,51.309879,0.217495,51.306123,0.219555,51.297779,0.234661,51.277542,0.244961,51.233547,0.341949,51.216132,0.376625,51.209787,0.381432,51.207529,0.41851,51.184347,0.442371,51.169872,0.461769,51.165244,0.537643,51.209895,0.436878,51.217529,0.386925,51.224706,0.379114,51.284897,0.226593,51.304326,0.214834,51.310282,0.215639,51.311891,0.206187,51.342087,0.159903,51.359134,0.100808,51.358665,0.085251,51.360942,0.080595,51.362456,0.079007,51.369825,0.024118,51.377821,0.017273&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2017-08-23T12:00:00Z",
+    "gpx": "southdownsspringstandard20170823.gpx",
+    "organiser": "ukce",
+    "name": "South Downs Spring - Standard",
+    "description": "If you haven’t blown the winter cobwebs off your bike with a fast and free-flowing ride this far into the year, this April sportive set amongst the stunning South Downs of Sussex is likely just the event to ease you back into the saddle. Not forgetting this ride’s challenging hills, the Cycling Weekly Spring Sportive matches great climbs with the best descents that sprawl through stunning open country lanes. Kicking off in pretty Plumpton, the route heads east on unassuming back roads that can be taken at speed if so desired. As much as the hills on this route are a welcome challenge, you’ll be out of your saddle and counting on every last bit of winter training you have for the toughest ascents. Flirting with the most infamous hills in the area, riders are taken around the base of some fearsome climbs but the route tends to stick to luxurious rolling roads tucked away from traffic. Exploring East Sussex, sleepy villages are taken in one by one before reaching the outskirts of Heathfield – but this ride stays true to its countryside routes as it soon reaches back into the wilderness. Taking in a loop out past Five Ashes and back past High Hurstwood, you’ll be taken past Buxted and towards Uckfield on roads that remain mostly flat, quiet and long ranging. The route then leads north before crossing back into Mid-Sussex and turning south just before it crosses the River Ouse. A shining sun and helpful tailwind are enough to push you along for one last boost towards the finish line – which finishes on a mostly downward slope. You’ll cross the finish line feeling enthralled",
+    "distance": "94800",
+    "elevation_gain": "837",
+    "difficulty": "6",
+    "url": "https://maps.openrouteservice.org/directions?n1=50.924437&n2=0.07252&n3=12&a=50.92372,-0.06451,50.9018,-0.0616,50.92745,-0.04213,50.903791,-0.030813,50.89171,-0.00997,50.91991,0.027,50.89643,0.05315,50.906497,0.068665,50.91686,0.12348,50.891123,0.134926,50.87787,0.13063,50.8646,0.15941,50.90404,0.20749,50.92999,0.18469,50.944368,0.204105,50.966644,0.207539,50.978858,0.192776,50.976588,0.163078,50.97494,0.12422,50.965292,0.133939,50.9295,0.09773,50.93774,0.06139,50.98101,0.0553,50.95549,0.03625,50.942746,-0.022488,50.93795,-0.04555,50.90084,-0.05022,50.92363,-0.06455&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
 
 
