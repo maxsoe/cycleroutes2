@@ -23,7 +23,8 @@ function allRoutesController(getRoutesListSvc, $window) {
   this.goToUrl = goToUrl;
 
   function goToUrl(url) {
-    $window.location.href = url;
+    // $window.location.href = url;
+    $window.open(url,'_blank');
     // console.log("goToUrl activated at " +url);
   }
 };
