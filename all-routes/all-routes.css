@@ -73,6 +73,7 @@ all-routes md-card md-card-content {
 }
 
 /* Gives some visual balance */
+
 .distance .md-caption {
   padding-left: 1px;
 }
@@ -94,7 +95,6 @@ organiser {
   display: inline-flex !important;
   padding-right: 16px;
   margin-left: 16px;
-
   background: rgb(224, 224, 224);
   border-radius: 0 16px 16px 0;
   color: #000;
@@ -122,32 +122,37 @@ organiser .avatar-icon {
   border-radius: 50%;
 }
 
-md-card.altura,
-.altura organiser,
-.altura organiser .avatar-icon {
-  background-color: rgba(202,202,202,0.2);
+md-card.altura, .altura organiser, .altura organiser .avatar-icon {
+  background-color: rgba(202, 202, 202, 0.2);
 }
 
-md-card.brewin,
-.brewin organiser,
-.brewin organiser .avatar-icon {
-  background-color: rgba(32,85,134,0.2);
+md-card.brewin, .brewin organiser, .brewin organiser .avatar-icon {
+  background-color: rgba(32, 85, 134, 0.2);
 }
 
-md-card.ctc,
-.ctc organiser,
-.ctc organiser .avatar-icon  {
-  background-color: rgba(139,39,79,0.2);
+md-card.ctc, .ctc organiser, .ctc organiser .avatar-icon {
+  background-color: rgba(139, 39, 79, 0.2);
 }
 
-md-card.dulux,
-.dulux organiser,
-.dulux organiser .avatar-icon {
-  background-color: rgba(141,151,166,0.2);
+md-card.dulux, .dulux organiser, .dulux organiser .avatar-icon {
+  background-color: rgba(141, 151, 166, 0.2);
 }
 
-md-card.roo,
-.roo organiser,
-.roo organiser .avatar-icon {
-  background-color: rgba(251,192,45,0.2);
+md-card.roo, .roo organiser, .roo organiser .avatar-icon {
+  background-color: rgba(251, 192, 45, 0.2);
+}
+
+.filters {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 500;
+}
+
+.filters md-toolbar {
+  width: 100vw;
+}
+
+.md-button.md-fab {
+  box-shadow: 0 7px 8px -4px rgba(0, 0, 0, .2), 0 12px 17px 2px rgba(0, 0, 0, .14), 0 5px 22px 4px rgba(0, 0, 0, .12)
 }

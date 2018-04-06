@@ -1,4 +1,23 @@
 <p>Search: <input ng-model="allRoutesCtrl.query" /></p>
+<md-fab-toolbar class="filters" md-open="false" count="3"
+                  md-direction="left">
+    <md-fab-trigger class="align-with-text">
+      <md-button aria-label="menu" class="md-fab md-primary">
+        <md-icon md-svg-src="img/icon/filter.svg"></md-icon>
+      </md-button>
+    </md-fab-trigger>
+
+    <md-toolbar>
+      <md-fab-actions class="md-toolbar-tools">
+        <md-button aria-label="comment" class="md-icon-button">
+          <md-icon md-svg-src="img/icon/ascent.svg"></md-icon>
+        </md-button>
+        <md-button aria-label="label" class="md-icon-button">
+          <md-icon md-svg-src="img/icon/distance.svg"></md-icon>
+        </md-button>
+      </md-fab-actions>
+    </md-toolbar>
+  </md-fab-toolbar>
 <div layout-margin>
   <md-card ng-repeat="route in allRoutesCtrl.routes | filter:allRoutesCtrl.query | orderBy:'-created_at'" class="{{route.organiser}}">
 
@@ -62,5 +81,6 @@
     </md-card-actions> -->
   </md-card>
 </div>
+
 
 <!-- <pre>{{allRoutesCtrl.routes | json}}</pre> -->
