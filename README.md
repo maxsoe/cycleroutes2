@@ -10,8 +10,10 @@ TODO:
 - strava rides
 - mapmyride ride
 - modal on click-through
+- use flex order to create masonary tiling
 
 DONE:
+- fix flex model on multiple columns
 - ng-click on entire card
 - pinterest style grid
 - larger breakpoints
