@@ -21,19 +21,27 @@ function allRoutesController(getRoutesListSvc, $window) {
   });
 
   this.goToUrl = goToUrl;
+
   function goToUrl(url) {
     // $window.location.href = url;
-    $window.open(url,'_blank');
+    $window.open(url, '_blank');
     // console.log("goToUrl activated at " +url);
   }
 
   this.orderBy = "-created_at";
-  console.log("Original order is " +this.orderBy);
+  console.log("Original order is " + this.orderBy);
 
   this.changeOrderBy = changeOrderBy;
   function changeOrderBy(criteria) {
-    console.log("Change order. Order by " + criteria);
-    this.orderBy = criteria;
+    console.log("Original order is " + this.orderBy);
+    console.log("Order criteria is " + criteria);
+    if (this.orderBy == criteria) {
+      this.orderBy = -criteria;
+    } else {
+      this.orderBy = criteria;
+    }
+    console.log("Change order. Order changed to " + this.orderBy);
+
     // console.log("order is " +allRoutesCtrl.orderBy);
   }
 };
