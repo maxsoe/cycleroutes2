@@ -8,6 +8,8 @@ Colour palette - https://material.io/color/#!/?view.left=0&view.right=0&primary.
 TODO:
 - filters
 - strava rides
+- mapmyride ride
+- modal on click-through
 
 DONE:
 - ng-click on entire card
