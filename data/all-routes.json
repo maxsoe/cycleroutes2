@@ -4,9 +4,9 @@
     "organiser": "ctc",
     "name": "Selling seashells on the seashore (80km version)",
     "description": "Revised from 100km down to 80km. Original ride is - Selling seashells on the seashore - 100 km ",
-    "distance": "80583.2956344017",
-    "elevation_gain": "642.8938747155211",
-    "difficulty": "4",
+    "distance": 80583.2956344017,
+    "elevation_gain": 642.8938747155211,
+    "difficulty": 4,
     "url": "https://maps.openrouteservice.org/directions?n1=50.844792&n2=-0.138622&n3=17&a=51.508475,-0.104413,50.844792,-0.138622&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -15,9 +15,9 @@
     "organiser": "ctc",
     "name": "Longer and stronger with The Men of Kent",
     "description": "A longer ride through Kent to lunch at Rye Harbour#CTC",
-    "distance": "79479.78901932108",
-    "elevation_gain": "622.672495385436",
-    "difficulty": "7",
+    "distance": 79479.78901932108,
+    "elevation_gain": 622.672495385436,
+    "difficulty": 7,
     "url": "https://maps.openrouteservice.org/directions?n1=52.204059&n2=0.135671&n3=17&a=51.508475,-0.104413,52.204059,0.135671&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -25,10 +25,10 @@
     "gpx": "3.gpx",
     "organiser": "ctc",
     "name": "(Not) To the Tin Pot",
-    "description": "Through Sandridge to lunch at Whitwell, back to Big Chef via Panshanger. No trains or pubs involved.",
-    "distance": "100710",
-    "elevation_gain": "1002",
-    "difficulty": "7",
+    "description": "Url needs updating. Through Sandridge to lunch at Whitwell, back to Big Chef via Panshanger. No trains or pubs involved.",
+    "distance": 100710,
+    "elevation_gain": 1002,
+    "difficulty": 7,
     "url": ""
   },
   {
@@ -36,10 +36,10 @@
     "gpx": "4.gpx",
     "organiser": "roo",
     "name": "Croydon to West - loop",
-    "description": "",
-    "distance": "109730",
-    "elevation_gain": "1070",
-    "difficulty": "7",
+    "description": "URL needs updating",
+    "distance": 109730,
+    "elevation_gain": 1070,
+    "difficulty": 7,
     "url": ""
   },
   {
@@ -47,10 +47,10 @@
     "gpx": "5.gpx",
     "organiser": "ctc",
     "name": "Harpenden - Cricketers Arms for lunch, Emily's Tea Shop for tea",
-    "description": "",
-    "distance": "72270",
-    "elevation_gain": "798",
-    "difficulty": "6",
+    "description": "url needs updating",
+    "distance": 72270,
+    "elevation_gain": 798,
+    "difficulty": 6,
     "url": ""
   },
   {
@@ -58,10 +58,10 @@
     "gpx": "6.gpx",
     "organiser": "Allan Hutchinson",
     "name": "London Cambridge return",
-    "description": "Based on Allan Hutchinson's route",
-    "distance": "222660",
-    "elevation_gain": "2090",
-    "difficulty": "8",
+    "description": "URL needs updating. Based on Allan Hutchinson's route",
+    "distance": 222660,
+    "elevation_gain": 2090,
+    "difficulty": 8,
     "url": ""
   },
   {
@@ -70,9 +70,9 @@
     "organiser": "roo",
     "name": "Croydon to richmond station - A roads",
     "description": "Very flat, but uses A roads",
-    "distance": "21110",
-    "elevation_gain": "121",
-    "difficulty": "3",
+    "distance": 21110,
+    "elevation_gain": 121,
+    "difficulty": 3,
     "url": ""
   },
   {
@@ -81,9 +81,9 @@
     "organiser": "brewin",
     "name": "New Forest Summer Sportive - Short route",
     "description": "Short route for the Brewin Dolphin New Forest Summer Sportive",
-    "distance": "74320",
-    "elevation_gain": "517",
-    "difficulty": "3",
+    "distance": 74320,
+    "elevation_gain": 517,
+    "difficulty": 3,
     "url": "https://maps.openrouteservice.org/directions?n1=50.785753&n2=-1.520576&n3=12&a=50.891353,-1.526563,50.880727,-1.488647,50.855376,-1.469421,50.845351,-1.488647,50.827301,-1.566925,50.823316,-1.579328,50.80702,-1.637306,50.772076,-1.658249,50.784233,-1.578941,50.779458,-1.539803,50.765345,-1.538773,50.767517,-1.465302,50.777287,-1.446075,50.795194,-1.422215,50.845622,-1.451397,50.878127,-1.475945,50.891367,-1.525726&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -92,9 +92,9 @@
     "organiser": "ctc",
     "name": "Bedford with N Bloom",
     "description": "Roads: Very smooth except for two 100 metre bits of gravel. There are always potholes in the UK unfortunately.Cars: Almost none except for 100 metres along an A road. Some cars at the end of the ride near the train station.Terrain: Despite the graph on Strava, the terrain is mostly flat.",
-    "distance": "90880",
-    "elevation_gain": "759",
-    "difficulty": "6",
+    "distance": 90880,
+    "elevation_gain": 759,
+    "difficulty": 6,
     "url": ""
   },
   {
@@ -103,9 +103,9 @@
     "organiser": "roo",
     "name": "Leith Hill and Box Hill combo",
     "description": "First tackling Leith Hill and then Box Hill",
-    "distance": "92200",
-    "elevation_gain": "1000",
-    "difficulty": "7",
+    "distance": 92200,
+    "elevation_gain": 1000,
+    "difficulty": 7,
     "url": "https://maps.openrouteservice.org/directions?n1=51.1685&n2=-0.270503&n3=11&a=51.33769,-0.11432,51.30275,-0.16644,51.23823,-0.20259,51.2335,-0.26635,51.16931,-0.23729,51.17841,-0.27925,51.12402,-0.3564,51.14587,-0.43822,51.177,-0.35869,51.2578,-0.3229,51.25243,-0.28148,51.33781,-0.11628&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km",
     "rides": [{
         "cyclist": "Max Soe",
@@ -120,9 +120,9 @@
     "organiser": "roo",
     "name": "Around Hemel Hampsted",
     "description": "Cycling around Hemel Hampsted",
-    "distance": "58400",
-    "elevation_gain": "626",
-    "difficulty": "4",
+    "distance": 58400,
+    "elevation_gain": 626,
+    "difficulty": 4,
     "url": "https://maps.openrouteservice.org/directions?n1=51.739611&n2=-0.365952&n3=14&a=51.751239,-0.339607,51.746385,-0.365889,51.721614,-0.430833,51.718503,-0.44434,51.69393,-0.432378,51.672646,-0.459039,51.695176,-0.500486,51.709524,-0.525226,51.733211,-0.49428,51.746567,-0.495508,51.747853,-0.513431,51.761335,-0.511996,51.761269,-0.498993,51.765703,-0.475289,51.772715,-0.480054,51.782616,-0.452439,51.790932,-0.459925,51.79553,-0.451874,51.792097,-0.427408,51.786795,-0.440482,51.760241,-0.422887,51.748456,-0.433625,51.728883,-0.401169,51.741884,-0.36917,51.750047,-0.345339,51.75049,-0.338409&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -131,9 +131,9 @@
     "organiser": "roo",
     "name": "St Albans 40k",
     "description": "Cycling around St Albans - 40km",
-    "distance": "40100",
-    "elevation_gain": "276",
-    "difficulty": "3",
+    "distance": 40100,
+    "elevation_gain": 276,
+    "difficulty": 3,
     "url": "https://maps.openrouteservice.org/directions?n1=51.69482&n2=-0.361896&n3=11&a=51.750965,-0.339772,51.746084,-0.346626,51.752302,-0.355782,51.756086,-0.350363,51.776621,-0.32757,51.777517,-0.296784,51.750525,-0.264312,51.741905,-0.267299,51.728302,-0.225732,51.708581,-0.218069,51.691346,-0.224618,51.678246,-0.214229,51.672245,-0.23836,51.682468,-0.248035,51.695112,-0.24808,51.694176,-0.283872,51.726963,-0.316896,51.738318,-0.331988,51.749201,-0.335931,51.750071,-0.33715&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -142,9 +142,9 @@
     "organiser": "roo",
     "name": "St Albans 45k",
     "description": "Cycling around St Albans - 45km",
-    "distance": "46400",
-    "elevation_gain": "400",
-    "difficulty": "3",
+    "distance": 46400,
+    "elevation_gain": 400,
+    "difficulty": 3,
     "url": "https://maps.openrouteservice.org/directions?n1=51.752164&n2=-0.325821&n3=15&a=51.751709,-0.338263,51.790946,-0.291612,51.807063,-0.342445,51.830646,-0.333653,51.846375,-0.305332,51.815741,-0.291223,51.821564,-0.271616,51.837244,-0.267602,51.840195,-0.245964,51.847727,-0.250845,51.851721,-0.288595,51.833051,-0.298073,51.815126,-0.282744,51.807906,-0.270147,51.795546,-0.279417,51.77775,-0.26361,51.752539,-0.335408&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -153,9 +153,9 @@
     "organiser": "roo",
     "name": "Dorking 100",
     "description": "Goes down Box Hill but then goes up Leith Hill. The last hill back up is a killer",
-    "distance": "80400",
-    "elevation_gain": "1000",
-    "difficulty": "7",
+    "distance": 80400,
+    "elevation_gain": 1000,
+    "difficulty": 7,
     "url": "https://maps.openrouteservice.org/directions?n1=51.258632&n2=-0.081629&n3=11&a=51.368705,-0.09916,51.28735,-0.172048,51.250216,-0.289506,51.253851,-0.32743,51.238512,-0.404178,51.213012,-0.414852,51.141372,-0.374509,51.128943,-0.402684,51.124045,-0.356318,51.150207,-0.34172,51.166153,-0.281811,51.210599,-0.256954,51.261974,-0.264015,51.286608,-0.222053&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km",
     "rides": [{
         "cyclist": "Max Soe",
@@ -170,9 +170,9 @@
     "organiser": "roo",
     "name": "Luton Loop",
     "description": "Goes around St Albans and Luton. The A roads near Luton Station isn't pleasant. Need to revise route",
-    "distance": "89700",
-    "elevation_gain": "681",
-    "difficulty": "6",
+    "distance": 89700,
+    "elevation_gain": 681,
+    "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=51.747179&n2=-0.322943&n3=16&a=51.750069,-0.328255,51.786107,-0.343277,51.793543,-0.456082,51.823437,-0.510745,51.882098,-0.537692,51.88214,-0.414485,51.895073,-0.439271,51.946247,-0.443668,51.929453,-0.338033,51.857269,-0.255817,51.844249,-0.264026,51.831552,-0.268878,51.811769,-0.293887,51.79798,-0.280544,51.784683,-0.262145,51.762656,-0.286685,51.750917,-0.264683,51.749835,-0.326984&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -181,9 +181,9 @@
     "organiser": "ctc",
     "name": "From Balcombe to the South Downs",
     "description": "~60 km and 700m climbing without an optional ascent of Ditchling Beacon. Lunch at Plumpton",
-    "distance": "57100",
-    "elevation_gain": "690",
-    "difficulty": "6",
+    "distance": 57100,
+    "elevation_gain": 690,
+    "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=50.985111&n2=-0.119615&n3=12&a=51.055,-0.137098,51.0518,-0.086633,51.0191,-0.048788,51.003899,-0.067597,50.964901,-0.0821,50.903999,-0.080725,50.914001,-0.168398,50.940012,-0.164904,50.9557,-0.16841,50.966301,-0.188588,50.982829,-0.187761,51.001099,-0.190128,51.003399,-0.175573,51.018501,-0.175237,51.0298,-0.189237,51.039398,-0.164813,51.0648,-0.167465,51.0555,-0.137055&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -192,9 +192,9 @@
     "organiser": "ctc",
     "name": "Windmills in the Chilterns",
     "description": "Quite hilly",
-    "distance": "72600",
-    "elevation_gain": "775",
-    "difficulty": "7",
+    "distance": 72600,
+    "elevation_gain": 775,
+    "difficulty": 7,
     "url": "https://maps.openrouteservice.org/directions?n1=51.751023&n2=-0.709591&n3=12&a=51.7617,-0.747351,51.8097,-0.6998,51.831799,-0.644131,51.824699,-0.628526,51.818298,-0.636041,51.802101,-0.620113,51.7994,-0.601836,51.782001,-0.639933,51.7687,-0.634843,51.751499,-0.648571,51.755501,-0.683028,51.747398,-0.696286,51.726002,-0.701161,51.7421,-0.715873,51.738998,-0.75259,51.7481,-0.767861,51.7356,-0.780505,51.711601,-0.767248,51.710098,-0.804371,51.699299,-0.817401,51.687599,-0.800511,51.689701,-0.77757,51.670101,-0.757543,51.682999,-0.748611,51.690899,-0.699695,51.702099,-0.705351,51.701769,-0.698545,51.702999,-0.693463,51.690601,-0.633015,51.674,-0.606863&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -203,9 +203,9 @@
     "organiser": "ctc",
     "name": "Down to the sea at Winchelsea",
     "description": "Through a bird reserve on a shingle spit and eventually towards the teashops at Rye. A few hills here",
-    "distance": "80100",
-    "elevation_gain": "802",
-    "difficulty": "7",
+    "distance": 80100,
+    "elevation_gain": 802,
+    "difficulty": 7,
     "url": "https://maps.openrouteservice.org/directions?n1=50.978398&n2=0.607385&n3=12&a=51.0107,0.442713,51.013562,0.459178,50.986051,0.536304,50.982047,0.598914,50.983002,0.629456,50.942902,0.627488,50.938301,0.699293,50.912899,0.72683,50.929298,0.772056,50.949402,0.728158,50.968498,0.748001,50.981897,0.740597,50.991441,0.730817,51.013699,0.727286,51.015149,0.683368,51.041901,0.640319,51.041199,0.590058,51.004437,0.538021,51.007823,0.506502,51.00138,0.505679,50.985298,0.468686&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -214,9 +214,9 @@
     "organiser": "ctc",
     "name": "Castle Hedingham",
     "description": "Jam for tea",
-    "distance": "85800",
-    "elevation_gain": "604",
-    "difficulty": "5",
+    "distance": 85800,
+    "elevation_gain": 604,
+    "difficulty": 5,
     "url": "https://maps.openrouteservice.org/directions?n1=51.819955&n2=0.621663&n3=11&a=51.7798,0.591706,51.838402,0.557456,51.852988,0.579692,51.8559,0.602176,51.9366,0.654953,51.9883,0.597261,51.983839,0.630689,51.968399,0.727855,51.936901,0.758516,51.900398,0.749101,51.893277,0.772822,51.875301,0.798635,51.846187,0.786911,51.822102,0.780166,51.804435,0.729131,51.7729,0.64709,51.7798,0.591736&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -225,9 +225,9 @@
     "organiser": "ctc",
     "name": "Lunch at Emily's Tea Shop in Whitwell",
     "description": "Ride through quiet countryside from St Albans to Harlington. Starts on Sustrans route from St Albans then on small roads via Ayot St Lawrence. A bit hilly but only one hard one into Harlington at the end",
-    "distance": "49900",
-    "elevation_gain": "391",
-    "difficulty": "4",
+    "distance": 49900,
+    "elevation_gain": 391,
+    "difficulty": 4,
     "url": "https://maps.openrouteservice.org/directions?n1=51.859662&n2=-0.36859&n3=11&a=51.749963,-0.327294,51.750737,-0.265507,51.755697,-0.271029,51.767312,-0.280097,51.789121,-0.273222,51.802873,-0.282027,51.848833,-0.254959,51.923648,-0.334701,51.930842,-0.340424,51.928316,-0.352451,51.962358,-0.494678&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -236,9 +236,9 @@
     "organiser": "ctc",
     "name": "Blackwater blues",
     "description": "Through Essex lanes for a canal side lunch at The Paper Mill Cafe. Afternoon tea at Writtle College",
-    "distance": "66000",
-    "elevation_gain": "466",
-    "difficulty": "3",
+    "distance": 66000,
+    "elevation_gain": 466,
+    "difficulty": 3,
     "url": "https://maps.openrouteservice.org/directions?n1=51.656158&n2=0.318947&n3=11&a=51.558998,0.250281,51.5788,0.25322,51.578035,0.259909,51.599602,0.290351,51.600101,0.315761,51.644178,0.366532,51.658298,0.385355,51.709,0.363863,51.7146,0.37891,51.736698,0.365483,51.752899,0.379679,51.7472,0.312831,51.7332,0.327153,51.7285,0.311151,51.705002,0.325478,51.676359,0.294515,51.667801,0.2838,51.661701,0.3009,51.590302,0.252858,51.559101,0.25057&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -247,9 +247,9 @@
     "organiser": "ctc",
     "name": "Theme and variations",
     "description": "Back to the Chilterns. These lanes never fail to delight",
-    "distance": "59800",
-    "elevation_gain": "596",
-    "difficulty": "6",
+    "distance": 59800,
+    "elevation_gain": 596,
+    "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=51.66034&n2=-0.592676&n3=12&a=51.611099,-0.646126,51.645745,-0.675279,51.6576,-0.694631,51.680599,-0.668726,51.687801,-0.68794,51.701698,-0.674641,51.682075,-0.611218,51.6759,-0.548651,51.709499,-0.525488,51.696899,-0.506279,51.704643,-0.493024,51.691601,-0.529623,51.676607,-0.529482,51.670916,-0.531103,51.670399,-0.548188,51.651699,-0.54826,51.62908,-0.582465,51.643902,-0.635814,51.631302,-0.675438,51.629101,-0.65657,51.6115,-0.643883&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -258,9 +258,9 @@
     "organiser": "altura",
     "name": "Forest of Bowland - Short",
     "description": "The Altura Forest of Bowland Sportive is a tough early-season test for the legs but you will be given just reward with superb sights and scenery as the Cumbria sportive rolls through two Areas of Outstanding Natural Beauty. At the start, the sportive leads out towards Milnthorpe Sands as the route enters its first Area of Outstanding Natural Beauty of the day, Arnside and Silverdale. After a stint on the River Kent, the route dives south to Carnforth and on to the first course split. Short riders peel off west. Winding its way through the surrounding fells and rivers, the course gives some of the best views the area has to offer. Reaching the edge of Clitheroe, the sportive heads north, climbing up to the top of the Newton Fells before descending to continue onto Slaidburn. The return leg across the Forest of Bowland climbs higher than before, granting you glorious views of the Tatham Fells until you reach High Bentham, at which point the route heads east through the village of Hornby. Leaving the National Park at Gressingham, the route continues to wind its way north for the final miles until reaching the finish line",
-    "distance": "56700",
-    "elevation_gain": "562",
-    "difficulty": "6",
+    "distance": 56700,
+    "elevation_gain": 562,
+    "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=54.177964&n2=-2.719238&n3=12&a=54.23424,-2.7139,54.223945,-2.71665,54.204417,-2.737086,54.22821,-2.76449,54.21953,-2.80545,54.20167,-2.82733,54.1933,-2.79683,54.17942,-2.81043,54.16118,-2.80517,54.140281,-2.775801,54.12928,-2.77009,54.12159,-2.7077,54.13476,-2.65601,54.143391,-2.64021,54.15944,-2.65145,54.16487,-2.61899,54.17743,-2.61113,54.18841,-2.63856,54.17848,-2.72253,54.22652,-2.715881,54.23385,-2.71413&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -269,9 +269,9 @@
     "organiser": "altura",
     "name": "Forest of Bowland - Standard",
     "description": "The Altura Forest of Bowland Sportive is a tough early-season test for the legs with over 1900m of climbing to tackle but you will be given just reward with superb sights and scenery as the Cumbria sportive rolls through two Areas of Outstanding Natural Beauty. At the start, the sportive leads out towards Milnthorpe Sands as the route enters its first Area of Outstanding Natural Beauty of the day, Arnside and Silverdale. After a stint on the River Kent, the route dives south to Carnforth and on to the first course split. Standard participants bear south to our second AONB of the day, the Forest of Bowland, where the course centres its loop for much of the rest of the ride, while also bringing about one of the toughest challenges in the Trough of Bowland.Winding its way through the surrounding fells and rivers, the course gives some of the best views the area has to offer. Reaching Dunsop Bridge the course splits for the last time as Standard riders head west. Reaching the edge of Clitheroe, the sportive heads north, climbing up to the top of the Newton Fells before descending to continue onto Slaidburn. The return leg across the Forest of Bowland climbs higher than before, granting you glorious views of the Tatham Fells until you reach High Bentham, at which point the route heads east through the village of Hornby. Leaving the National Park at Gressingham, the route continues to wind its way north for the final miles until reaching the finish line",
-    "distance": "130300",
-    "elevation_gain": "1900",
-    "difficulty": "8",
+    "distance": 130300,
+    "elevation_gain": 1900,
+    "difficulty": 8,
     "url": "https://maps.openrouteservice.org/directions?n1=54.090208&n2=-2.632942&n3=11&a=54.23442,-2.71376,54.225499,-2.716423,54.20326,-2.73094,54.22821,-2.76449,54.20167,-2.82733,54.1933,-2.79683,54.16118,-2.80517,54.140818,-2.778201,54.12928,-2.77009,54.12341,-2.69422,54.08706,-2.74247,54.06548,-2.7187,54.02915,-2.75316,53.94477,-2.52318,53.9608,-2.44607,54.00973,-2.4424,54.05079,-2.4952,54.118,-2.51014,54.1014,-2.60704,54.123219,-2.650818,54.12501,-2.66937,54.162443,-2.642413,54.18049,-2.61167,54.186934,-2.651669,54.17848,-2.72253,54.222728,-2.716833,54.23395,-2.71408&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -280,9 +280,9 @@
     "organiser": "altura",
     "name": "Forest of Bowland - Epic",
     "description": "The Altura Forest of Bowland Sportive is a tough early-season test for the legs with over 2400m of climbing to tackle but you will be given just reward with superb sights and scenery as the Cumbria sportive rolls through two Areas of Outstanding Natural Beauty. At the start, the sportive leads out towards Milnthorpe Sands as the route enters its first Area of Outstanding Natural Beauty of the day, Arnside and Silverdale. After a stint on the River Kent, the route dives south to Carnforth and on to the first course split. Epic participants bear south to our second AONB of the day, the Forest of Bowland, where the course centres its loop for much of the rest of the ride, while also bringing about one of the toughest challenges in the Trough of Bowland. Winding its way through the surrounding fells and rivers, the course gives some of the best views the area has to offer. Reaching Dunsop Bridge the course splits for the last time as Epic entrants continue south for an additional 460m of climbing. Reaching the edge of Clitheroe, the sportive heads north, climbing up to the top of the Newton Fells before descending to continue onto Slaidburn. The return leg across the Forest of Bowland climbs higher than before, granting you glorious views of the Tatham Fells until you reach High Bentham, at which point the route heads east through the village of Hornby. Leaving the National Park at Gressingham, the route continues to wind its way north for the final miles until reaching the finish line",
-    "distance": "160300",
-    "elevation_gain": "2400",
-    "difficulty": "9",
+    "distance": 160300,
+    "elevation_gain": 2400,
+    "difficulty": 9,
     "url": "https://maps.openrouteservice.org/directions?n1=54.046086&n2=-2.619553&n3=10&a=54.23386,-2.71313,54.226448,-2.716026,54.20326,-2.73094,54.22821,-2.76449,54.20167,-2.82733,54.1933,-2.79683,54.16118,-2.80517,54.12928,-2.77009,54.12341,-2.69422,54.08706,-2.74247,54.06548,-2.7187,54.02915,-2.75316,53.94539,-2.52359,53.90345,-2.50033,53.86415,-2.55383,53.86197,-2.42684,53.902774,-2.424469,53.94947,-2.46216,53.96653,-2.43981,54.00973,-2.4424,54.05079,-2.4952,54.118,-2.51014,54.1014,-2.60704,54.122966,-2.649884,54.12501,-2.66937,54.163024,-2.639184,54.18049,-2.61167,54.187169,-2.651502,54.17848,-2.72253,54.225443,-2.716162,54.23388,-2.71314&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -291,9 +291,9 @@
     "organiser": "dulux",
     "name": "London Revolution 2018 Day 1",
     "description": "The South London Leg - Cycle 160 kilometres through the iconic London sights, over the North Downs to Windsor Racecourse. Stage 1 - Cycle past the Shard and over Tower Bridge before witnessing the historic HMS Belfast. You’ll then venture South into Dulwich past Crystal Palace. Stage 2 - Follow the wheels of many Olympians who tackled these roads in the 2012 Games. Stage 3 - Your final leg into basecamp takes you through the idyllic Ewhurst, you’ll conquer Pitcher Hill one of the many beast’s along the North Downs",
-    "distance": "164800",
-    "elevation_gain": "1500",
-    "difficulty": "8",
+    "distance": 164800,
+    "elevation_gain": 1500,
+    "difficulty": 8,
     "url": "https://maps.openrouteservice.org/directions?n1=51.387039&n2=-0.321528&n3=10&a=51.62844,-0.03946,51.621645,-0.049111,51.61268,-0.048393,51.59401,-0.06951,51.559764,-0.070022,51.531865,-0.076959,51.512102,-0.069349,51.511622,-0.071284,51.496313,-0.080518,51.488763,-0.075208,51.48438,-0.084905,51.45961,-0.09407,51.4272,-0.075791,51.41988,-0.07849,51.398875,-0.043172,51.35978,0.00447,51.3153,0.00642,51.29737,-0.01683,51.27143,0.01987,51.254465,0.014256,51.244859,0.006799,51.234951,0.005739,51.22083,0.01649,51.200736,-0.010326,51.178196,-0.01367,51.16418,-0.05055,51.17534,-0.12979,51.191495,-0.149362,51.21669,-0.15995,51.22426,-0.19881,51.20969,-0.26299,51.14812,-0.32575,51.16294,-0.39249,51.14434,-0.43693,51.189018,-0.462882,51.28832,-0.49124,51.2921,-0.51325,51.332037,-0.513126,51.345736,-0.509356,51.36233,-0.50831,51.36676,-0.55625,51.4062,-0.57884,51.41416,-0.64012,51.44802,-0.6625,51.46311,-0.64529,51.478105,-0.630191,51.482454,-0.627053,51.486022,-0.633704,51.48873,-0.63059&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -302,9 +302,9 @@
     "organiser": "dulux",
     "name": "London Revolution 2018 Day 2",
     "description": "The North London Leg Buster - Cycle 140 kilometres from Windsor Racecourse, over the Chilterns and through Epping Forest, before finishing in Enfield. Stage 4 - Ride through beautiful Marlow, along the Thames Valley. Enjoy the scenic Buckinghamshire countryside before you hit the highs of the Chilterns. Stage 5 - Historic villages, buoyant market towns and traditional English pubs are all home to the idyllic countryside that you pedal on through, before hitting the lumpy Chilterns. Stage 6 - You’ll finish the ride in style, through the historic Epping Forest and back to Enfield to complete your full ‘revolution’ of our iconic capital city.",
-    "distance": "138700",
-    "elevation_gain": "1300",
-    "difficulty": "7",
+    "distance": 138700,
+    "elevation_gain": 1300,
+    "difficulty": 7,
     "url": "https://maps.openrouteservice.org/directions?n1=51.523173&n2=-0.490589&n3=10&a=51.48884,-0.63036,51.48561,-0.76928,51.528097,-0.764791,51.56373,-0.75289,51.60676,-0.84609,51.6449,-0.80542,51.67059,-0.84611,51.68436,-0.82854,51.70625,-0.85438,51.7223,-0.84041,51.703701,-0.785139,51.74327,-0.77652,51.74295,-0.70923,51.67587,-0.54864,51.69693,-0.53805,51.724596,-0.385004,51.69837,-0.32528,51.71542,-0.27317,51.69057,-0.22555,51.72197,-0.2184,51.72311,-0.17798,51.71051,-0.11526,51.69088,-0.12001,51.65983,-0.04674,51.633141,-0.043981,51.62971,-0.03886&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -313,9 +313,9 @@
     "organiser": "Lewisham Cyclists",
     "name": "Jane's flat Tonbridge ride",
     "description": "",
-    "distance": "89900",
-    "elevation_gain": "411",
-    "difficulty": "3",
+    "distance": 89900,
+    "elevation_gain": 411,
+    "difficulty": 3,
     "url": "https://maps.openrouteservice.org/directions?n1=51.154498&n2=0.55696&n3=12&a=51.172869,0.404642,51.200075,0.41605,51.219329,0.440562,51.224648,0.471774,51.213578,0.510454,51.203054,0.567947,51.184617,0.587368,51.16621,0.56547,51.138214,0.601657,51.123553,0.586659,51.084636,0.680886,51.095697,0.721922,51.112261,0.702076,51.125701,0.724686,51.154603,0.680061,51.154636,0.63384,51.144396,0.580988,51.150306,0.488428,51.181739,0.389348&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -324,9 +324,9 @@
     "organiser": "roo",
     "name": "New Forest 100k",
     "description": "",
-    "distance": "116100",
-    "elevation_gain": "714",
-    "difficulty": "5",
+    "distance": 116100,
+    "elevation_gain": 714,
+    "difficulty": 5,
     "url": "https://maps.openrouteservice.org/directions?n1=50.852125&n2=-1.511307&n3=11&a=50.816843,-1.574403,50.830587,-1.620541,50.914895,-1.653751,50.944698,-1.593134,50.891,-1.527224,50.870717,-1.56998,50.861891,-1.453453,50.839963,-1.453691,50.808986,-1.332404,50.786051,-1.388426,50.810038,-1.408017,50.802662,-1.440976,50.797207,-1.422137,50.777591,-1.435288,50.762684,-1.485753,50.76348,-1.533945,50.77214,-1.538848,50.783873,-1.545484,50.786052,-1.597451,50.768057,-1.656475,50.784732,-1.656003,50.81079,-1.609467,50.818354,-1.581001,50.816605,-1.575208&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km",
     "rides": [{
         "cyclist": "Max Soe",
@@ -351,9 +351,9 @@
     "organiser": "roo",
     "name": "Surrey Hills Training",
     "description": "",
-    "distance": "87300",
-    "elevation_gain": "1300",
-    "difficulty": "8",
+    "distance": 87300,
+    "elevation_gain": 1300,
+    "difficulty": 8,
     "url": "https://maps.openrouteservice.org/directions?n1=51.154498&n2=0.55696&n3=12&a=51.172869,0.404642,51.200075,0.41605,51.219329,0.440562,51.224648,0.471774,51.213578,0.510454,51.203054,0.567947,51.184617,0.587368,51.16621,0.56547,51.138214,0.601657,51.123553,0.586659,51.084636,0.680886,51.095697,0.721922,51.112261,0.702076,51.125701,0.724686,51.154603,0.680061,51.154636,0.63384,51.144396,0.580988,51.150306,0.488428,51.181739,0.389348&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -362,9 +362,9 @@
     "organiser": "bigfoot",
     "name": "Winter Training Route To Staplehurst & Back",
     "description": "Hayes-Shoreham-Plaxtol-Staplehurst This is the route used by the racing squad for winter training because it includes around 30 miles of flat terrain just 871m of climbing",
-    "distance": "113600",
-    "elevation_gain": "1000",
-    "difficulty": "6",
+    "distance": 113600,
+    "elevation_gain": 1000,
+    "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=51.269029&n2=0.277484&n3=11&a=51.378236,0.017724,51.369235,0.02665,51.361237,0.079147,51.35498,0.087333,51.346912,0.091453,51.345002,0.1082,51.344493,0.11644,51.345062,0.122491,51.338253,0.157928,51.311489,0.2105,51.309879,0.217495,51.306123,0.219555,51.297779,0.234661,51.277542,0.244961,51.233547,0.341949,51.216132,0.376625,51.209787,0.381432,51.207529,0.41851,51.184347,0.442371,51.169872,0.461769,51.165244,0.537643,51.209895,0.436878,51.217529,0.386925,51.224706,0.379114,51.284897,0.226593,51.304326,0.214834,51.310282,0.215639,51.311891,0.206187,51.342087,0.159903,51.359134,0.100808,51.358665,0.085251,51.360942,0.080595,51.362456,0.079007,51.369825,0.024118,51.377821,0.017273&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -373,9 +373,9 @@
     "organiser": "ukce",
     "name": "South Downs Spring - Standard",
     "description": "If you haven’t blown the winter cobwebs off your bike with a fast and free-flowing ride this far into the year, this April sportive set amongst the stunning South Downs of Sussex is likely just the event to ease you back into the saddle. Not forgetting this ride’s challenging hills, the Cycling Weekly Spring Sportive matches great climbs with the best descents that sprawl through stunning open country lanes. Kicking off in pretty Plumpton, the route heads east on unassuming back roads that can be taken at speed if so desired. As much as the hills on this route are a welcome challenge, you’ll be out of your saddle and counting on every last bit of winter training you have for the toughest ascents. Flirting with the most infamous hills in the area, riders are taken around the base of some fearsome climbs but the route tends to stick to luxurious rolling roads tucked away from traffic. Exploring East Sussex, sleepy villages are taken in one by one before reaching the outskirts of Heathfield – but this ride stays true to its countryside routes as it soon reaches back into the wilderness. Taking in a loop out past Five Ashes and back past High Hurstwood, you’ll be taken past Buxted and towards Uckfield on roads that remain mostly flat, quiet and long ranging. The route then leads north before crossing back into Mid-Sussex and turning south just before it crosses the River Ouse. A shining sun and helpful tailwind are enough to push you along for one last boost towards the finish line – which finishes on a mostly downward slope. You’ll cross the finish line feeling enthralled",
-    "distance": "94800",
-    "elevation_gain": "837",
-    "difficulty": "6",
+    "distance": 94800,
+    "elevation_gain": 837,
+    "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=50.924437&n2=0.07252&n3=12&a=50.92372,-0.06451,50.9018,-0.0616,50.92745,-0.04213,50.903791,-0.030813,50.89171,-0.00997,50.91991,0.027,50.89643,0.05315,50.906497,0.068665,50.91686,0.12348,50.891123,0.134926,50.87787,0.13063,50.8646,0.15941,50.90404,0.20749,50.92999,0.18469,50.944368,0.204105,50.966644,0.207539,50.978858,0.192776,50.976588,0.163078,50.97494,0.12422,50.965292,0.133939,50.9295,0.09773,50.93774,0.06139,50.98101,0.0553,50.95549,0.03625,50.942746,-0.022488,50.93795,-0.04555,50.90084,-0.05022,50.92363,-0.06455&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -384,9 +384,9 @@
     "organiser": "ctc",
     "name": "The Cols de Rye (not)",
     "description": "A flat ride of about 100km over Romney Marsh taking in the delights of a nuclear power station",
-    "distance": "99800",
-    "elevation_gain": "354",
-    "difficulty": "4",
+    "distance": 99800,
+    "elevation_gain": 354,
+    "difficulty": 4,
     "url": "https://maps.openrouteservice.org/directions?n1=51.047112&n2=0.83197&n3=11&a=51.14396,0.87624,51.11869,0.85844,51.112575,0.870667,51.111498,0.900536,51.10292,0.92289,51.083145,0.925083,51.05485,0.94417,51.033406,0.940533,51.00488,0.92821,50.988071,0.942872,50.9811,0.96803,50.92915,0.97381,50.98556,0.81748,51.02427,0.85149,51.050675,0.814705,51.05595,0.76075,51.085194,0.746384,51.11051,0.74343,51.112,0.70213,51.12569,0.72468,51.1369,0.68977,51.144787,0.700464,51.15044,0.716772,51.16511,0.73565,51.160991,0.752048,51.14404,0.87642&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
@@ -395,12 +395,9 @@
     "organiser": "ctc",
     "name": "Just the long ride",
     "description": "The long ride to a cream tea",
-    "distance": "101400",
-    "elevation_gain": "729",
-    "difficulty": "5",
+    "distance": 101400,
+    "elevation_gain": 729,
+    "difficulty": 5,
     "url": "https://maps.openrouteservice.org/directions?n1=51.696821&n2=0.285645&n3=11&a=51.57521,0.18339,51.588856,0.184021,51.595228,0.177155,51.60981,0.17797,51.65048,0.20778,51.662121,0.246935,51.6693,0.28067,51.75798,0.21904,51.771664,0.261269,51.78505,0.29283,51.81715,0.28469,51.810101,0.341263,51.80685,0.38676,51.77662,0.35864,51.750574,0.384007,51.74363,0.39558,51.72188,0.34599,51.735906,0.3374,51.740105,0.324955,51.72554,0.322466,51.710963,0.313647,51.70504,0.32549,51.674418,0.292253,51.651898,0.292168,51.62387,0.27793,51.60377,0.18048,51.598054,0.175695,51.596055,0.175545,51.590269,0.182884,51.57526,0.18358&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
-
-
-
 ]
