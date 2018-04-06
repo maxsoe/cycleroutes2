@@ -1,5 +1,9 @@
 <div layout-margin>
-  <md-card ng-repeat="route in allRoutesCtrl.routes | orderBy:'-created_at'" class="{{route.organiser}}">
+
+  <p>Search: <input ng-model="allRoutesCtrl.query" /></p>
+
+
+  <md-card ng-repeat="route in allRoutesCtrl.routes | filter:allRoutesCtrl.query | orderBy:'-created_at'" class="{{route.organiser}}">
 
     <gpx-on-map ng-click="allRoutesCtrl.goToUrl(route.url)" gpxfile="route.gpx" style="min-height:200px; background:#ddd;"></gpx-on-map>
 
