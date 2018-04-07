@@ -403,7 +403,7 @@
   },
   {
     "created_at": "2017-08-08T09:00:00Z",
-    "modified_on": "2017-04-07T12:51:00Z",
+    "modified_on": "2018-04-07T12:51:00Z",
     "gpx": "neighbourhoodride20180407.gpx",
     "organiser": "roo",
     "name": "Croydon neighbourhood ride",
@@ -412,5 +412,48 @@
     "elevation_gain": 555,
     "difficulty": 5,
     "url": "https://maps.openrouteservice.org/directions?n1=51.251831&n2=0.02676&n3=11&a=51.368671,-0.098842,51.266727,-0.119119,51.241834,-0.098589,51.235008,-0.064307,51.265466,-0.037249,51.293977,-0.014849,51.336967,-0.053723,51.365027,-0.095474,51.36822,-0.097731,null,null&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2017-08-19T09:00:00Z",
+    "modified_on": "2018-04-07T13:24:00Z",
+    "gpx": "bigginhillfromcroydon.gpx",
+    "organiser": "roo",
+    "name": "Biggin Hill from Croydon",
+    "description": "A quick ride around Biggin Hill, heading out from Croydon",
+    "distance": 39600,
+    "elevation_gain": 388,
+    "difficulty": 5,
+    "url": "https://maps.openrouteservice.org/directions?n1=51.344587&n2=-0.023739&n3=13&a=51.368935,-0.098225,51.366217,-0.090723,51.364075,-0.082347,51.358897,-0.056651,51.327948,-0.007935,51.282058,-0.001158,51.304694,0.065654,51.343538,0.050746,51.37527,-0.005426,51.376393,-0.008702,51.375854,-0.041867,51.370216,-0.098288&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km",
+    "rides": [{
+        "cyclist": "Max Soe",
+        "activity": "https://www.strava.com/activities/1141344928",
+        "date": "2017-08-19"
+      },
+      {
+        "cyclist": "Jo Morrison",
+        "activity": "https://www.strava.com/activities/1141542113",
+        "date": "2017-08-19"
+      },
+      {
+        "cyclist": "Aidan Yau",
+        "activity": "https://www.strava.com/activities/1141346167",
+        "date": "2017-08-19"
+      },
+      {
+        "cyclist": "Dee Woo",
+        "activity": "https://www.strava.com/activities/1141320349",
+        "date": "2017-08-19"
+      },
+      {
+        "cyclist": "Vincent Ho",
+        "activity": "https://www.strava.com/activities/1141319138",
+        "date": "2017-08-19"
+      },
+      {
+        "cyclist": "Nia Nguyen",
+        "activity": "https://www.strava.com/activities/1143296849",
+        "date": "2017-08-19"
+      }
+    ]
   }
 ]
