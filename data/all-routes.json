@@ -407,7 +407,11 @@
     "gpx": "neighbourhoodride20180407.gpx",
     "organiser": "roo",
     "name": "Croydon neighbourhood ride",
+<<<<<<< HEAD
     "description": "A quick ride around Croydon, heading up Farthing Downs",
+=======
+    "description": "A quick ride around Croydon",
+>>>>>>> afa0e44cfea512d490ab0fa32b8fbf9d1ffb6c07
     "distance": 42600,
     "elevation_gain": 555,
     "difficulty": 5,
