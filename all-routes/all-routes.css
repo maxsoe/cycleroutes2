@@ -135,6 +135,15 @@ md-card.altura,
   background-color: rgba(202, 202, 202, 0.2);
 }
 
+md-card.bigfoot,
+.bigfoot organiser .avatar-icon {
+  background-color: rgba(107, 197, 235, 0.2);
+}
+.bigfoot md-card-header-text {
+  /* 0.5 multiplier */
+  color: rgba(54, 99, 118, 0.87);
+}
+
 md-card.brewin,
 .brewin organiser .avatar-icon {
   background-color: rgba(32, 85, 134, 0.2);
