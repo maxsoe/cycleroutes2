@@ -714,5 +714,17 @@
     "elevation_gain": 1000,
     "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=51.334687&n2=0.136814&n3=12&a=51.37847,0.01762,51.34138,0.17646,51.29705,0.24923,51.27464,0.24487,51.218228,0.376453,51.209357,0.381346,51.19901,0.43499,51.183755,0.4422,51.16148,0.47028,51.1665,0.53757,51.1878,0.45505,51.2243,0.42915,51.221185,0.394306,51.27688,0.23707,51.34138,0.17646,51.334687,0.144882,51.3784,0.01749&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2017-08-16T09:07:00Z",
+    "modified_on": "2018-04-08T19:50:00Z",
+    "gpx": "route1732172819.gpx",
+    "organiser": "bigfoot",
+    "name": "Turners Hill Loop",
+    "description": "Difficulty: 3/4 Route overview: Hayes – Godstone – Smallfield – Copthorne – Turners Hill – East Grinstead – Lingfield – Tatsfield – Biggin Hill – Hayes. A fairly straight route out and back with steady climbing on the way and over Turners Hill before a quick return route",
+    "distance": 87300,
+    "elevation_gain": 1000,
+    "difficulty": 6,
+    "url": "https://maps.openrouteservice.org/directions?n1=51.240769&n2=-0.03902&n3=11&a=51.37845,0.01761,51.36222,0.02729,51.29737,-0.01683,51.2815,0.00295,51.23538,-0.06316,51.24067,-0.09918,51.11594,-0.13401,51.10232,-0.08976,51.12603,-0.01627,51.1745,-0.007639,51.19469,-0.01793,51.22083,0.01649,51.27616,0.01832,51.278884,0.027723,51.29239,0.05591,51.32577,0.02303,51.34777,0.03648,51.37881,0.01783&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
 ]
