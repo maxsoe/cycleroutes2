@@ -181,6 +181,14 @@ md-card.dulux,
   color: rgba(0, 23, 58, 0.87);
 }
 
+md-card.oth,
+.oth organiser .avatar-icon {
+  background-color: rgba(94, 181, 27, 0.2);
+}
+.oth md-card-header-text {
+  color: rgba(47, 91, 14, 0.87)
+}
+
 md-card.roo,
 .roo organiser .avatar-icon {
   background-color: rgba(255, 223, 0, 0.2);
