@@ -7,6 +7,9 @@ angular
         case 'altura':
           return ("Altura Road Series")
           break;
+        case 'bigfoot':
+          return ("Bigfoot CC")
+          break;
         case 'brewin':
           return ("Brewin Dolphin Velo Series")
           break;

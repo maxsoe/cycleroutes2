@@ -4,6 +4,7 @@ angular
   .filter('organiserIcon', function() {
     return function(input) {
       if (input == "altura" ||
+        input == "bigfoot" ||
         input == "brewin" ||
         input == "ctc" ||
         input == "dulux" ||
