@@ -32,7 +32,8 @@
       <md-card-header-text ng-click="allRoutesCtrl.goToUrl(route.url)">
         <span class="md-title">{{route.name}}</span>
         <!-- <span class="md-subhead" ng-if="route.description">{{route.description}}</span> -->
-        <creation-date class="md-caption">{{route.created_at | date:'dd MMM yyyy'}}</creation-date>
+        <!-- <creation-date class="md-caption">{{route.created_at | date:'dd MMM yyyy'}}</creation-date> -->
+        <modified-date class="md-caption">{{route.modified_on | date:'dd MMM yyyy'}}</modified-date>
       </md-card-header-text>
     </md-card-header>
     <md-card-content>

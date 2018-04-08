@@ -28,7 +28,7 @@ function allRoutesController(getRoutesListSvc, $window) {
     // console.log("goToUrl activated at " +url);
   }
 
-  this.orderBy = "modified_on";
+  this.orderBy = "-modified_on";
   console.log("Original order is " + this.orderBy);
 
   this.changeOrderBy = changeOrderBy;
