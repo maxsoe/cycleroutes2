@@ -678,5 +678,17 @@
     "elevation_gain": 614,
     "difficulty": 4,
     "url": "https://maps.openrouteservice.org/directions?n1=51.325234&n2=0.0298&n3=12&a=51.378478,0.017509,51.36219,0.02725,51.34991,0.00931,51.31541,0.00639,51.304218,-0.026178,51.297,-0.05622,51.290963,-0.044975,51.27196,-0.03167,51.29711,0.11596,51.31103,0.10579,51.29268,0.05626,51.30478,0.06553,51.34056,0.05261,51.35179,0.03129,51.3783,0.01766&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2017-10-29T09:04:00Z",
+    "modified_on": "2018-04-08T19:30:00Z",
+    "gpx": "route1840818509.gpx",
+    "organiser": "bigfoot",
+    "name": "Shop front to sea front",
+    "description": "Difficulty: 3/4 Route overview: Hayes – Botley Hill – Godstone – Crawley – Waringlid – Brighton. A superb rural route all the way down to Brighton, taking in Devils Dyke instead of Ditchling Beacon",
+    "distance": 87400,
+    "elevation_gain": 983,
+    "difficulty": 6,
+    "url": "https://maps.openrouteservice.org/directions?n1=51.099747&n2=-0.098525&n3=10&a=51.378504,0.017724,51.36222,0.02742,51.29732,-0.01678,51.28143,0.00296,51.23543,-0.06317,51.23855,-0.10085,51.11602,-0.13407,51.10239,-0.08901,51.055423,-0.166512,51.02077,-0.21024,51.011271,-0.20977,50.993231,-0.209427,50.968049,-0.212517,50.92684,-0.22445,50.88704,-0.19269,50.88019,-0.21046,50.823017,-0.15398,50.81926,-0.13452&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
 ]
