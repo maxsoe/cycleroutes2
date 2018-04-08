@@ -666,5 +666,17 @@
     "elevation_gain": 99,
     "difficulty": 3,
     "url": "https://maps.openrouteservice.org/directions?n1=51.363079&n2=0.019441&n3=14&a=51.377835,0.017617,51.37387,0.004828,51.37031,0.00386,51.34832,0.03624,51.370012,0.023518,51.37774,0.01768&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2018-01-29T09:04:00Z",
+    "modified_on": "2018-04-08T19:25:00Z",
+    "gpx": "route1840820438.gpx",
+    "organiser": "bigfoot",
+    "name": "Woldingham, Sundridge Hill Loop",
+    "description": "Difficulty: 3/4 Route overview: Hayes – Woldingham – Knockholt – Cudham – Downe – Hayes This is one of our Saturday morning routes. It takes in some climbs as well as a fast section of Pilgrims Way. This is not for beginners. You should allow 3 hours but fitter riders will get round in 2hrs – 2hrs 30mins",
+    "distance": 47400,
+    "elevation_gain": 614,
+    "difficulty": 4,
+    "url": "https://maps.openrouteservice.org/directions?n1=51.325234&n2=0.0298&n3=12&a=51.378478,0.017509,51.36219,0.02725,51.34991,0.00931,51.31541,0.00639,51.304218,-0.026178,51.297,-0.05622,51.290963,-0.044975,51.27196,-0.03167,51.29711,0.11596,51.31103,0.10579,51.29268,0.05626,51.30478,0.06553,51.34056,0.05261,51.35179,0.03129,51.3783,0.01766&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
 ]

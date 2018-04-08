@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>
+   Bigfoot - Keston Church Loop
+  </name>
+  <trkseg>
+   <trkpt lat="51.3778346339" lon="0.0176167488"/>
+   <trkpt lat="51.377" lon="0.01734"/>
+   <trkpt lat="51.37667" lon="0.01767"/>
+   <trkpt lat="51.37646" lon="0.01733"/>
+   <trkpt lat="51.3751" lon="0.01631"/>
+   <trkpt lat="51.37534" lon="0.01206"/>
+   <trkpt lat="51.37577" lon="0.01064"/>
+   <trkpt lat="51.37601" lon="0.00755"/>
+   <trkpt lat="51.37553" lon="0.00575"/>
+   <trkpt lat="51.37483" lon="0.00674"/>
+   <trkpt lat="51.37304" lon="0.00283"/>
+   <trkpt lat="51.37031" lon="0.00386"/>
+   <trkpt lat="51.36771" lon="0.00592"/>
+   <trkpt lat="51.36554" lon="0.01176"/>
+   <trkpt lat="51.36428" lon="0.01549"/>
+   <trkpt lat="51.36331" lon="0.01768"/>
+   <trkpt lat="51.36074" lon="0.02094"/>
+   <trkpt lat="51.35935" lon="0.02244"/>
+   <trkpt lat="51.35777" lon="0.02244"/>
+   <trkpt lat="51.3553" lon="0.02665"/>
+   <trkpt lat="51.35045" lon="0.02712"/>
+   <trkpt lat="51.34962" lon="0.02794"/>
+   <trkpt lat="51.34932" lon="0.0291"/>
+   <trkpt lat="51.34895" lon="0.03124"/>
+   <trkpt lat="51.34884" lon="0.0348"/>
+   <trkpt lat="51.34832" lon="0.03624"/>
+   <trkpt lat="51.35072" lon="0.03502"/>
+   <trkpt lat="51.35117" lon="0.03283"/>
+   <trkpt lat="51.35176" lon="0.03129"/>
+   <trkpt lat="51.35225" lon="0.03133"/>
+   <trkpt lat="51.35428" lon="0.03292"/>
+   <trkpt lat="51.35814" lon="0.03167"/>
+   <trkpt lat="51.3598" lon="0.03038"/>
+   <trkpt lat="51.36224" lon="0.02734"/>
+   <trkpt lat="51.36291" lon="0.02699"/>
+   <trkpt lat="51.36409" lon="0.02433"/>
+   <trkpt lat="51.36506" lon="0.02296"/>
+   <trkpt lat="51.3657" lon="0.02172"/>
+   <trkpt lat="51.36736" lon="0.02034"/>
+   <trkpt lat="51.37111" lon="0.01768"/>
+   <trkpt lat="51.37253" lon="0.01626"/>
+   <trkpt lat="51.37443" lon="0.01601"/>
+   <trkpt lat="51.37643" lon="0.01742"/>
+   <trkpt lat="51.37666" lon="0.01775"/>
+   <trkpt lat="51.37698" lon="0.01742"/>
+   <trkpt lat="51.37774" lon="0.01768"/>
+  </trkseg>
+ </trk>
+</gpx>
