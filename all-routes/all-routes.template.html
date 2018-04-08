@@ -1,23 +1,22 @@
 <p>Search: <input ng-model="allRoutesCtrl.query" /></p>
-<md-fab-toolbar class="filters" md-open="false" count="3"
-                  md-direction="left">
-    <md-fab-trigger class="align-with-text">
-      <md-button aria-label="menu" class="md-fab md-primary md-whiteframe-6dp">
-        <md-icon md-svg-src="img/icon/filter.svg"></md-icon>
-      </md-button>
-    </md-fab-trigger>
+<md-fab-toolbar class="filters" md-open="false" count="3" md-direction="left">
+  <md-fab-trigger class="align-with-text">
+    <md-button aria-label="menu" class="md-fab md-primary md-whiteframe-6dp">
+      <md-icon md-svg-src="img/icon/filter.svg"></md-icon>
+    </md-button>
+  </md-fab-trigger>
 
-    <md-toolbar>
-      <md-fab-actions class="md-toolbar-tools">
-        <md-button ng-click="allRoutesCtrl.changeOrderBy('elevation_gain')" aria-label="comment" class="md-icon-button">
-          <md-icon md-svg-src="img/icon/ascent.svg"></md-icon>
-        </md-button>
-        <md-button ng-click="allRoutesCtrl.changeOrderBy('distance')" aria-label="label" class="md-icon-button">
-          <md-icon md-svg-src="img/icon/distance.svg"></md-icon>
-        </md-button>
-      </md-fab-actions>
-    </md-toolbar>
-  </md-fab-toolbar>
+  <md-toolbar>
+    <md-fab-actions class="md-toolbar-tools">
+      <md-button ng-click="allRoutesCtrl.changeOrderBy('elevation_gain')" aria-label="comment" class="md-icon-button">
+        <md-icon md-svg-src="img/icon/ascent.svg"></md-icon>
+      </md-button>
+      <md-button ng-click="allRoutesCtrl.changeOrderBy('distance')" aria-label="label" class="md-icon-button">
+        <md-icon md-svg-src="img/icon/distance.svg"></md-icon>
+      </md-button>
+    </md-fab-actions>
+  </md-toolbar>
+</md-fab-toolbar>
 <div layout-margin>
   <md-card ng-repeat="route in allRoutesCtrl.routes | filter:allRoutesCtrl.query | orderBy:allRoutesCtrl.orderBy" class="{{route.organiser}}">
 
@@ -31,7 +30,7 @@
 
     <md-card-header>
       <md-card-header-text ng-click="allRoutesCtrl.goToUrl(route.url)">
-        <span class="md-title" >{{route.name}}</span>
+        <span class="md-title">{{route.name}}</span>
         <!-- <span class="md-subhead" ng-if="route.description">{{route.description}}</span> -->
         <creation-date class="md-caption">{{route.created_at | date:'dd MMM yyyy'}}</creation-date>
       </md-card-header-text>
@@ -60,11 +59,14 @@
         </div>
       </div>
       <p class="md-body-1 description">{{route.description}}</p>
-      <p ng-if="route.rides" class="md-body-1 rides">Route done by: <span ng-repeat="ride in route.rides"><a ng-href="{{ride.activity}}" target="_blank">{{ride.cyclist}} - {{ride.date}}</a> | </span></p>
-    </md-card-content>
-    <md-divider class="with-padding"></md-divider>
-    <md-card-footer layout="column" layout-align="center center">
 
+    </md-card-content>
+    <md-divider class="with-padding" ng-if="route.rides"></md-divider>
+    <md-card-footer layout="column" layout-align="center center" ng-if="route.rides">
+      <p class="md-caption">Route cycled by</p>
+      <div class="md-body-1 rides" layout="row" layout-align="center center" layout-wrap>
+        <ride ng-repeat="ride in route.rides"><a ng-href="{{ride.activity}}" target="_blank">{{ride.cyclist}} - {{ride.date}}</a></ride>
+      </div>
       <!-- <div class="md-caption">{{route.created_at | date:'dd MMM yyyy'}}</div> -->
 
       <!-- <md-card-icon-actions hide-xs layout-gt-xs="row" flex="none" layout-align-gt-xs="center">
