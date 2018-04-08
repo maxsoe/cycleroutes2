@@ -194,6 +194,14 @@ md-card.roo,
   background-color: rgba(0,128,0, 0.87);
 }
 
+md-card.ukce,
+.ukce organiser .avatar-icon {
+  background-color: rgba(86, 87, 87, 0.2);
+}
+.ukce md-card-header-text {
+  color: rgba(78, 139, 31, 0.87);
+}
+
 .filters {
   position: fixed;
   bottom: 0;
