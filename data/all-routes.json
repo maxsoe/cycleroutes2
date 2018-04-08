@@ -702,5 +702,17 @@
     "elevation_gain": 1100,
     "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=51.259337&n2=0.071754&n3=11&a=51.378317,0.017338,51.367842,0.020041,51.357633,0.015793,51.346698,0.007553,51.3127,-0.00343,51.2791,0.01957,51.22065,0.01614,51.19204,-0.0182,51.15136,0.02077,51.14091,0.08617,51.18924,0.16068,51.25622,0.12239,51.25654,0.10128,51.30406,0.15286,51.31575,0.12342,51.29263,0.05613,51.34042,0.05236,51.37703,0.01751&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2017-10-29T09:06:00Z",
+    "modified_on": "2018-04-08T19:46:00Z",
+    "gpx": "route1840811867.gpx",
+    "organiser": "bigfoot",
+    "name": "Winter Training Route To Staplehurst & Back",
+    "description": "Difficulty: 4/5 Route overview: Hayes-Shoreham-Plaxtol-Staplehurst This is the route used by the racing squad for winter training because it includes around 30 miles of flat terrain just 871m of climbing",
+    "distance": 113600,
+    "elevation_gain": 1000,
+    "difficulty": 6,
+    "url": "https://maps.openrouteservice.org/directions?n1=51.334687&n2=0.136814&n3=12&a=51.37847,0.01762,51.34138,0.17646,51.29705,0.24923,51.27464,0.24487,51.218228,0.376453,51.209357,0.381346,51.19901,0.43499,51.183755,0.4422,51.16148,0.47028,51.1665,0.53757,51.1878,0.45505,51.2243,0.42915,51.221185,0.394306,51.27688,0.23707,51.34138,0.17646,51.334687,0.144882,51.3784,0.01749&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
 ]
