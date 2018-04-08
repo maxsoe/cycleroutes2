@@ -8,6 +8,7 @@ angular
         input == "ctc" ||
         input == "dulux" ||
         input == "noexcuses" ||
+        input == "oth" ||
         input == "roo" ||
         input == "sigma" ||
         input == "ukce" ||

@@ -19,6 +19,9 @@ angular
         case 'noexcuses':
           return ("No Excuses Series")
           break;
+        case 'oth':
+          return ("Over the Hills Cyclists")
+          break;
         case 'roo':
           return ("London Roovolution")
           break;
