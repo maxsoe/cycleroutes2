@@ -536,5 +536,17 @@
     "elevation_gain": 1000,
     "difficulty": 7,
     "url": "https://maps.openrouteservice.org/directions?n1=51.292841&n2=0.059395&n3=11&a=51.40981,-0.02418,51.404154,-0.010679,51.374981,0.014475,51.31396,0.09207,51.30302,0.08971,51.299756,0.094428,51.27794,0.11898,51.272265,0.12113,51.2465,0.12718,51.24453,0.14477,51.22446,0.14025,51.18927,0.16087,51.17517,0.1236,51.1799,0.10536,51.20828,0.11044,51.211058,0.099532,51.21215,0.09315,51.23895,0.08596,51.2453,0.05931,51.266717,0.059337,51.26989,0.06259,51.28536,0.03036,51.291943,0.026392,51.301399,0.033164,51.30416,0.03465,51.33214,0.00333,51.35995,0.00446,51.370242,-0.013591,51.371536,-0.029476,51.39546,-0.04283,51.408812,-0.028738&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
+    "created_at": "2017-10-02T09:00:00Z",
+    "modified_on": "2018-04-08T17:28:00Z",
+    "gpx": "route1804922480.gpx",
+    "organiser": "ctc",
+    "name": "Emitremmus Desrever - 2017",
+    "description": "Emitremmus Desrever is our celebration of the end of summertime and the route is essentially the reverse of the middle-distance Start of summertime route. In addition to this, from 2011 we also offered a shorter Lite version of the Emitremmus. This event has grown to a point where we now have well over 400 entrants each year to this event and because of this, we encourage everyone to enter as early as possible to guarantee a place. Event Information We offer two different distances for this event. Both routes start and finish on the same roads but the middle follows different routes.",
+    "distance": 100700,
+    "elevation_gain": 848,
+    "difficulty": 6,
+    "url": "https://maps.openrouteservice.org/directions?n1=51.950383&n2=0.014256&n3=11&a=51.90181,-0.20686,51.90418,-0.156875,51.87408,-0.06619,51.91314,-0.01362,51.94538,-0.01763,51.95849,0.12861,51.98384,0.21438,52.00302,0.222382,52.017639,0.232663,52.004952,0.192889,52.008658,-0.014817,52.01847,-0.0617,52.003954,-0.071365,51.943933,-0.115138,51.95668,-0.1665,51.92578,-0.190102,51.922556,-0.176949,51.90862,-0.18116,51.90346,-0.20772&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
 ]
