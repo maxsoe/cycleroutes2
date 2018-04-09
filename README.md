@@ -10,7 +10,6 @@ Colour scheme file - https://docs.google.com/spreadsheets/d/1Me42btozWF98Y37PMft
 TODO:
 - filters
 - strava rides
-- mapmyride ride
 - modal on click-through
 - use flex order to create masonary tiling
 
@@ -19,3 +18,4 @@ DONE:
 - ng-click on entire card
 - pinterest style grid
 - larger breakpoints
+- mapmyride ride
