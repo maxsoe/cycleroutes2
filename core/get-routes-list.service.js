@@ -2,7 +2,18 @@
 angular
   .module('getRoutesListSvc', [])
   .service('getRoutesListSvc', function($http) {
-    this.getPosts = function() {
-      return $http.get('data/all-routes.json');
-    }
+    var routes;
+    this.routes = routes;
+
+    this.getPosts = getPosts;
+
+    function getPosts() {
+      routes = $http.get('data/all-routes.json');
+      return routes;
+    };
+
+    return {
+      getPosts: getPosts
+    };
+
   });
