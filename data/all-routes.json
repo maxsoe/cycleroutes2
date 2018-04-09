@@ -24,15 +24,15 @@
   },
   {
     "created_at": "2017-11-07T20:11:39Z",
-    "modified_on": "2018-04-01T13:24:00Z",
+    "modified_on": "2018-04-09T22:25:00Z",
     "gpx": "3.gpx",
     "organiser": "ctc",
     "name": "(Not) To the Tin Pot",
-    "description": "Url needs updating. Through Sandridge to lunch at Whitwell, back to Big Chef via Panshanger. No trains or pubs involved.",
+    "description": "Through Sandridge to lunch at Whitwell, back to Big Chef via Panshanger. No trains or pubs involved.",
     "distance": 100710,
     "elevation_gain": 1002,
     "difficulty": 7,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=51.749841&n2=-0.247313&n3=11&a=51.59274,-0.16654,51.67929,-0.20931,51.6951,-0.1936,51.716551,-0.223054,51.78068,-0.30558,51.807074,-0.308705,51.823219,-0.316,51.84006,-0.316171,51.85114,-0.3071,51.86505,-0.35474,51.878567,-0.335017,51.90697,-0.30768,51.849486,-0.244231,51.85301,-0.216017,51.855207,-0.191202,51.83741,-0.1498,51.81013,-0.15977,51.78184,-0.13695,51.65573,-0.20191,51.59169,-0.16558&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2017-11-09T20:11:39Z",
