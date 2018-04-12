@@ -148,6 +148,10 @@ md-card.bigfoot,
   /* 0.5 multiplier */
   color: rgba(54, 99, 118, 0.87);
 }
+.bigfoot .rides a {
+  color: rgba(255,255,255,0.87);
+  background-color: rgba(54, 99, 118, 0.87);
+}
 
 md-card.brewin,
 .brewin organiser .avatar-icon {
