@@ -20,16 +20,16 @@ function gpxOnMapController($timeout) {
   this.$onInit = $onInit;
 
   function $onInit() {
-    var nameWithDots = this.gpxfile;
-    var mapId = nameWithDots.replace(".gpx", "gpx");
+    var gpxFile = this.gpxfile;
+    var mapId = gpxFile.replace(".gpx", "gpx");
     // console.log("Component: mapId is " + mapId);
 
     $timeout(function() {
-      insertMap(mapId, nameWithDots);
+      insertMap(mapId, gpxFile);
     });
   };
 
-  function insertMap(mapId, nameWithDots) {
+  function insertMap(mapId, gpxFile) {
     // console.log("insertMap: mapId is " + mapId);
     var map = [];
     var mapTileLayer = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
@@ -47,7 +47,7 @@ function gpxOnMapController($timeout) {
     mapTileLayer.addTo(map);
 
     var dataFolder = 'data/gpx/';
-    var gpxFile = dataFolder.concat(nameWithDots); // URL to your GPX file or the GPX itself
+    var gpxFileUrl = dataFolder.concat(gpxFile); // URL to your GPX file or the GPX itself
     var endIconUrl = L.icon({
     iconUrl: 'gpx-on-map/marker/pin-icon-end.png',
     shadowUrl: 'gpx-on-map/marker/pin-shadow.png',
@@ -68,7 +68,7 @@ function gpxOnMapController($timeout) {
         iconAnchor:   [8, 8]
       }
     };
-    var gpxLayer = new L.GPX(gpxFile, gpxLayerOptions);
+    var gpxLayer = new L.GPX(gpxFileUrl, gpxLayerOptions);
     var loadedGpxLayer = gpxLayer.on('loaded', function(e) {
       var fileInfo = e.target;
       map.fitBounds(fileInfo.getBounds());
