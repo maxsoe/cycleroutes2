@@ -1024,8 +1024,18 @@
         "cyclist": "Max Soe",
         "activity": "https://www.strava.com/activities/1469025442",
         "date": "2018-03-24"
-      }
-    ]
+      }]
+  },
+  {
+    "created_at": "2009-11-15T09:00:00Z",
+    "modified_on": "2018-04-13T14:50:00Z",
+    "gpx": "ctc20091115.gpx",
+    "organiser": "ctc",
+    "name": "North Kent and the Hoo Peninsula",
+    "description": "A morning ride through the Downs, then Thames views and on to the Medway. Lunch at Cobham with tea at Rochester",
+    "distance": 53500,
+    "elevation_gain": 638,
+    "difficulty": 6,
+    "url": "https://maps.openrouteservice.org/directions?n1=51.189848&n2=-0.335936&n3=12&a=51.254002,-0.328534,51.2379,-0.404561,51.2131,-0.414801,51.172798,-0.379896,51.141399,-0.374515,51.128899,-0.402415,51.1241,-0.356181,51.142899,-0.334901,51.1502,-0.341723,51.166401,-0.281791,51.210499,-0.25707,51.226002,-0.259608,51.2328,-0.28745,51.217602,-0.298136,51.240898,-0.324126&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   }
-
 ]
