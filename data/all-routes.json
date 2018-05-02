@@ -1,17 +1,53 @@
 [
   {
-      "created_at": "2010-04-10T09:00:00Z",
-      "modified_on": "2018-04-30T20:22:00Z",
-      "gpx": "ctc20100410.gpx",
-      "organiser": "ctc",
-      "name": "Green shoots of recovery",
-      "description": "Spring in the beech woods of the Chilterns. Quite hilly",
-      "distance": 70000,
-      "elevation_gain": 976,
-      "difficulty": 6,
-      "url": "https://maps.openrouteservice.org/directions?n1=51.688485&n2=-0.696144&n3=14&a=51.611,-0.643917,51.609501,-0.664613,51.624699,-0.676624,51.641602,-0.669943,51.667702,-0.696693,51.675301,-0.754306,51.697601,-0.770298,51.6791,-0.771946,51.672001,-0.785835,51.686199,-0.802383,51.6908,-0.784388,51.704486,-0.787602,51.710201,-0.803516,51.6992,-0.817711,51.720001,-0.83627,51.724201,-0.8076,51.705898,-0.778873,51.712799,-0.756568,51.731201,-0.779598,51.748199,-0.767793,51.733601,-0.681168,51.7132,-0.677661,51.702,-0.705628,51.687763,-0.696483,51.684799,-0.693293,51.668598,-0.702185,51.6605,-0.663996,51.646599,-0.676086,51.635799,-0.655233,51.611401,-0.64358&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+      "created_at": "2018-05-02T15:00:00Z",
+      "modified_on": "2018-05-02T15:00:00Z",
+      "gpx": "ukce-wss-spring-saddle-2018-epic.gpx",
+      "organiser": "wiggle",
+      "name": "Wiggle Spring Saddle Sportive - Epic",
+      "description": "The heritage of the humble saddle is strong around the Newmarket area – albeit with a different type of riding as this sportive leads out from the Rowley Mile Racecourse of Newmarket Racecourses. Much like a horse racing course, the route is filled with flat and consistent terrain, leaving no excuse for stragglers to be behind by the first hurdle. You’ll cross through Suffolk, Cambridgeshire and Essex in this tri-county sportive, which begins by heading south, picking up the River Stour around Brinkley, which you’ll follow for a short while until reaching the outskirts of Haverhill. Taking in sleepy villages with their idyllic churches and greens typical of the area, you’ll press forward without the interruption from hills or climbing on this free-flowing ride. Entering into Essex for a few miles, you’ll pass through historic towns such as Thaxted, with its age-old buildings lining the High Street. Continuing on, it’s a simple case of chewing away the miles left to go as the flat scenery enables you to push on at your own pace. You’ll soon reach Suffolk again and cross the River Stour once more. A series of flat miles and pretty villages lie on the final straight between you and a finish",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 5,
+      "url": ""
     },
-    {
+  {
+    "created_at": "2018-05-02T12:00:00Z",
+    "modified_on": "2018-05-02T12:00:00Z",
+    "gpx": "ukce-wss-spring-saddle-2018-std.gpx",
+    "organiser": "wiggle",
+    "name": "Wiggle Spring Saddle Sportive - Standard",
+    "description": "The heritage of the humble saddle is strong around the Newmarket area – albeit with a different type of riding as this sportive leads out from the Rowley Mile Racecourse of Newmarket Racecourses. Much like a horse racing course, the route is filled with flat and consistent terrain, leaving no excuse for stragglers to be behind by the first hurdle. You’ll cross through Suffolk, Cambridgeshire and Essex in this tri-county sportive, which begins by heading south, picking up the River Stour around Brinkley, which you’ll follow for a short while until reaching the outskirts of Haverhill. Taking in sleepy villages with their idyllic churches and greens typical of the area, you’ll press forward without the interruption from hills or climbing on this free-flowing ride. Entering into Essex for a few miles, you’ll pass through historic towns such as Thaxted, with its age-old buildings lining the High Street. Continuing on, it’s a simple case of chewing away the miles left to go as the flat scenery enables you to push on at your own pace. You’ll soon reach Suffolk again and cross the River Stour once more. A series of flat miles and pretty villages lie on the final straight between you and a finish",
+    "distance": 0,
+    "elevation_gain": 4,
+    "difficulty": 0,
+    "url": ""
+  },
+  {
+    "created_at": "2018-05-02T09:00:00Z",
+    "modified_on": "2018-05-02T09:00:00Z",
+    "gpx": "ukce-wss-spring-saddle-2018-short.gpx",
+    "organiser": "wiggle",
+    "name": "Wiggle Spring Saddle Sportive - Short`",
+    "description": "The heritage of the humble saddle is strong around the Newmarket area – albeit with a different type of riding as this sportive leads out from the Rowley Mile Racecourse of Newmarket Racecourses. Much like a horse racing course, the route is filled with flat and consistent terrain, leaving no excuse for stragglers to be behind by the first hurdle. You’ll cross through Suffolk, Cambridgeshire and Essex in this tri-county sportive, which begins by heading south, picking up the River Stour around Brinkley, which you’ll follow for a short while until reaching the outskirts of Haverhill. Taking in sleepy villages with their idyllic churches and greens typical of the area, you’ll press forward without the interruption from hills or climbing on this free-flowing ride. Entering into Essex for a few miles, you’ll pass through historic towns such as Thaxted, with its age-old buildings lining the High Street. Continuing on, it’s a simple case of chewing away the miles left to go as the flat scenery enables you to push on at your own pace. You’ll soon reach Suffolk again and cross the River Stour once more. A series of flat miles and pretty villages lie on the final straight between you and a finish",
+    "distance": 0,
+    "elevation_gain": 0,
+    "difficulty": 2,
+    "url": ""
+  },
+  {
+    "created_at": "2010-04-10T09:00:00Z",
+    "modified_on": "2018-04-30T20:22:00Z",
+    "gpx": "ctc20100410.gpx",
+    "organiser": "ctc",
+    "name": "Green shoots of recovery",
+    "description": "Spring in the beech woods of the Chilterns. Quite hilly",
+    "distance": 70000,
+    "elevation_gain": 976,
+    "difficulty": 6,
+    "url": "https://maps.openrouteservice.org/directions?n1=51.688485&n2=-0.696144&n3=14&a=51.611,-0.643917,51.609501,-0.664613,51.624699,-0.676624,51.641602,-0.669943,51.667702,-0.696693,51.675301,-0.754306,51.697601,-0.770298,51.6791,-0.771946,51.672001,-0.785835,51.686199,-0.802383,51.6908,-0.784388,51.704486,-0.787602,51.710201,-0.803516,51.6992,-0.817711,51.720001,-0.83627,51.724201,-0.8076,51.705898,-0.778873,51.712799,-0.756568,51.731201,-0.779598,51.748199,-0.767793,51.733601,-0.681168,51.7132,-0.677661,51.702,-0.705628,51.687763,-0.696483,51.684799,-0.693293,51.668598,-0.702185,51.6605,-0.663996,51.646599,-0.676086,51.635799,-0.655233,51.611401,-0.64358&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
+  {
     "created_at": "2010-03-28T09:00:00Z",
     "modified_on": "2018-04-30T20:15:00Z",
     "gpx": "ctc20100328.gpx",
@@ -36,17 +72,17 @@
     "url": "https://maps.openrouteservice.org/directions?n1=51.262712&n2=-0.218666&n3=11&a=51.412498,-0.300808,51.3699,-0.319544,51.3559,-0.273241,51.339401,-0.292765,51.3298,-0.279325,51.314672,-0.280406,51.287688,-0.279824,51.2808,-0.275636,51.2528,-0.323788,51.256199,-0.349231,51.243401,-0.353173,51.239601,-0.390111,51.246996,-0.390296,51.279099,-0.404123,51.302399,-0.432834,51.3172,-0.453853,51.305411,-0.436315,51.339802,-0.38493,51.342999,-0.339615,51.357851,-0.331297,51.365543,-0.3231,51.398296,-0.309635,51.409229,-0.297706,51.412216,-0.297516,51.412498,-0.300928&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
-      "created_at": "2010-02-28T09:00:00Z",
-      "modified_on": "2018-04-30T19:45:00Z",
-      "gpx": "ctc20100228.gpx",
-      "organiser": "ctc",
-      "name": "East Sussex roads",
-      "description": "Cycling south from the High Weald to the Ouse Valley",
-      "distance": 71900,
-      "elevation_gain": 1100,
-      "difficulty": 7,
-      "url": "https://maps.openrouteservice.org/directions?n1=51.009807&n2=0.073549&n3=11&a=51.129299,0.262489,51.1241,0.227431,51.103001,0.196633,51.0951,0.217823,51.0765,0.227358,51.032101,0.21424,50.997898,0.178686,50.965698,0.171484,50.972301,0.065382,51.036201,0.055102,51.0443,0.100474,51.085499,0.073357,51.104099,0.112902,51.1152,0.184921,51.107498,0.200272,51.129299,0.262489&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
-    },
+    "created_at": "2010-02-28T09:00:00Z",
+    "modified_on": "2018-04-30T19:45:00Z",
+    "gpx": "ctc20100228.gpx",
+    "organiser": "ctc",
+    "name": "East Sussex roads",
+    "description": "Cycling south from the High Weald to the Ouse Valley",
+    "distance": 71900,
+    "elevation_gain": 1100,
+    "difficulty": 7,
+    "url": "https://maps.openrouteservice.org/directions?n1=51.009807&n2=0.073549&n3=11&a=51.129299,0.262489,51.1241,0.227431,51.103001,0.196633,51.0951,0.217823,51.0765,0.227358,51.032101,0.21424,50.997898,0.178686,50.965698,0.171484,50.972301,0.065382,51.036201,0.055102,51.0443,0.100474,51.085499,0.073357,51.104099,0.112902,51.1152,0.184921,51.107498,0.200272,51.129299,0.262489&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+  },
   {
     "created_at": "2010-02-21T09:00:00Z",
     "modified_on": "2018-04-30T19:38:00Z",
@@ -59,7 +95,7 @@
     "difficulty": 5,
     "url": "https://maps.openrouteservice.org/directions?n1=51.7623&n2=-0.313285&n3=11&a=51.8148,-0.351698,51.816141,-0.341115,51.820801,-0.334683,51.831502,-0.335047,51.841599,-0.32924,51.8591,-0.344076,51.870399,-0.335328,51.874699,-0.350603,51.8946,-0.350375,51.899502,-0.362583,51.9123,-0.352438,51.9165,-0.359116,51.927502,-0.33553,51.909347,-0.318885,51.905479,-0.3175,51.902401,-0.311748,51.891102,-0.332473,51.8787,-0.333553,51.8731,-0.35768,51.860802,-0.35137,51.834599,-0.397033,51.8391,-0.450988,51.830502,-0.470125,51.813,-0.439531,51.795101,-0.441338,51.792,-0.42741,51.7869,-0.440368,51.768398,-0.429163,51.783434,-0.380244,51.785151,-0.37391,51.790445,-0.344491,51.792099,-0.340375,51.804072,-0.346996,51.814301,-0.35133&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
-{
+  {
     "created_at": "2018-04-20T14:24:00Z",
     "modified_on": "2018-04-20T14:24:00Z",
     "gpx": "roo20180420.gpx",
@@ -331,15 +367,16 @@
     "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=51.747179&n2=-0.322943&n3=16&a=51.750069,-0.328255,51.786107,-0.343277,51.793543,-0.456082,51.823437,-0.510745,51.882098,-0.537692,51.88214,-0.414485,51.895073,-0.439271,51.946247,-0.443668,51.929453,-0.338033,51.857269,-0.255817,51.844249,-0.264026,51.831552,-0.268878,51.811769,-0.293887,51.79798,-0.280544,51.784683,-0.262145,51.762656,-0.286685,51.750917,-0.264683,51.749835,-0.326984&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km",
     "rides": [{
-      "cyclist": "Max Soe",
-      "activity": "https://www.strava.com/activities/1447950065",
-      "date": "2018-03-11"
-    },
-    {
-      "cyclist": "Jo Morrison",
-      "activity": "https://www.strava.com/activities/1448107741",
-      "date": "2018-03-11"
-    }]
+        "cyclist": "Max Soe",
+        "activity": "https://www.strava.com/activities/1447950065",
+        "date": "2018-03-11"
+      },
+      {
+        "cyclist": "Jo Morrison",
+        "activity": "https://www.strava.com/activities/1448107741",
+        "date": "2018-03-11"
+      }
+    ]
   },
   {
     "created_at": "2008-03-09T07:44:39Z",
@@ -807,10 +844,10 @@
     "difficulty": 7,
     "url": "https://maps.openrouteservice.org/directions?n1=51.371773&n2=0.162367&n3=12&a=51.377888,0.017853,51.369235,0.026951,51.355838,0.088897,51.358041,0.126265,51.374787,0.124025,51.37471,0.13851,51.380959,0.126943,51.407818,0.159673,51.420142,0.307529,51.373123,0.275379,51.357574,0.282909,51.327097,0.267478,51.322184,0.250488,51.341444,0.251801,51.377855,0.225601,51.367694,0.211248,51.383339,0.162225,51.354404,0.146568,51.359284,0.066251,51.37749,0.01723&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km",
     "rides": [{
-        "cyclist": "Max Soe",
-        "activity": "https://www.strava.com/activities/1533017989",
-        "date": "2018-04-26"
-      }]
+      "cyclist": "Max Soe",
+      "activity": "https://www.strava.com/activities/1533017989",
+      "date": "2018-04-26"
+    }]
   },
   {
     "created_at": "2018-01-29T09:02:00Z",
@@ -1338,9 +1375,9 @@
     "difficulty": 7,
     "url": "https://maps.openrouteservice.org/directions?n1=51.278575&n2=0.020978&n3=11&a=51.371951,-0.094176,51.375639,-0.072971,51.380522,-0.064894,51.388117,0.002673,51.368973,0.027133,51.358587,0.084932,51.359547,0.093691,51.359519,0.096592,51.357239,0.115788,51.364479,0.124462,51.371675,0.136369,51.407868,0.159714,51.409472,0.177257,51.413354,0.203707,51.425432,0.32717,51.405626,0.33193,51.40004,0.296646,51.344585,0.273868,51.330567,0.268815,51.32221,0.250483,51.382197,0.218444,51.38332,0.162222,51.354391,0.146544,51.358924,0.100537,51.359239,0.098769,51.359524,0.093997,51.360014,0.089324,51.358863,0.087372,51.359505,0.083049,51.362302,0.075416,51.36753,0.033728,51.349843,0.009694,51.36823,-0.006258,51.345337,-0.061839,51.370643,-0.098205&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km",
     "rides": [{
-        "cyclist": "Max Soe",
-        "activity": "https://www.strava.com/activities/1533017989",
-        "date": "2018-04-26"
-      }]
+      "cyclist": "Max Soe",
+      "activity": "https://www.strava.com/activities/1533017989",
+      "date": "2018-04-26"
+    }]
   }
 ]
