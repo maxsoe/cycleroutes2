@@ -1,5 +1,40 @@
 [{
     "created_at": "2018-04-07T15:00:00Z",
+    "modified_on": "2018-05-02T17:59:00Z",
+    "gpx": "ukce-wss-vale-velo-2018-epic.gpx",
+    "organiser": "wiggle",
+    "name": "Vale Vélo Sportive - Epic",
+    "description": "The Wiggle Vale Velo is an early-season sportive designed to get you back into your best form and ready for the rest of the riding calendar, by taking you around the ever-popular cycling haven that is North Yorkshire.  The course allows you to chip away at the miles while tackling occasionally testing terrain. With almost 4,000ft of climbing over the Epic route, this is a quick and speedy course, presenting to you some of the best views the Vale of York and the Yorkshire Wolds have to offer, while also providing an early-year wake-up call for the legs.  Cycling in North Yorkshire  Starting from the York Auction Centre, the course heads straight out onto the roads of the stunning North Yorkshire district, while also threading through the quaint and typically pretty villages of the area. First, the route bears east, taking you past the historic battleground of Stamford Bridge, before heading up to Low Callis Wold.  At this point, riders of the Short course split off and head north to re-join the course at Leavening, while Epic and Standard riders continue east to pass through North Dalton, soon to take their own path north  Once again, the course splits shortly after, just before Sledmere House, sending Standard riders west as Epic riders continue to ride east even further, to the farthest point on the course in Rudston. Here, we start to head for home, and as the finish closes in, two final climbs lay in wait before the long, gradual descent back to York.  The Wiggle Vale Velo Sportive is ideal for those wanting to get some training in and, considering the distances, isn't too harsh on the legs. That said, there are a few nice and challenging climbs along the Epic route, so don't partake thinking it will be a ride in the park. It's not. It's a ride through the stunning North Yorkshire countryside.",
+    "distance": 0,
+    "elevation_gain": 0,
+    "difficulty": 5,
+    "url": ""
+  },{
+      "created_at": "2018-04-07T15:00:00Z",
+      "modified_on": "2018-05-02T17:58:00Z",
+      "gpx": "ukce-wss-vale-velo-2018-std.gpx",
+      "organiser": "wiggle",
+      "name": "Vale Vélo Sportive - Standard",
+      "description": "The Wiggle Vale Velo is an early-season sportive designed to get you back into your best form and ready for the rest of the riding calendar, by taking you around the ever-popular cycling haven that is North Yorkshire.  The course allows you to chip away at the miles while tackling occasionally testing terrain. With almost 4,000ft of climbing over the Epic route, this is a quick and speedy course, presenting to you some of the best views the Vale of York and the Yorkshire Wolds have to offer, while also providing an early-year wake-up call for the legs.  Cycling in North Yorkshire  Starting from the York Auction Centre, the course heads straight out onto the roads of the stunning North Yorkshire district, while also threading through the quaint and typically pretty villages of the area. First, the route bears east, taking you past the historic battleground of Stamford Bridge, before heading up to Low Callis Wold.  At this point, riders of the Short course split off and head north to re-join the course at Leavening, while Epic and Standard riders continue east to pass through North Dalton, soon to take their own path north  Once again, the course splits shortly after, just before Sledmere House, sending Standard riders west as Epic riders continue to ride east even further, to the farthest point on the course in Rudston. Here, we start to head for home, and as the finish closes in, two final climbs lay in wait before the long, gradual descent back to York.  The Wiggle Vale Velo Sportive is ideal for those wanting to get some training in and, considering the distances, isn't too harsh on the legs. That said, there are a few nice and challenging climbs along the Epic route, so don't partake thinking it will be a ride in the park. It's not. It's a ride through the stunning North Yorkshire countryside.",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 4,
+      "url": ""
+    },
+  {
+      "created_at": "2018-04-07T15:00:00Z",
+      "modified_on": "2018-05-02T17:57:00Z",
+      "gpx": "ukce-wss-vale-velo-2018-short.gpx",
+      "organiser": "wiggle",
+      "name": "Vale Vélo Sportive - Short",
+      "description": "The Wiggle Vale Velo is an early-season sportive designed to get you back into your best form and ready for the rest of the riding calendar, by taking you around the ever-popular cycling haven that is North Yorkshire.  The course allows you to chip away at the miles while tackling occasionally testing terrain. With almost 4,000ft of climbing over the Epic route, this is a quick and speedy course, presenting to you some of the best views the Vale of York and the Yorkshire Wolds have to offer, while also providing an early-year wake-up call for the legs.  Cycling in North Yorkshire  Starting from the York Auction Centre, the course heads straight out onto the roads of the stunning North Yorkshire district, while also threading through the quaint and typically pretty villages of the area. First, the route bears east, taking you past the historic battleground of Stamford Bridge, before heading up to Low Callis Wold.  At this point, riders of the Short course split off and head north to re-join the course at Leavening, while Epic and Standard riders continue east to pass through North Dalton, soon to take their own path north  Once again, the course splits shortly after, just before Sledmere House, sending Standard riders west as Epic riders continue to ride east even further, to the farthest point on the course in Rudston. Here, we start to head for home, and as the finish closes in, two final climbs lay in wait before the long, gradual descent back to York.  The Wiggle Vale Velo Sportive is ideal for those wanting to get some training in and, considering the distances, isn't too harsh on the legs. That said, there are a few nice and challenging climbs along the Epic route, so don't partake thinking it will be a ride in the park. It's not. It's a ride through the stunning North Yorkshire countryside.",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 3,
+      "url": ""
+    },
+  {
+    "created_at": "2018-04-07T15:00:00Z",
     "modified_on": "2018-05-02T17:42:00Z",
     "gpx": "sd-spring-2018-epic.gpx",
     "organiser": "sigma",
@@ -35,7 +70,7 @@
     "url": ""
   },
   {
-    "created_at": "2018-05-02T15:00:00Z",
+    "created_at": "2018-03-25T15:00:00Z",
     "modified_on": "2018-05-02T15:00:00Z",
     "gpx": "ukce-wss-spring-saddle-2018-epic.gpx",
     "organiser": "wiggle",
@@ -47,7 +82,7 @@
     "url": ""
   },
   {
-    "created_at": "2018-05-02T12:00:00Z",
+    "created_at": "2018-03-25T12:00:00Z",
     "modified_on": "2018-05-02T12:00:00Z",
     "gpx": "ukce-wss-spring-saddle-2018-std.gpx",
     "organiser": "wiggle",
@@ -59,7 +94,7 @@
     "url": ""
   },
   {
-    "created_at": "2018-05-02T09:00:00Z",
+    "created_at": "2018-03-25T09:00:00Z",
     "modified_on": "2018-05-02T09:00:00Z",
     "gpx": "ukce-wss-spring-saddle-2018-short.gpx",
     "organiser": "wiggle",
