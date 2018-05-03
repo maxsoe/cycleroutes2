@@ -223,10 +223,10 @@
     "organiser": "wiggle",
     "name": "Ups and Downs - Standard",
     "description": "Inevitably, the clue is in the name of the Wiggle Ups and Downs Sportive. It’s an early-season test like few others and its many climbs and descents will get the heart racing no matter what. The tight and technical turns in the fast country lanes add to a great variety of climbing roads in the North and South Downs on a great test of a route.  The routes explore hidden country lanes in and around Surrey before cropping up near Godalming – you won’t enter the urban area, instead, it’s time to head to the South Downs. You’ll go as far down as Wisborough Green, and into Sussex, before surfacing and edging back into Surrey, where the remainder of the testing hills present themselves near the end of the route",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 84000,
+    "elevation_gain": 687,
     "difficulty": 7,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=51.110312&n2=-0.517216&n3=12&a=51.113114,-0.522366,51.11891,-0.57125,51.154155,-0.574036,51.17369,-0.59621,51.13453,-0.62778,51.13119,-0.5969,51.10751,-0.622272,51.104492,-0.600815,51.108696,-0.577812,51.095006,-0.581074,51.07905,-0.62345,51.0684,-0.54429,51.02644,-0.54041,51.03247,-0.51797,51.07335,-0.51927,51.100504,-0.470352,51.12424,-0.38408,51.14625,-0.47304,51.11391,-0.48844,51.114569,-0.523911&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-04-28T15:00:00Z",
@@ -235,8 +235,8 @@
     "organiser": "wiggle",
     "name": "Ups and Downs - Short",
     "description": "Inevitably, the clue is in the name of the Wiggle Ups and Downs Sportive. It’s an early-season test like few others and its many climbs and descents will get the heart racing no matter what. The tight and technical turns in the fast country lanes add to a great variety of climbing roads in the North and South Downs on a great test of a route.  The routes explore hidden country lanes in and around Surrey before cropping up near Godalming – you won’t enter the urban area, instead, it’s time to head to the South Downs. You’ll go as far down as Wisborough Green, and into Sussex, before surfacing and edging back into Surrey, where the remainder of the testing hills present themselves near the end of the route",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 59300,
+    "elevation_gain": 510,
     "difficulty": 6,
     "url": "https://maps.openrouteservice.org/directions?n1=51.082283&n2=-0.549145&n3=12&a=51.113464,-0.522323,51.10776,-0.54889,51.11891,-0.57125,51.14556,-0.56951,51.154693,-0.57395,51.17369,-0.59621,51.13453,-0.62778,51.13119,-0.5969,51.11131,-0.6227,51.09934,-0.61451,51.11216,-0.58942,51.10835,-0.56979,51.08833,-0.58222,51.09084,-0.618,51.07905,-0.62345,51.0684,-0.54429,51.03441,-0.55585,51.02644,-0.54041,51.03247,-0.51797,51.10764,-0.51497,51.115,-0.524039&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
