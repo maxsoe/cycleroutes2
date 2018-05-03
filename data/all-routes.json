@@ -1,5 +1,77 @@
 [
   {
+      "created_at": "2018-11-10T15:00:00Z",
+      "modified_on": "2018-05-03T01:03:00Z",
+      "gpx": "kent-classic-2018-epic.gpx",
+      "organiser": "wiggle",
+      "name": "Kent Classic - Epic",
+      "description": "Setting off from the village of Lingfield you will be out in the country before you know it, as all three routes head south to Wych Cross taking in the first of many quaint little villages you’ll cycle through during the ride. It is around this point, at the 7-mile mark, that you’ll tackle the first real steady climb of the day.  At Colemans Hatch, the Short route riders can relax knowing that they’ve completed the hardest part of their ride with only two steady climbs left to tackle. It’s at this point they will split off from the other routes as they head North towards Edenbridge.  Epic and Standard riders, however, go straight into the steepest climb of the day as they pass through Newbridge and make their way toward Royal Tunbridge Wells.  Shortly past Groombridge, the course divides again as the Standard riders head north with Royal Tunbridge Wells to their East. They won’t see the Epic riders again until they reach Sevenoaks, having taken in Langton Green, Penshurst and Chiddingstone, to name but a few of the villages along the route  Epic riders continue East as they ride into the High Weald Area of Outstanding Natural Beauty. There are a few short climbs along this section of the course that might take you by surprise. Notable elevation changes occur around Goudhurst, another just past Yalding and a third at Roughway. These should serve as nice testers to get you warmed up for the final climb at Dunks Green, that ascends steadily for several miles before peaking at Sevenoaks Common. It is here that you’ll embark on a nice descent before re-joining the Standard riders once again. From here, it’s a 14-mile ride back to Lingfield, via the village of Edenbridge, with no major challenges looming.  With three routes to choose from, The Wiggle Kent Classic Sportive has something to offer cyclists of all abilities, whether you’re a beginner or someone that likes a bit of a challenge - all the while soaking in some of the best countryside Britain has to offer. After all, Kent is called The Garden of England for a reason",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 6,
+      "url": ""
+    },
+  {
+    "created_at": "2018-11-10T15:00:00Z",
+    "modified_on": "2018-05-03T01:02:00Z",
+    "gpx": "kent-classic-2018-standard.gpx",
+    "organiser": "wiggle",
+    "name": "Kent Classic - Standard",
+    "description": "Setting off from the village of Lingfield you will be out in the country before you know it, as all three routes head south to Wych Cross taking in the first of many quaint little villages you’ll cycle through during the ride. It is around this point, at the 7-mile mark, that you’ll tackle the first real steady climb of the day.  At Colemans Hatch, the Short route riders can relax knowing that they’ve completed the hardest part of their ride with only two steady climbs left to tackle. It’s at this point they will split off from the other routes as they head North towards Edenbridge.  Epic and Standard riders, however, go straight into the steepest climb of the day as they pass through Newbridge and make their way toward Royal Tunbridge Wells.  Shortly past Groombridge, the course divides again as the Standard riders head north with Royal Tunbridge Wells to their East. They won’t see the Epic riders again until they reach Sevenoaks, having taken in Langton Green, Penshurst and Chiddingstone, to name but a few of the villages along the route  Epic riders continue East as they ride into the High Weald Area of Outstanding Natural Beauty. There are a few short climbs along this section of the course that might take you by surprise. Notable elevation changes occur around Goudhurst, another just past Yalding and a third at Roughway. These should serve as nice testers to get you warmed up for the final climb at Dunks Green, that ascends steadily for several miles before peaking at Sevenoaks Common. It is here that you’ll embark on a nice descent before re-joining the Standard riders once again. From here, it’s a 14-mile ride back to Lingfield, via the village of Edenbridge, with no major challenges looming.  With three routes to choose from, The Wiggle Kent Classic Sportive has something to offer cyclists of all abilities, whether you’re a beginner or someone that likes a bit of a challenge - all the while soaking in some of the best countryside Britain has to offer. After all, Kent is called The Garden of England for a reason",
+    "distance": 0,
+    "elevation_gain": 0,
+    "difficulty": 5,
+    "url": ""
+  },
+  {
+    "created_at": "2018-11-10T15:00:00Z",
+    "modified_on": "2018-05-03T01:01:00Z",
+    "gpx": "kent-classic-2018-short.gpx",
+    "organiser": "wiggle",
+    "name": "Kent Classic - Short",
+    "description": "Setting off from the village of Lingfield you will be out in the country before you know it, as all three routes head south to Wych Cross taking in the first of many quaint little villages you’ll cycle through during the ride. It is around this point, at the 7-mile mark, that you’ll tackle the first real steady climb of the day.  At Colemans Hatch, the Short route riders can relax knowing that they’ve completed the hardest part of their ride with only two steady climbs left to tackle. It’s at this point they will split off from the other routes as they head North towards Edenbridge.  Epic and Standard riders, however, go straight into the steepest climb of the day as they pass through Newbridge and make their way toward Royal Tunbridge Wells.  Shortly past Groombridge, the course divides again as the Standard riders head north with Royal Tunbridge Wells to their East. They won’t see the Epic riders again until they reach Sevenoaks, having taken in Langton Green, Penshurst and Chiddingstone, to name but a few of the villages along the route  Epic riders continue East as they ride into the High Weald Area of Outstanding Natural Beauty. There are a few short climbs along this section of the course that might take you by surprise. Notable elevation changes occur around Goudhurst, another just past Yalding and a third at Roughway. These should serve as nice testers to get you warmed up for the final climb at Dunks Green, that ascends steadily for several miles before peaking at Sevenoaks Common. It is here that you’ll embark on a nice descent before re-joining the Standard riders once again. From here, it’s a 14-mile ride back to Lingfield, via the village of Edenbridge, with no major challenges looming.  With three routes to choose from, The Wiggle Kent Classic Sportive has something to offer cyclists of all abilities, whether you’re a beginner or someone that likes a bit of a challenge - all the while soaking in some of the best countryside Britain has to offer. After all, Kent is called The Garden of England for a reason",
+    "distance": 0,
+    "elevation_gain": 0,
+    "difficulty": 4,
+    "url": ""
+  },
+  {
+      "created_at": "2018-04-29T15:00:00Z",
+      "modified_on": "2018-05-02T18:22:00Z",
+      "gpx": "arrow-2018-epic.gpx",
+      "organiser": "sigma",
+      "name": "The Arrow - Epic",
+      "description": "Taking its name from the typically flat lands in Lincolnshire and the surrounding area, you’ll glide through the level plains on the Sigma Sports' Arrow Sportive like a dart through the air – save for an unlikely uphill test that waits for tired legs at the end of the ride. You’ll start out on Market Rasen Racecourse and head south, straight onto quiet roads. The first part of the course points more downhill than the even gradient the area is famous for – so make the most of the slightly sloping angle as you pass through sleepy village after sleepy village, linked by unspoilt country lanes. Heading towards Lincoln, the first climb of the day will present itself just after Canwick. It’s steep but quick and easy to deal with after a little exertion.  Once this has passed, it’s onto the long, straight open roads as far south as Ruskington in the North Kesteven District – giving you through opportunity to set your own pace on terrain that remains relatively flat.  Crossing over a series of dykes and small rivers, you’ll head to Woodhall Spa and Bucknall, where the terrain slowly begins to rise, as you cling to the Lincolnshire Wolds for the next 15 miles until the finish line is in sight, from here it is a flat run in to Market Rasen.",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 4,
+      "url": ""
+    },
+  {
+      "created_at": "2018-04-29T15:00:00Z",
+      "modified_on": "2018-05-02T18:21:00Z",
+      "gpx": "arrow-2018-std.gpx",
+      "organiser": "sigma",
+      "name": "The Arrow - Standard",
+      "description": "Taking its name from the typically flat lands in Lincolnshire and the surrounding area, you’ll glide through the level plains on the Sigma Sports' Arrow Sportive like a dart through the air – save for an unlikely uphill test that waits for tired legs at the end of the ride. You’ll start out on Market Rasen Racecourse and head south, straight onto quiet roads. The first part of the course points more downhill than the even gradient the area is famous for – so make the most of the slightly sloping angle as you pass through sleepy village after sleepy village, linked by unspoilt country lanes. Heading towards Lincoln, the first climb of the day will present itself just after Canwick. It’s steep but quick and easy to deal with after a little exertion.  Once this has passed, it’s onto the long, straight open roads as far south as Ruskington in the North Kesteven District – giving you through opportunity to set your own pace on terrain that remains relatively flat.  Crossing over a series of dykes and small rivers, you’ll head to Woodhall Spa and Bucknall, where the terrain slowly begins to rise, as you cling to the Lincolnshire Wolds for the next 15 miles until the finish line is in sight, from here it is a flat run in to Market Rasen.",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 3,
+      "url": ""
+    },
+  {
+      "created_at": "2018-04-29T15:00:00Z",
+      "modified_on": "2018-05-02T18:20:00Z",
+      "gpx": "arrow-2018-short.gpx",
+      "organiser": "sigma",
+      "name": "The Arrow - Short",
+      "description": "Taking its name from the typically flat lands in Lincolnshire and the surrounding area, you’ll glide through the level plains on the Sigma Sports' Arrow Sportive like a dart through the air – save for an unlikely uphill test that waits for tired legs at the end of the ride. You’ll start out on Market Rasen Racecourse and head south, straight onto quiet roads. The first part of the course points more downhill than the even gradient the area is famous for – so make the most of the slightly sloping angle as you pass through sleepy village after sleepy village, linked by unspoilt country lanes. Heading towards Lincoln, the first climb of the day will present itself just after Canwick. It’s steep but quick and easy to deal with after a little exertion.  Once this has passed, it’s onto the long, straight open roads as far south as Ruskington in the North Kesteven District – giving you through opportunity to set your own pace on terrain that remains relatively flat.  Crossing over a series of dykes and small rivers, you’ll head to Woodhall Spa and Bucknall, where the terrain slowly begins to rise, as you cling to the Lincolnshire Wolds for the next 15 miles until the finish line is in sight, from here it is a flat run in to Market Rasen.",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 2,
+      "url": ""
+    },
+  {
       "created_at": "2018-04-28T15:00:00Z",
       "modified_on": "2018-05-02T18:16:00Z",
       "gpx": "ukce-wss-ups-downs-2018-epic.gpx",
