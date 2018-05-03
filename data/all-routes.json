@@ -1,4 +1,29 @@
-[{
+[
+  {
+      "created_at": "2018-05-13T09:00:00Z",
+      "modified_on": "2018-05-03T01:29:00Z",
+      "gpx": "ukce-le-classique-2018-epic.gpx",
+      "organiser": "altura",
+      "name": "Le Classique",
+      "description": "The Altura Le Classique Sportive is one of our fastest-selling sportives. Bag a place on this ride in France as soon as you can for a ticket to one of the best overseas one-day bike trips there is.  After meeting in Dover, we’ll provide you with your rider number on board the ferry and you’ll be free to begin pedalling as soon as we disembark on the other side of the English Channel. This event serves as a perfect introduction to riding on the Continent, offering participants a snapshot of rural France — the spiritual home of cycling.  Leaving Calais, you’ll follow the coastline westwards and, despite exposure to invariably blustery conditions, the views out over the channel will keep you buoyed for the remainder of the ride.  A series of quaint and quintessentially French towns and villages are passed — in between which lies a series of short and punchy climbs, joined by a network of small and narrow byways. Such is the width of these lanes you’ll find cars around here are decidedly absent but in the rare event of meeting one expect an encouraging “Allez!” from the drivers. This is, after all, France, where cycling is the national pastime.  Following a clockwise route around the Nord Pas de Calais department, the atmospheric rural areas here boast a charm exclusive to Northern France and will leave you with fond memories and no doubt a photo or two.  And now, as you approach the end of the route — buffeted about by headwinds as you rejoin the coastal roads — the grand finale lies in wait. Indeed, today’s most demanding appointment in Ecalles is positioned agonisingly close to the finish line. It’s tough but manageable — and summiting it leaves you with a sprint to the international port where we’ll get you on the next available ferry home for a well-deserved verre du vin.  If you've ever considered cycling in France, signing up to Le Classique Sportive is your chance to join hundreds of other cyclists on carefully selected routes, complete with mechanical and medical support, to enjoy the French countryside from the saddle. That and the fact your travel to and from France is all booked for you, what are you waiting for?",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 8,
+      "url": ""
+    },
+  {
+      "created_at": "2018-05-13T09:00:00Z",
+      "modified_on": "2018-05-03T01:28:00Z",
+      "gpx": "ukce-le-classique-2018-std.gpx",
+      "organiser": "altura",
+      "name": "Le Classique",
+      "description": "The Altura Le Classique Sportive is one of our fastest-selling sportives. Bag a place on this ride in France as soon as you can for a ticket to one of the best overseas one-day bike trips there is.  After meeting in Dover, we’ll provide you with your rider number on board the ferry and you’ll be free to begin pedalling as soon as we disembark on the other side of the English Channel. This event serves as a perfect introduction to riding on the Continent, offering participants a snapshot of rural France — the spiritual home of cycling.  Leaving Calais, you’ll follow the coastline westwards and, despite exposure to invariably blustery conditions, the views out over the channel will keep you buoyed for the remainder of the ride.  A series of quaint and quintessentially French towns and villages are passed — in between which lies a series of short and punchy climbs, joined by a network of small and narrow byways. Such is the width of these lanes you’ll find cars around here are decidedly absent but in the rare event of meeting one expect an encouraging “Allez!” from the drivers. This is, after all, France, where cycling is the national pastime.  Following a clockwise route around the Nord Pas de Calais department, the atmospheric rural areas here boast a charm exclusive to Northern France and will leave you with fond memories and no doubt a photo or two.  And now, as you approach the end of the route — buffeted about by headwinds as you rejoin the coastal roads — the grand finale lies in wait. Indeed, today’s most demanding appointment in Ecalles is positioned agonisingly close to the finish line. It’s tough but manageable — and summiting it leaves you with a sprint to the international port where we’ll get you on the next available ferry home for a well-deserved verre du vin.  If you've ever considered cycling in France, signing up to Le Classique Sportive is your chance to join hundreds of other cyclists on carefully selected routes, complete with mechanical and medical support, to enjoy the French countryside from the saddle. That and the fact your travel to and from France is all booked for you, what are you waiting for?",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 6,
+      "url": ""
+    },
+  {
     "created_at": "2018-05-13T09:00:00Z",
     "modified_on": "2018-05-03T01:23:00Z",
     "gpx": "ukce-wss-durham-dynamo-2018-epic.gpx",
