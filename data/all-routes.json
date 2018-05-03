@@ -66,10 +66,10 @@
     "organiser": "wiggle",
     "name": "County Durham Dynamo - Epic",
     "description": "The Wiggle County Durham Dynamo, now in its second year, explores the hills and rolling roads of the southern-most countryside in County Durham. Reaching out to the North Pennines Area of Outstanding Natural Beauty at its furthest point, the route takes in some excellent climbs and some even better views.  Heading out from the home of the Darlington Mowden Park RFC, we bear north almost immediately, taking in the villages of Piercebridge and Staindrop, at which point the Short route splits and heads south.  The route continues west, tracking along to Kinninvie before heading north to the second split of the day, from here the Epic riders take a northerly tack passing through the village of Woodlands, continuing north, riding the edge of Hamsterley Forest before descending into Wolsingham. All the while the Standard riders head west to the small village of Mickleton to rejoin the Epic route.  As you leave the main road at Frosterley you are faced with a tough climb to the top of Hill End, with views out over Bollihope Common and the burn at the bottom of the descent. We ride south through Bollihope Common and pass by Middleton-in-Teesdale, before climbing out of the valley towards Barnard Castle. The final push back west stretches through a series of quaint English villages typical of the County Durham area.",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 163000,
+    "elevation_gain": 1800,
     "difficulty": 7,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=54.520484&n2=-1.84124&n3=11&a=54.50703,-1.53375,54.48635,-1.53293,54.4831,-1.61468,54.50559,-1.5927,54.51777,-1.67166,54.58189,-1.74034,54.582608,-1.758842,54.59146,-1.88636,54.571067,-1.906643,54.564996,-1.912479,54.560915,-1.915913,54.562408,-1.924152,54.566713,-1.926255,54.61167,-1.93665,54.632915,-1.893768,54.67902,-1.84301,54.72989,-1.88657,54.71015,-2.0199,54.65714,-2.0114,54.62175,-2.08504,54.586786,-2.004318,54.579425,-1.994705,54.54064,-1.92506,54.53018,-1.83851,54.55721,-1.7849,54.51575,-1.75245,54.51761,-1.67166,54.505934,-1.675758,54.49555,-1.68941,54.50612,-1.72997,54.48078,-1.73303,54.47284,-1.71057,54.48459,-1.66718,54.45947,-1.60827,54.48635,-1.53293,54.50703,-1.5338&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-05-13T09:00:00Z",
