@@ -211,10 +211,10 @@
     "organiser": "wiggle",
     "name": "Ups and Downs - Epic",
     "description": "Inevitably, the clue is in the name of the Wiggle Ups and Downs Sportive. It’s an early-season test like few others and its many climbs and descents will get the heart racing no matter what. The tight and technical turns in the fast country lanes add to a great variety of climbing roads in the North and South Downs on a great test of a route.  The routes explore hidden country lanes in and around Surrey before cropping up near Godalming – you won’t enter the urban area, instead, it’s time to head to the South Downs. You’ll go as far down as Wisborough Green, and into Sussex, before surfacing and edging back into Surrey, where the remainder of the testing hills present themselves near the end of the route",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 121800,
+    "elevation_gain": 1200,
     "difficulty": 8,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=51.051107&n2=-0.488548&n3=11&a=51.11238,-0.52757,51.11891,-0.57125,51.154586,-0.574121,51.1752,-0.59834,51.13453,-0.62778,51.13119,-0.5969,51.11048,-0.62633,51.09934,-0.61451,51.109342,-0.584078,51.095599,-0.58116,51.07905,-0.62345,51.0684,-0.54429,51.03441,-0.55585,51.02716,-0.53488,51.07335,-0.51927,51.103131,-0.465245,51.12214,-0.38504,51.14434,-0.43693,51.152324,-0.42572,51.16086,-0.39433,51.1745,-0.407867,51.19536,-0.39653,51.21276,-0.46505,51.18479,-0.52234,51.14564,-0.5038,51.150709,-0.489922,51.166212,-0.490265,51.171756,-0.486531,51.172361,-0.487282,51.174958,-0.484686,51.171917,-0.469236,51.17784,-0.45892,51.150857,-0.440676,51.11238,-0.52757&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-04-28T15:00:00Z",
