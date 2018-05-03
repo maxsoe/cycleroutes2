@@ -1,4 +1,41 @@
 [{
+    "created_at": "2018-05-13T09:00:00Z",
+    "modified_on": "2018-05-03T01:23:00Z",
+    "gpx": "ukce-wss-durham-dynamo-2018-epic.gpx",
+    "organiser": "wiggle",
+    "name": "County Durham Dynamo - Epic",
+    "description": "The Wiggle County Durham Dynamo, now in its second year, explores the hills and rolling roads of the southern-most countryside in County Durham. Reaching out to the North Pennines Area of Outstanding Natural Beauty at its furthest point, the route takes in some excellent climbs and some even better views.  Heading out from the home of the Darlington Mowden Park RFC, we bear north almost immediately, taking in the villages of Piercebridge and Staindrop, at which point the Short route splits and heads south.  The route continues west, tracking along to Kinninvie before heading north to the second split of the day, from here the Epic riders take a northerly tack passing through the village of Woodlands, continuing north, riding the edge of Hamsterley Forest before descending into Wolsingham. All the while the Standard riders head west to the small village of Mickleton to rejoin the Epic route.  As you leave the main road at Frosterley you are faced with a tough climb to the top of Hill End, with views out over Bollihope Common and the burn at the bottom of the descent. We ride south through Bollihope Common and pass by Middleton-in-Teesdale, before climbing out of the valley towards Barnard Castle. The final push back west stretches through a series of quaint English villages typical of the County Durham area.",
+    "distance": 0,
+    "elevation_gain": 0,
+    "difficulty": 7,
+    "url": ""
+  },
+  {
+    "created_at": "2018-05-13T09:00:00Z",
+    "modified_on": "2018-05-03T01:22:00Z",
+    "gpx": "ukce-wss-durham-dynamo-2018-std.gpx",
+    "organiser": "wiggle",
+    "name": "County Durham Dynamo - Standard",
+    "description": "The Wiggle County Durham Dynamo, now in its second year, explores the hills and rolling roads of the southern-most countryside in County Durham. Reaching out to the North Pennines Area of Outstanding Natural Beauty at its furthest point, the route takes in some excellent climbs and some even better views.  Heading out from the home of the Darlington Mowden Park RFC, we bear north almost immediately, taking in the villages of Piercebridge and Staindrop, at which point the Short route splits and heads south.  The route continues west, tracking along to Kinninvie before heading north to the second split of the day, from here the Epic riders take a northerly tack passing through the village of Woodlands, continuing north, riding the edge of Hamsterley Forest before descending into Wolsingham. All the while the Standard riders head west to the small village of Mickleton to rejoin the Epic route.  As you leave the main road at Frosterley you are faced with a tough climb to the top of Hill End, with views out over Bollihope Common and the burn at the bottom of the descent. We ride south through Bollihope Common and pass by Middleton-in-Teesdale, before climbing out of the valley towards Barnard Castle. The final push back west stretches through a series of quaint English villages typical of the County Durham area.",
+    "distance": 0,
+    "elevation_gain": 0,
+    "difficulty": 5,
+    "url": ""
+  },
+  {
+    "created_at": "2018-05-13T09:00:00Z",
+    "modified_on": "2018-05-03T01:21:00Z",
+    "gpx": "ukce-wss-durham-dynamo-2018-short.gpx",
+    "organiser": "wiggle",
+    "name": "County Durham Dynamo - Short",
+    "description": "The Wiggle County Durham Dynamo, now in its second year, explores the hills and rolling roads of the southern-most countryside in County Durham. Reaching out to the North Pennines Area of Outstanding Natural Beauty at its furthest point, the route takes in some excellent climbs and some even better views.  Heading out from the home of the Darlington Mowden Park RFC, we bear north almost immediately, taking in the villages of Piercebridge and Staindrop, at which point the Short route splits and heads south.  The route continues west, tracking along to Kinninvie before heading north to the second split of the day, from here the Epic riders take a northerly tack passing through the village of Woodlands, continuing north, riding the edge of Hamsterley Forest before descending into Wolsingham. All the while the Standard riders head west to the small village of Mickleton to rejoin the Epic route.  As you leave the main road at Frosterley you are faced with a tough climb to the top of Hill End, with views out over Bollihope Common and the burn at the bottom of the descent. We ride south through Bollihope Common and pass by Middleton-in-Teesdale, before climbing out of the valley towards Barnard Castle. The final push back west stretches through a series of quaint English villages typical of the County Durham area.",
+    "distance": 0,
+    "elevation_gain": 0,
+    "difficulty": 4,
+    "url": ""
+  },
+
+  {
     "created_at": "2018-05-05T09:00:00Z",
     "modified_on": "2018-05-03T01:18:00Z",
     "gpx": "dartmoor-demon-2018-epic.gpx",
@@ -11,30 +48,30 @@
     "url": ""
   },
   {
-      "created_at": "2018-05-05T09:00:00Z",
-      "modified_on": "2018-05-03T01:17:00Z",
-      "gpx": "dartmoor-demon-2018-std.gpx",
-      "organiser": "sigma",
-      "name": "Dartmoor Demon - Standard",
-      "description": "Be prepared for an eyeful of Devon’s most glorious countryside in the Sigma Sports Dartmoor Demon. Straight from the off, you’ll be marvelling at the stunning Haldon Forest before heading down the River Teign.  It won't be long before you see the last of civilisation for a few hours as the circle around and through Dartmoor National Park begins, which lead through quiet and sprawling lanes on undulating terrain.  As much as the moors are sparse, there’s enough to keep you interested as you tackle the short and punchy climbs throughout – not forgetting a few long ascents as well. Old brick bridges and deserted roads make up most of the scenery on the road as you pass through the National Park – before meeting and skirting around the ever-eerie and element-exposed HM Prison Dartmoor in Princetown.  Flatter terrain waits in the far side of the Park, while the pinch point of Buckfastleigh signals the start of the most testing climbing action that this event has to offer. Crossing the River Dart is a prelude to the 25% climb that faces rides coming out of Poundsgate.  With the toughest part of the Dartmoor Demon Sportive done, it’s not over yet as two more 20% ascents sit between the toughest climbing of the day and a finisher’s medal. Heading back through Haldon Forest to the racecourse finish point, every rider crossing the line will have a story to tell from a tough but rewarding day out riding.",
-      "distance": 0,
-      "elevation_gain": 0,
-      "difficulty": 8,
-      "url": ""
-    },
+    "created_at": "2018-05-05T09:00:00Z",
+    "modified_on": "2018-05-03T01:17:00Z",
+    "gpx": "dartmoor-demon-2018-std.gpx",
+    "organiser": "sigma",
+    "name": "Dartmoor Demon - Standard",
+    "description": "Be prepared for an eyeful of Devon’s most glorious countryside in the Sigma Sports Dartmoor Demon. Straight from the off, you’ll be marvelling at the stunning Haldon Forest before heading down the River Teign.  It won't be long before you see the last of civilisation for a few hours as the circle around and through Dartmoor National Park begins, which lead through quiet and sprawling lanes on undulating terrain.  As much as the moors are sparse, there’s enough to keep you interested as you tackle the short and punchy climbs throughout – not forgetting a few long ascents as well. Old brick bridges and deserted roads make up most of the scenery on the road as you pass through the National Park – before meeting and skirting around the ever-eerie and element-exposed HM Prison Dartmoor in Princetown.  Flatter terrain waits in the far side of the Park, while the pinch point of Buckfastleigh signals the start of the most testing climbing action that this event has to offer. Crossing the River Dart is a prelude to the 25% climb that faces rides coming out of Poundsgate.  With the toughest part of the Dartmoor Demon Sportive done, it’s not over yet as two more 20% ascents sit between the toughest climbing of the day and a finisher’s medal. Heading back through Haldon Forest to the racecourse finish point, every rider crossing the line will have a story to tell from a tough but rewarding day out riding.",
+    "distance": 0,
+    "elevation_gain": 0,
+    "difficulty": 8,
+    "url": ""
+  },
   {
-      "created_at": "2018-05-05T09:00:00Z",
-      "modified_on": "2018-05-03T01:16:00Z",
-      "gpx": "dartmoor-demon-2018-short.gpx",
-      "organiser": "sigma",
-      "name": "Dartmoor Demon - Short",
-      "description": "Be prepared for an eyeful of Devon’s most glorious countryside in the Sigma Sports Dartmoor Demon. Straight from the off, you’ll be marvelling at the stunning Haldon Forest before heading down the River Teign.  It won't be long before you see the last of civilisation for a few hours as the circle around and through Dartmoor National Park begins, which lead through quiet and sprawling lanes on undulating terrain.  As much as the moors are sparse, there’s enough to keep you interested as you tackle the short and punchy climbs throughout – not forgetting a few long ascents as well. Old brick bridges and deserted roads make up most of the scenery on the road as you pass through the National Park – before meeting and skirting around the ever-eerie and element-exposed HM Prison Dartmoor in Princetown.  Flatter terrain waits in the far side of the Park, while the pinch point of Buckfastleigh signals the start of the most testing climbing action that this event has to offer. Crossing the River Dart is a prelude to the 25% climb that faces rides coming out of Poundsgate.  With the toughest part of the Dartmoor Demon Sportive done, it’s not over yet as two more 20% ascents sit between the toughest climbing of the day and a finisher’s medal. Heading back through Haldon Forest to the racecourse finish point, every rider crossing the line will have a story to tell from a tough but rewarding day out riding.",
-      "distance": 0,
-      "elevation_gain": 0,
-      "difficulty": 7,
-      "url": ""
-    },
-    {
+    "created_at": "2018-05-05T09:00:00Z",
+    "modified_on": "2018-05-03T01:16:00Z",
+    "gpx": "dartmoor-demon-2018-short.gpx",
+    "organiser": "sigma",
+    "name": "Dartmoor Demon - Short",
+    "description": "Be prepared for an eyeful of Devon’s most glorious countryside in the Sigma Sports Dartmoor Demon. Straight from the off, you’ll be marvelling at the stunning Haldon Forest before heading down the River Teign.  It won't be long before you see the last of civilisation for a few hours as the circle around and through Dartmoor National Park begins, which lead through quiet and sprawling lanes on undulating terrain.  As much as the moors are sparse, there’s enough to keep you interested as you tackle the short and punchy climbs throughout – not forgetting a few long ascents as well. Old brick bridges and deserted roads make up most of the scenery on the road as you pass through the National Park – before meeting and skirting around the ever-eerie and element-exposed HM Prison Dartmoor in Princetown.  Flatter terrain waits in the far side of the Park, while the pinch point of Buckfastleigh signals the start of the most testing climbing action that this event has to offer. Crossing the River Dart is a prelude to the 25% climb that faces rides coming out of Poundsgate.  With the toughest part of the Dartmoor Demon Sportive done, it’s not over yet as two more 20% ascents sit between the toughest climbing of the day and a finisher’s medal. Heading back through Haldon Forest to the racecourse finish point, every rider crossing the line will have a story to tell from a tough but rewarding day out riding.",
+    "distance": 0,
+    "elevation_gain": 0,
+    "difficulty": 7,
+    "url": ""
+  },
+  {
     "created_at": "2018-11-10T15:00:00Z",
     "modified_on": "2018-05-03T01:03:00Z",
     "gpx": "kent-classic-2018-epic.gpx",
