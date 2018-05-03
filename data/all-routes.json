@@ -1,5 +1,41 @@
 [
   {
+      "created_at": "2018-05-19T09:00:00Z",
+      "modified_on": "2018-05-03T01:33:00Z",
+      "gpx": "ukce-wss-jurassic-beast-2018-epic.gpx",
+      "organiser": "wiggle",
+      "name": "Jurassic Beast - Epic",
+      "description": "With a mixture of spectacular views, leg-pumping climbs and historical scenery, the Wiggle Jurassic Beast Sportive has become a ‘must do’ ride for many cyclists and one of the most popular events in our sportive calendar.  Starting out at the National Tank Museum in Bovingdon, Epic riders split straight away as the route heads north and up through a series of unspoilt Dorset villages, skirting around the base of menacing-looking hills in the region, throwing in a short and sharp climb every now and again – while you’ll pass the first after mile 10 just past Milton Abbas.  Continuing on, the next spike in gradient will follow just a few miles later, just before Shillingstone, followed by another as you head towards Ansty Cross.  Pushing on through Dorset, you’ll continue to ride through the Area of Outstanding Natural Beauty and tackle another series of short and steep climbs.  Soon enough, it’s time to head towards the coast and take in the terrific views of Corfe Castle, Lulworth Cove and Poole Harbour that the Jurassic Beast sportive is renowned for. Views stretch out towards the Isle of Wight and make up for the up-and-down nature of the final few miles. Don’t miss this Sportive – it’s a ride worth taking.",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 9,
+      "url": ""
+    },
+  {
+      "created_at": "2018-05-19T09:00:00Z",
+      "modified_on": "2018-05-03T01:32:00Z",
+      "gpx": "ukce-wss-jurassic-beast-2018-std.gpx",
+      "organiser": "wiggle",
+      "name": "Jurassic Beast - Standard",
+      "description": "With a mixture of spectacular views, leg-pumping climbs and historical scenery, the Wiggle Jurassic Beast Sportive has become a ‘must do’ ride for many cyclists and one of the most popular events in our sportive calendar.  Starting out at the National Tank Museum in Bovingdon, Epic riders split straight away as the route heads north and up through a series of unspoilt Dorset villages, skirting around the base of menacing-looking hills in the region, throwing in a short and sharp climb every now and again – while you’ll pass the first after mile 10 just past Milton Abbas.  Continuing on, the next spike in gradient will follow just a few miles later, just before Shillingstone, followed by another as you head towards Ansty Cross.  Pushing on through Dorset, you’ll continue to ride through the Area of Outstanding Natural Beauty and tackle another series of short and steep climbs.  Soon enough, it’s time to head towards the coast and take in the terrific views of Corfe Castle, Lulworth Cove and Poole Harbour that the Jurassic Beast sportive is renowned for. Views stretch out towards the Isle of Wight and make up for the up-and-down nature of the final few miles. Don’t miss this Sportive – it’s a ride worth taking.",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 7,
+      "url": ""
+    },
+  {
+      "created_at": "2018-05-19T09:00:00Z",
+      "modified_on": "2018-05-03T01:31:00Z",
+      "gpx": "ukce-wss-jurassic-beast-2018-short.gpx",
+      "organiser": "wiggle",
+      "name": "Jurassic Beast - Short",
+      "description": "With a mixture of spectacular views, leg-pumping climbs and historical scenery, the Wiggle Jurassic Beast Sportive has become a ‘must do’ ride for many cyclists and one of the most popular events in our sportive calendar.  Starting out at the National Tank Museum in Bovingdon, Epic riders split straight away as the route heads north and up through a series of unspoilt Dorset villages, skirting around the base of menacing-looking hills in the region, throwing in a short and sharp climb every now and again – while you’ll pass the first after mile 10 just past Milton Abbas.  Continuing on, the next spike in gradient will follow just a few miles later, just before Shillingstone, followed by another as you head towards Ansty Cross.  Pushing on through Dorset, you’ll continue to ride through the Area of Outstanding Natural Beauty and tackle another series of short and steep climbs.  Soon enough, it’s time to head towards the coast and take in the terrific views of Corfe Castle, Lulworth Cove and Poole Harbour that the Jurassic Beast sportive is renowned for. Views stretch out towards the Isle of Wight and make up for the up-and-down nature of the final few miles. Don’t miss this Sportive – it’s a ride worth taking.",
+      "distance": 0,
+      "elevation_gain": 0,
+      "difficulty": 6,
+      "url": ""
+    },
+  {
       "created_at": "2018-05-13T09:00:00Z",
       "modified_on": "2018-05-03T01:29:00Z",
       "gpx": "ukce-le-classique-2018-epic.gpx",
