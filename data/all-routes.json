@@ -18,10 +18,10 @@
       "organiser": "wiggle",
       "name": "Jurassic Beast - Standard",
       "description": "With a mixture of spectacular views, leg-pumping climbs and historical scenery, the Wiggle Jurassic Beast Sportive has become a ‘must do’ ride for many cyclists and one of the most popular events in our sportive calendar.  Starting out at the National Tank Museum in Bovingdon, Epic riders split straight away as the route heads north and up through a series of unspoilt Dorset villages, skirting around the base of menacing-looking hills in the region, throwing in a short and sharp climb every now and again – while you’ll pass the first after mile 10 just past Milton Abbas.  Continuing on, the next spike in gradient will follow just a few miles later, just before Shillingstone, followed by another as you head towards Ansty Cross.  Pushing on through Dorset, you’ll continue to ride through the Area of Outstanding Natural Beauty and tackle another series of short and steep climbs.  Soon enough, it’s time to head towards the coast and take in the terrific views of Corfe Castle, Lulworth Cove and Poole Harbour that the Jurassic Beast sportive is renowned for. Views stretch out towards the Isle of Wight and make up for the up-and-down nature of the final few miles. Don’t miss this Sportive – it’s a ride worth taking.",
-      "distance": 58300,
-      "elevation_gain": 630,
+      "distance": 101700,
+      "elevation_gain": 1200,
       "difficulty": 7,
-      "url": "https://maps.openrouteservice.org/directions?n1=50.675893&n2=-2.222895&n3=12&a=50.69527,-2.24207,50.71875,-2.25159,50.7274,-2.33138,50.71108,-2.32738,50.70304,-2.28931,50.69527,-2.30202,50.68173,-2.29521,50.65826,-2.30287,50.64989,-2.2966,50.65787,-2.27451,50.62894,-2.26678,50.62429,-2.25117,50.63688,-2.21701,50.62975,-2.16252,50.64607,-2.11945,50.6702,-2.1137,50.67102,-2.15438,50.63934,-2.19889,50.65949,-2.22711,50.68941,-2.22091,50.69526,-2.24203&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
+      "url": "https://maps.openrouteservice.org/directions?n1=50.67699&n2=-2.245846&n3=12&a=50.69524,-2.24196,50.71877,-2.2517,50.7274,-2.33138,50.70304,-2.28931,50.65826,-2.30287,50.65787,-2.27451,50.62894,-2.26678,50.62058,-2.11306,50.64153,-2.05855,50.59777,-2.03733,50.612439,-1.971703,50.612003,-1.964074,50.611765,-1.961328,50.61197,-1.95794,50.63584,-1.98383,50.643338,-2.0544,50.64438,-2.06519,50.67842,-2.06433,50.67112,-2.1053,50.64275,-2.09698,50.642276,-2.109375,50.64026,-2.12419,50.6702,-2.1137,50.6711,-2.15318,50.63934,-2.19889,50.662085,-2.224045,50.69525,-2.24196&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
     },
   {
       "created_at": "2018-05-19T09:00:00Z",
@@ -30,10 +30,10 @@
       "organiser": "wiggle",
       "name": "Jurassic Beast - Short",
       "description": "With a mixture of spectacular views, leg-pumping climbs and historical scenery, the Wiggle Jurassic Beast Sportive has become a ‘must do’ ride for many cyclists and one of the most popular events in our sportive calendar.  Starting out at the National Tank Museum in Bovingdon, Epic riders split straight away as the route heads north and up through a series of unspoilt Dorset villages, skirting around the base of menacing-looking hills in the region, throwing in a short and sharp climb every now and again – while you’ll pass the first after mile 10 just past Milton Abbas.  Continuing on, the next spike in gradient will follow just a few miles later, just before Shillingstone, followed by another as you head towards Ansty Cross.  Pushing on through Dorset, you’ll continue to ride through the Area of Outstanding Natural Beauty and tackle another series of short and steep climbs.  Soon enough, it’s time to head towards the coast and take in the terrific views of Corfe Castle, Lulworth Cove and Poole Harbour that the Jurassic Beast sportive is renowned for. Views stretch out towards the Isle of Wight and make up for the up-and-down nature of the final few miles. Don’t miss this Sportive – it’s a ride worth taking.",
-      "distance": 0,
-      "elevation_gain": 0,
+      "distance": 58300,
+      "elevation_gain": 630,
       "difficulty": 6,
-      "url": ""
+      "url": "https://maps.openrouteservice.org/directions?n1=50.675893&n2=-2.222895&n3=12&a=50.69527,-2.24207,50.71875,-2.25159,50.7274,-2.33138,50.71108,-2.32738,50.70304,-2.28931,50.69527,-2.30202,50.68173,-2.29521,50.65826,-2.30287,50.64989,-2.2966,50.65787,-2.27451,50.62894,-2.26678,50.62429,-2.25117,50.63688,-2.21701,50.62975,-2.16252,50.64607,-2.11945,50.6702,-2.1137,50.67102,-2.15438,50.63934,-2.19889,50.65949,-2.22711,50.68941,-2.22091,50.69526,-2.24203&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
     },
   {
       "created_at": "2018-05-13T09:00:00Z",
