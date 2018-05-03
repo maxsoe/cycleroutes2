@@ -283,10 +283,10 @@
     "organiser": "altura",
     "name": "Forest of Bowland - Epic",
     "description": "The Altura Forest of Bowland Sportive is a tough early-season test for the legs with over 8,000ft of climbing to tackle but you will be given just reward with superb sights and scenery as the Cumbria sportive rolls through two Areas of Outstanding Natural Beauty.  At the start, the sportive leads out towards Milnthorpe Sands as the route enters its first Area of Outstanding Natural Beauty of the day, Arnside and Silverdale.  After a stint on the River Kent, the route dives south to Carnforth and on to the first course split. Short riders peel off west while Standard and Epic participants bear south to our second AONB of the day, the Forest of Bowland, where the course centres its loop for much of the rest of the ride, while also bringing about one of the toughest challenges in the Trough of Bowland.  Winding its way through the surrounding fells and rivers, the course gives some of the best views the area has to offer. Reaching Dunsop Bridge the course splits for the last time as Standard riders head west and Epic entrants continue south for an additional 1,500ft of climbing.  Reaching the edge of Clitheroe, the sportive heads north, climbing up to the top of the Newton Fells before descending to continue onto Slaidburn. The return leg across the Forest of Bowland climbs higher than before, granting you glorious views of the Tatham Fells until you reach High Bentham, at which point the route heads east through the village of Hornby.  Leaving the National Park at Gressingham, the route continues to wind its way north for the final miles until reaching the finish line, where a medal and t-shirt will be given to riders upon completing this rewarding riding test.",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 161600,
+    "elevation_gain": 2400,
     "difficulty": 9,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=53.884107&n2=-2.399139&n3=9&a=54.23386,-2.71313,54.20326,-2.73094,54.22821,-2.76449,54.20167,-2.82733,54.1933,-2.79683,54.16118,-2.80517,54.138708,-2.773705,54.12928,-2.77009,54.12341,-2.69422,54.08706,-2.74247,54.06548,-2.7187,54.02915,-2.75316,53.94539,-2.52359,53.90345,-2.50033,53.86415,-2.55383,53.86197,-2.42684,53.89048,-2.41425,53.909799,-2.426262,53.94947,-2.46216,53.96653,-2.43981,54.00973,-2.4424,54.05079,-2.4952,54.118,-2.51014,54.1014,-2.60704,54.123419,-2.652855,54.12501,-2.66937,54.16163,-2.643414,54.18049,-2.61167,54.18685,-2.651138,54.17848,-2.72253,54.23388,-2.71314&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-04-15T15:00:00Z",
