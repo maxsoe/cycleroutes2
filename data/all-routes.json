@@ -175,10 +175,10 @@
     "organiser": "sigma",
     "name": "The Arrow - Epic",
     "description": "Taking its name from the typically flat lands in Lincolnshire and the surrounding area, you’ll glide through the level plains on the Sigma Sports' Arrow Sportive like a dart through the air – save for an unlikely uphill test that waits for tired legs at the end of the ride. You’ll start out on Market Rasen Racecourse and head south, straight onto quiet roads. The first part of the course points more downhill than the even gradient the area is famous for – so make the most of the slightly sloping angle as you pass through sleepy village after sleepy village, linked by unspoilt country lanes. Heading towards Lincoln, the first climb of the day will present itself just after Canwick. It’s steep but quick and easy to deal with after a little exertion.  Once this has passed, it’s onto the long, straight open roads as far south as Ruskington in the North Kesteven District – giving you through opportunity to set your own pace on terrain that remains relatively flat.  Crossing over a series of dykes and small rivers, you’ll head to Woodhall Spa and Bucknall, where the terrain slowly begins to rise, as you cling to the Lincolnshire Wolds for the next 15 miles until the finish line is in sight, from here it is a flat run in to Market Rasen.",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 162500,
+    "elevation_gain": 813,
     "difficulty": 4,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=53.257204&n2=-0.258522&n3=11&a=53.37851,-0.31415,53.37016,-0.28705,53.33905,-0.29442,53.323594,-0.319376,53.3191,-0.37736,53.28856,-0.40734,53.21275,-0.32007,53.19746,-0.39469,53.21966,-0.43021,53.222428,-0.457478,53.223687,-0.469204,53.221863,-0.494728,53.21752,-0.53096,53.15472,-0.42327,53.14399,-0.417995,53.135856,-0.410872,53.04458,-0.3951,53.06663,-0.28836,53.12292,-0.34764,53.129985,-0.281181,53.15779,-0.19082,53.20053,-0.13015,53.21479,-0.16661,53.19665,-0.23722,53.21579,-0.24381,53.26864,-0.03876,53.32913,-0.10835,53.33323,-0.20573,53.3673,-0.24263,53.37851,-0.31415&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-04-29T15:00:00Z",
