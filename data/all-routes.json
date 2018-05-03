@@ -451,10 +451,10 @@
     "organiser": "wiggle",
     "name": "Spring Saddle - Short`",
     "description": "The heritage of the humble saddle is strong around the Newmarket area – albeit with a different type of riding as this sportive leads out from the Rowley Mile Racecourse of Newmarket Racecourses. Much like a horse racing course, the route is filled with flat and consistent terrain, leaving no excuse for stragglers to be behind by the first hurdle. You’ll cross through Suffolk, Cambridgeshire and Essex in this tri-county sportive, which begins by heading south, picking up the River Stour around Brinkley, which you’ll follow for a short while until reaching the outskirts of Haverhill. Taking in sleepy villages with their idyllic churches and greens typical of the area, you’ll press forward without the interruption from hills or climbing on this free-flowing ride. Entering into Essex for a few miles, you’ll pass through historic towns such as Thaxted, with its age-old buildings lining the High Street. Continuing on, it’s a simple case of chewing away the miles left to go as the flat scenery enables you to push on at your own pace. You’ll soon reach Suffolk again and cross the River Stour once more. A series of flat miles and pretty villages lie on the final straight between you and a finish",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 64200,
+    "elevation_gain": 511,
     "difficulty": 2,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=52.180142&n2=0.465031&n3=12&a=52.2387,0.37273,52.23834,0.39913,52.20411,0.38196,52.18016,0.38529,52.15109,0.4397,52.10673,0.46256,52.09328,0.48117,52.09407,0.54727,52.07211,0.54819,52.07742,0.58101,52.1103,0.58441,52.14407,0.60513,52.14818,0.55315,52.15847,0.55454,52.17673,0.52422,52.18025,0.44621,52.24083,0.39775,52.23876,0.37397&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2010-04-10T09:00:00Z",
