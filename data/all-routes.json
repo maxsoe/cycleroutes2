@@ -391,10 +391,10 @@
     "organiser": "sigma",
     "name": "South Downs Spring - Epic",
     "description": "If you haven’t blown the winter cobwebs off your bike with a fast and free-flowing ride this far into the year, the Sigma Sports South Downs Spring Sportive, set amongst the stunning South Downs of Sussex, is likely just the event to ease you back into the saddle.  Not forgetting this ride’s challenging hills, this South Downs Sportive matches great climbs with the best descents that sprawl through stunning open country lanes.  Kicking off in pretty Plumpton, the route heads east on unassuming back roads that can be taken at speed if so desired. As much as the hills on this route are a welcome challenge, you’ll be out of your saddle and counting on every last bit of winter training you have for the toughest ascents.  Flirting with the most infamous hills in the area, riders are taken around the base of some fearsome climbs but the route tends to stick to luxurious rolling roads tucked away from traffic. Exploring East Sussex, sleepy villages are taken in one by one before reaching the outskirts of Heathfield – but this ride stays true to its countryside routes as it soon reaches back into the wilderness.  Taking in a loop out past Five Ashes and back past High Hurstwood, you’ll be taken past Buxted and towards Uckfield on roads that remain mostly flat, quiet and long ranging. The route then leads north before crossing back into Mid-Sussex and turning south just before it crosses the River Ouse. A shining sun and helpful tailwind are enough to push you along for one last boost towards the finish line – which finishes on a mostly downward slope. You’ll cross the finish line feeling enthralled.",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 128200,
+    "elevation_gain": 1300,
     "difficulty": 7,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=50.923597&n2=0.060768&n3=11&a=50.92404,-0.06471,50.9018,-0.0616,50.92745,-0.04213,50.904927,-0.030556,50.89171,-0.00997,50.91991,0.027,50.89643,0.05315,50.904332,0.064373,50.91686,0.12348,50.890798,0.136127,50.87787,0.13063,50.8646,0.15941,50.91032,0.20997,50.92999,0.18469,50.943287,0.20359,50.968373,0.207882,50.97244,0.20788,50.977561,0.193462,50.97874,0.17631,50.988044,0.183163,50.993825,0.182133,51.013971,0.199299,51.02103,0.22726,51.04204,0.18169,51.01783,0.16346,50.999821,0.176125,50.97863,0.17624,50.983397,0.150375,50.97511,0.12448,50.96513,0.133724,50.92956,0.09857,50.93774,0.06139,50.98101,0.0553,50.94188,-0.022831,50.93837,-0.03135,50.94745,-0.05868,50.9664,-0.04516,50.9635,-0.07527,50.90675,-0.09799,50.90204,-0.06185,50.92403,-0.0647&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-04-07T15:00:00Z",
