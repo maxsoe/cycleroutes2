@@ -367,10 +367,10 @@
     "organiser": "wiggle",
     "name": "Vale Vélo - Standard",
     "description": "The Wiggle Vale Velo is an early-season sportive designed to get you back into your best form and ready for the rest of the riding calendar, by taking you around the ever-popular cycling haven that is North Yorkshire.  The course allows you to chip away at the miles while tackling occasionally testing terrain. With almost 4,000ft of climbing over the Epic route, this is a quick and speedy course, presenting to you some of the best views the Vale of York and the Yorkshire Wolds have to offer, while also providing an early-year wake-up call for the legs.  Cycling in North Yorkshire  Starting from the York Auction Centre, the course heads straight out onto the roads of the stunning North Yorkshire district, while also threading through the quaint and typically pretty villages of the area. First, the route bears east, taking you past the historic battleground of Stamford Bridge, before heading up to Low Callis Wold.  At this point, riders of the Short course split off and head north to re-join the course at Leavening, while Epic and Standard riders continue east to pass through North Dalton, soon to take their own path north  Once again, the course splits shortly after, just before Sledmere House, sending Standard riders west as Epic riders continue to ride east even further, to the farthest point on the course in Rudston. Here, we start to head for home, and as the finish closes in, two final climbs lay in wait before the long, gradual descent back to York.  The Wiggle Vale Velo Sportive is ideal for those wanting to get some training in and, considering the distances, isn't too harsh on the legs. That said, there are a few nice and challenging climbs along the Epic route, so don't partake thinking it will be a ride in the park. It's not. It's a ride through the stunning North Yorkshire countryside.",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 117700,
+    "elevation_gain": 1000,
     "difficulty": 4,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=54.010593&n2=-0.905685&n3=10&a=53.96176,-1.00791,53.98701,-1.0178,54.00672,-0.98282,53.99617,-0.94395,54.02035,-0.935,53.96415,-0.86916,53.96913,-0.83482,53.93401,-0.78383,54.00263,-0.70603,53.95779,-0.57602,53.96617,-0.53309,54.01956,-0.57611,54.041248,-0.581589,54.06879,-0.5827,54.09882,-0.71748,54.09592,-0.75813,54.06044,-0.77078,54.05757,-0.80305,54.076714,-0.793076,54.09139,-0.80986,54.05043,-0.89696,53.99617,-0.94395,53.979815,-0.997009,53.96176,-1.00791&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-04-07T15:00:00Z",
