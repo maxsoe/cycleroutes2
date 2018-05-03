@@ -427,10 +427,10 @@
     "organiser": "wiggle",
     "name": "Spring Saddle Sportive - Epic",
     "description": "The heritage of the humble saddle is strong around the Newmarket area – albeit with a different type of riding as this sportive leads out from the Rowley Mile Racecourse of Newmarket Racecourses. Much like a horse racing course, the route is filled with flat and consistent terrain, leaving no excuse for stragglers to be behind by the first hurdle. You’ll cross through Suffolk, Cambridgeshire and Essex in this tri-county sportive, which begins by heading south, picking up the River Stour around Brinkley, which you’ll follow for a short while until reaching the outskirts of Haverhill. Taking in sleepy villages with their idyllic churches and greens typical of the area, you’ll press forward without the interruption from hills or climbing on this free-flowing ride. Entering into Essex for a few miles, you’ll pass through historic towns such as Thaxted, with its age-old buildings lining the High Street. Continuing on, it’s a simple case of chewing away the miles left to go as the flat scenery enables you to push on at your own pace. You’ll soon reach Suffolk again and cross the River Stour once more. A series of flat miles and pretty villages lie on the final straight between you and a finish",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 160600,
+    "elevation_gain": 1200,
     "difficulty": 5,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=52.107138&n2=0.489235&n3=11&a=52.238721,0.373299,52.23834,0.39913,52.18016,0.38529,52.15109,0.4397,52.08697,0.48327,52.04113,0.44117,52.08219,0.3101,52.01332,0.34778,51.98369,0.26229,51.96464,0.29939,51.94528,0.27438,51.9035,0.31366,51.90513,0.34111,51.95198,0.34737,51.95288,0.41902,51.985303,0.403748,52.00417,0.37328,52.02637,0.39416,52.03231,0.41738,51.97879,0.44005,51.96617,0.46986,51.996719,0.526657,52.05664,0.62255,52.07487,0.57711,52.14407,0.60513,52.151187,0.55275,52.18025,0.44621,52.24083,0.39775,52.23883,0.372875&b=1c&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-03-25T12:00:00Z",
