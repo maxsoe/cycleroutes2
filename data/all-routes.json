@@ -103,10 +103,10 @@
     "organiser": "sigma",
     "name": "Dartmoor Demon - Epic",
     "description": "Be prepared for an eyeful of Devon’s most glorious countryside in the Sigma Sports Dartmoor Demon. Straight from the off, you’ll be marvelling at the stunning Haldon Forest before heading down the River Teign.  It won't be long before you see the last of civilisation for a few hours as the circle around and through Dartmoor National Park begins, which lead through quiet and sprawling lanes on undulating terrain.  As much as the moors are sparse, there’s enough to keep you interested as you tackle the short and punchy climbs throughout – not forgetting a few long ascents as well. Old brick bridges and deserted roads make up most of the scenery on the road as you pass through the National Park – before meeting and skirting around the ever-eerie and element-exposed HM Prison Dartmoor in Princetown.  Flatter terrain waits in the far side of the Park, while the pinch point of Buckfastleigh signals the start of the most testing climbing action that this event has to offer. Crossing the River Dart is a prelude to the 25% climb that faces rides coming out of Poundsgate.  With the toughest part of the Dartmoor Demon Sportive done, it’s not over yet as two more 20% ascents sit between the toughest climbing of the day and a finisher’s medal. Heading back through Haldon Forest to the racecourse finish point, every rider crossing the line will have a story to tell from a tough but rewarding day out riding.",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 141300,
+    "elevation_gain": 2700,
     "difficulty": 10,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=50.662955&n2=-3.818436&n3=10&a=50.64208,-3.55973,50.66447,-3.59421,50.71162,-3.56949,50.691673,-3.662224,50.677099,-3.714495,50.66305,-3.731618,50.662085,-3.749771,50.654848,-3.784189,50.65403,-3.79942,50.48138,-4.06916,50.4705,-4.04024,50.44127,-4.04307,50.39317,-3.93288,50.39495,-3.88298,50.403485,-3.823071,50.414862,-3.839207,50.438375,-3.819551,50.475697,-3.78406,50.479302,-3.778567,50.509647,-3.765113,50.51026,-3.76457,50.52623,-3.82394,50.54916,-3.83597,50.57671,-3.81171,50.590212,-3.703766,50.589667,-3.664885,50.58519,-3.63154,50.598712,-3.606606,50.636397,-3.582916,50.6494,-3.57686,50.64208,-3.55973&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-05-05T09:00:00Z",
@@ -115,10 +115,10 @@
     "organiser": "sigma",
     "name": "Dartmoor Demon - Standard",
     "description": "Be prepared for an eyeful of Devon’s most glorious countryside in the Sigma Sports Dartmoor Demon. Straight from the off, you’ll be marvelling at the stunning Haldon Forest before heading down the River Teign.  It won't be long before you see the last of civilisation for a few hours as the circle around and through Dartmoor National Park begins, which lead through quiet and sprawling lanes on undulating terrain.  As much as the moors are sparse, there’s enough to keep you interested as you tackle the short and punchy climbs throughout – not forgetting a few long ascents as well. Old brick bridges and deserted roads make up most of the scenery on the road as you pass through the National Park – before meeting and skirting around the ever-eerie and element-exposed HM Prison Dartmoor in Princetown.  Flatter terrain waits in the far side of the Park, while the pinch point of Buckfastleigh signals the start of the most testing climbing action that this event has to offer. Crossing the River Dart is a prelude to the 25% climb that faces rides coming out of Poundsgate.  With the toughest part of the Dartmoor Demon Sportive done, it’s not over yet as two more 20% ascents sit between the toughest climbing of the day and a finisher’s medal. Heading back through Haldon Forest to the racecourse finish point, every rider crossing the line will have a story to tell from a tough but rewarding day out riding.",
-    "distance": 0,
-    "elevation_gain": 0,
+    "distance": 80000,
+    "elevation_gain": 1600,
     "difficulty": 8,
-    "url": ""
+    "url": "https://maps.openrouteservice.org/directions?n1=50.664696&n2=-3.698959&n3=10&a=50.64201,-3.5596,50.66758,-3.59451,50.70545,-3.55687,50.709287,-3.573303,50.70857,-3.60813,50.682102,-3.690033,50.677044,-3.714409,50.662901,-3.730888,50.663336,-3.748569,50.655011,-3.783073,50.64816,-3.81705,50.59296,-3.91379,50.564267,-3.851566,50.562032,-3.833885,50.59171,-3.685012,50.59043,-3.666902,50.58478,-3.63387,50.599393,-3.606305,50.637568,-3.581972,50.6494,-3.57686,50.64201,-3.5596&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km"
   },
   {
     "created_at": "2018-05-05T09:00:00Z",
